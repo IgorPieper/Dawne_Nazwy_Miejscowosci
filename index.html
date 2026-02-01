@@ -6,493 +6,232 @@
   <title>Dawne Nazwy Miejscowości</title>
   <meta name="description" content="Wyszukiwarka dawnych i alternatywnych nazw polskich miejscowości." />
   <meta name="color-scheme" content="light dark" />
+
   <style>
     :root{
-      --bg: #0b1020;
-      --card: rgba(255,255,255,0.06);
-      --card2: rgba(255,255,255,0.08);
-      --text: rgba(255,255,255,0.92);
-      --muted: rgba(255,255,255,0.66);
-      --border: rgba(255,255,255,0.14);
-      --shadow: 0 22px 70px rgba(0,0,0,0.35);
-      --r: 18px;
-      --r2: 14px;
-      --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
-      --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-      --a1: #7c5cff;
-      --a2: #35d0ff;
-      --warn: #fbbf24;
+      --bg:#0b1020;
+      --card:rgba(255,255,255,.06);
+      --card2:rgba(255,255,255,.08);
+      --text:rgba(255,255,255,.92);
+      --muted:rgba(255,255,255,.66);
+      --border:rgba(255,255,255,.14);
+      --shadow:0 22px 70px rgba(0,0,0,.35);
+      --r:18px;
+      --r2:14px;
+      --sans:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+      --mono:ui-monospace,Menlo,Consolas,monospace;
+      --a1:#7c5cff;
+      --a2:#35d0ff;
     }
     @media (prefers-color-scheme: light){
       :root{
         --bg:#f7f8fb;
-        --card: rgba(0,0,0,0.04);
-        --card2: rgba(0,0,0,0.06);
-        --text: rgba(0,0,0,0.88);
-        --muted: rgba(0,0,0,0.60);
-        --border: rgba(0,0,0,0.12);
-        --shadow: 0 18px 55px rgba(0,0,0,0.12);
+        --card:rgba(0,0,0,.04);
+        --card2:rgba(0,0,0,.06);
+        --text:rgba(0,0,0,.88);
+        --muted:rgba(0,0,0,.6);
+        --border:rgba(0,0,0,.12);
+        --shadow:0 18px 55px rgba(0,0,0,.12);
       }
     }
 
-    *{ box-sizing:border-box; }
-    html,body{ height:100%; }
+    *{box-sizing:border-box}
     body{
       margin:0;
-      font-family: var(--sans);
-      color: var(--text);
+      font-family:var(--sans);
+      color:var(--text);
       background:
-        radial-gradient(1200px 700px at 15% 0%, rgba(124,92,255,0.35), transparent 60%),
-        radial-gradient(900px 600px at 90% 10%, rgba(53,208,255,0.25), transparent 55%),
+        radial-gradient(1200px 700px at 15% 0%, rgba(124,92,255,.35), transparent 60%),
+        radial-gradient(900px 600px at 90% 10%, rgba(53,208,255,.25), transparent 55%),
         var(--bg);
     }
-
-    .wrap{ max-width: 1100px; margin:0 auto; padding: 40px 20px 70px; }
+    .wrap{max-width:1100px;margin:0 auto;padding:40px 20px 70px}
 
     .topbar{
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:12px;
-      margin-bottom: 18px;
+      display:flex;justify-content:space-between;align-items:center;margin-bottom:18px
     }
-
-    .brand{
-      display:flex;
-      align-items:center;
-      gap:10px;
-      text-decoration:none;
-      color:inherit;
-    }
-
+    .brand{display:flex;gap:10px;align-items:center;font-weight:800}
     .logo{
-      width:34px; height:34px; border-radius: 12px;
-      background: linear-gradient(135deg, var(--a1), var(--a2));
-      box-shadow: 0 12px 35px rgba(124,92,255,0.25);
-      flex:0 0 auto;
+      width:34px;height:34px;border-radius:12px;
+      background:linear-gradient(135deg,var(--a1),var(--a2))
     }
-
-    .brand span{
-      font-weight: 800;
-      letter-spacing:-0.02em;
-    }
-
     .pill{
-      display:inline-flex;
-      align-items:center;
-      gap:8px;
-      padding: 8px 12px;
-      border: 1px solid var(--border);
-      border-radius: 999px;
-      background: var(--card);
-      color: var(--muted);
-      font-size: 13px;
-      white-space: nowrap;
+      padding:8px 12px;border-radius:999px;
+      border:1px solid var(--border);
+      background:var(--card);
+      font-size:13px;color:var(--muted)
     }
 
     header{
-      padding: 22px 22px 18px;
-      border: 1px solid var(--border);
-      background: linear-gradient(180deg, var(--card2), var(--card));
-      border-radius: var(--r);
-      box-shadow: var(--shadow);
-      backdrop-filter: blur(10px);
+      padding:22px;
+      border-radius:var(--r);
+      border:1px solid var(--border);
+      background:linear-gradient(180deg,var(--card2),var(--card));
+      box-shadow:var(--shadow)
     }
+    h1{margin:0;font-size:clamp(26px,3vw,42px)}
+    .sub{margin:10px 0 0;color:var(--muted)}
 
-    h1{
-      margin:0;
-      font-size: clamp(26px, 3.3vw, 42px);
-      letter-spacing: -0.04em;
-      line-height: 1.08;
-    }
-
-    .sub{
-      margin: 10px 0 0;
-      color: var(--muted);
-      font-size: 15px;
-      line-height: 1.45;
-      max-width: 80ch;
-    }
-
-    .search{ margin-top: 16px; display:grid; gap: 12px; }
-
+    .search{margin-top:16px;display:grid;gap:12px}
     .searchbox{
-      display:flex;
-      align-items:center;
-      gap: 10px;
-      padding: 12px 14px;
-      border-radius: var(--r2);
-      border: 1px solid var(--border);
-      background: rgba(255,255,255,0.03);
+      display:flex;gap:10px;align-items:center;
+      padding:12px 14px;border-radius:var(--r2);
+      border:1px solid var(--border);background:rgba(255,255,255,.03)
     }
-    @media (prefers-color-scheme: light){
-      .searchbox{ background: rgba(255,255,255,0.7); }
+    input{
+      width:100%;border:none;background:none;color:inherit;font-size:16px;outline:none
     }
-
-    .icon{ width: 18px; height: 18px; opacity: 0.75; flex:0 0 auto; }
-
-    input[type="text"]{
-      width:100%;
-      border:none;
-      outline:none;
-      background: transparent;
-      color: var(--text);
-      font-size: 16px;
-      line-height: 1.2;
-    }
-    input::placeholder{ color: rgba(255,255,255,0.45); }
-    @media (prefers-color-scheme: light){
-      input::placeholder{ color: rgba(0,0,0,0.38); }
-    }
-
     .btn{
-      display:inline-flex;
-      align-items:center;
-      gap:10px;
-      padding: 10px 12px;
-      border-radius: 12px;
-      border: 1px solid var(--border);
-      background: var(--card);
-      color: var(--text);
-      font-size: 13px;
-      cursor:pointer;
-      user-select:none;
-    }
-    .btn:hover{ background: rgba(255,255,255,0.09); }
-    @media (prefers-color-scheme: light){
-      .btn:hover{ background: rgba(0,0,0,0.06); }
+      padding:8px 12px;border-radius:10px;
+      border:1px solid var(--border);background:var(--card);color:inherit;cursor:pointer
     }
 
-    .controls{
-      display:flex;
-      gap:10px;
-      flex-wrap: wrap;
-      align-items:center;
-      justify-content: space-between;
-    }
-
-    .toggles{
-      display:flex;
-      gap:10px;
-      flex-wrap: wrap;
-      align-items:center;
-    }
-
+    .controls{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
     .toggle{
-      display:inline-flex;
-      align-items:center;
-      gap:10px;
-      padding: 10px 12px;
-      border-radius: 999px;
-      border: 1px solid var(--border);
-      background: var(--card);
-      color: var(--muted);
-      font-size: 13px;
-      user-select:none;
-      cursor:pointer;
+      display:flex;gap:8px;align-items:center;
+      padding:8px 12px;border-radius:999px;
+      border:1px solid var(--border);background:var(--card);font-size:13px
     }
-    .toggle input{ display:none; }
-
+    .toggle input{display:none}
     .dot{
-      width: 10px; height: 10px; border-radius:999px;
-      border: 1px solid var(--border);
-      background: transparent;
-      box-shadow: inset 0 0 0 2px transparent;
+      width:10px;height:10px;border-radius:50%;
+      border:1px solid var(--border)
     }
     .toggle input:checked + .dot{
-      background: linear-gradient(135deg, var(--a1), var(--a2));
-      border-color: transparent;
-      box-shadow: 0 0 0 4px rgba(124,92,255,0.18);
+      background:linear-gradient(135deg,var(--a1),var(--a2))
     }
 
-    main{ margin-top: 16px; }
-
-    .grid{ display:grid; grid-template-columns: repeat(12, 1fr); gap: 12px; }
-
-    .cardItem{
-      grid-column: span 12;
-      border-radius: var(--r);
-      border: 1px solid var(--border);
-      background: linear-gradient(180deg, var(--card2), var(--card));
-      padding: 16px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.12);
-      backdrop-filter: blur(10px);
+    .status{
+      display:flex;justify-content:space-between;
+      margin:14px 4px;font-size:13px;color:var(--muted);flex-wrap:wrap
     }
-    @media (min-width: 820px){ .cardItem{ grid-column: span 6; } }
-
-    .name{
-      font-weight: 900;
-      letter-spacing: -0.02em;
-      font-size: 18px;
-      margin: 0;
-      line-height: 1.2;
+    .kbd{
+      font-family:var(--mono);font-size:12px;
+      padding:2px 6px;border-radius:6px;
+      border:1px solid var(--border)
     }
 
-    .loc{
-      margin-top: 6px;
-      color: var(--muted);
-      font-size: 13px;
+    main{margin-top:16px}
+    .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:12px}
+    .card{
+      grid-column:span 12;
+      padding:16px;border-radius:var(--r);
+      border:1px solid var(--border);
+      background:linear-gradient(180deg,var(--card2),var(--card))
     }
-
-    .chips{ margin-top: 12px; display:flex; flex-wrap: wrap; gap: 8px; }
-
+    @media(min-width:820px){.card{grid-column:span 6}}
+    .name{font-weight:900;font-size:18px}
+    .loc{font-size:13px;color:var(--muted);margin-top:4px}
+    .chips{margin-top:10px;display:flex;gap:8px;flex-wrap:wrap}
     .chip{
-      display:inline-flex;
-      align-items:center;
-      padding: 7px 10px;
-      border-radius: 999px;
-      border: 1px solid var(--border);
-      background: rgba(255,255,255,0.03);
-      font-size: 13px;
-      color: var(--text);
+      padding:6px 10px;border-radius:999px;
+      border:1px solid var(--border);font-size:13px
     }
-    @media (prefers-color-scheme: light){
-      .chip{ background: rgba(255,255,255,0.65); }
-    }
-
-    mark{
-      background: rgba(251,191,36,0.25);
-      color: inherit;
-      padding: 0 2px;
-      border-radius: 4px;
-    }
+    mark{background:rgba(251,191,36,.25)}
   </style>
 </head>
 
 <body>
-  <div class="wrap">
-    <div class="topbar">
-      <a class="brand" href="#" onclick="return false;">
-        <div class="logo" aria-hidden="true"></div>
-        <span>Dawne Nazwy Miejscowości</span>
-      </a>
-      <div class="pill" id="metaPill">Wczytuję…</div>
-    </div>
+<div class="wrap">
 
-    <header>
-      <h1>Wyszukiwarka nazw miejscowości</h1>
-      <p class="sub">
-        Szukaj po nazwie obecnej albo innej (dawnej/obcojęzycznej). Wyniki pokazują lokalizację, żeby nie mylić miejsc o tej samej nazwie.
-      </p>
-
-      <div class="search">
-        <div class="searchbox">
-          <svg class="icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-            <path d="M10.5 18a7.5 7.5 0 1 1 0-15 7.5 7.5 0 0 1 0 15Z" stroke="currentColor" stroke-width="2"/>
-            <path d="M16.5 16.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-          </svg>
-          <input id="q" type="text" placeholder="Np. Wrocław, Nowa Wieś, Breslau, Danzig…" autocomplete="off" />
-          <button class="btn" id="clearBtn" title="Wyczyść">Wyczyść</button>
-        </div>
-
-        <div class="controls">
-          <div class="toggles">
-            <label class="toggle" title="Szukaj w: nazwa">
-              <input id="tName" type="checkbox" checked />
-              <span class="dot" aria-hidden="true"></span>
-              Nazwa
-            </label>
-            <label class="toggle" title="Szukaj w: inne_nazwy">
-              <input id="tAlt" type="checkbox" checked />
-              <span class="dot" aria-hidden="true"></span>
-              Inne nazwy
-            </label>
-            <label class="toggle" title="Szukaj w: lokalizacja">
-              <input id="tLoc" type="checkbox" />
-              <span class="dot" aria-hidden="true"></span>
-              Lokalizacja
-            </label>
-          </div>
-
-          <button class="btn" id="copyBtn" title="Kopiuj widoczne wyniki">Kopiuj wyniki</button>
-        </div>
-      </div>
-    </header>
-
-    <main>
-      <div id="results" class="grid"></div>
-    </main>
+  <div class="topbar">
+    <div class="brand"><div class="logo"></div>Dawne Nazwy Miejscowości</div>
+    <div class="pill" id="metaPill">Wczytuję…</div>
   </div>
 
-  <script>
-    // Wszystko jest w root
-    const DATA_URL = "Miejscowosci.json";
+  <header>
+    <h1>Wyszukiwarka nazw miejscowości</h1>
+    <p class="sub">Szukaj po nazwie obecnej, dawnej lub obcojęzycznej.</p>
 
-    const els = {
-      q: document.getElementById("q"),
-      results: document.getElementById("results"),
-      metaPill: document.getElementById("metaPill"),
-      tName: document.getElementById("tName"),
-      tAlt: document.getElementById("tAlt"),
-      tLoc: document.getElementById("tLoc"),
-      clearBtn: document.getElementById("clearBtn"),
-      copyBtn: document.getElementById("copyBtn")
-    };
+    <div class="search">
+      <div class="searchbox">
+        <input id="q" placeholder="Np. Wrocław, Breslau, Danzig…" />
+        <button class="btn" id="clearBtn">Wyczyść</button>
+      </div>
 
-    let db = [];
-    let lastRendered = [];
+      <div class="controls">
+        <div style="display:flex;gap:8px;flex-wrap:wrap">
+          <label class="toggle"><input id="tName" checked><span class="dot"></span>Nazwa</label>
+          <label class="toggle"><input id="tAlt" checked><span class="dot"></span>Inne nazwy</label>
+          <label class="toggle"><input id="tLoc"><span class="dot"></span>Lokalizacja</label>
+        </div>
+        <button class="btn" id="copyBtn">Kopiuj wyniki</button>
+      </div>
+    </div>
+  </header>
 
-    function norm(s){
-      return (s ?? "").toString().trim().replace(/\s+/g, " ").toLowerCase();
-    }
-    function escapeHtml(str){
-      return (str ?? "").toString()
-        .replaceAll("&","&amp;")
-        .replaceAll("<","&lt;")
-        .replaceAll(">","&gt;")
-        .replaceAll('"',"&quot;")
-        .replaceAll("'","&#039;");
-    }
-    function highlight(text, query){
-      if(!query) return escapeHtml(text);
-      const t = (text ?? "").toString();
-      const nt = t.toLowerCase();
-      const nq = query.toLowerCase();
-      const i = nt.indexOf(nq);
-      if(i < 0) return escapeHtml(t);
-      const before = escapeHtml(t.slice(0, i));
-      const mid = escapeHtml(t.slice(i, i + query.length));
-      const after = escapeHtml(t.slice(i + query.length));
-      return `${before}<mark>${mid}</mark>${after}`;
-    }
+  <div class="status">
+    <div id="statusLeft">Wpisz frazę, aby zobaczyć wyniki.</div>
+    <div><span class="kbd">/</span> fokus • <span class="kbd">Esc</span> wyczyść</div>
+  </div>
 
-    function scoreEntry(e, q, flags){
-      const nName = norm(e.nazwa);
-      const nLoc = norm(e.lokalizacja);
-      const nAlt = (e.inne_nazwy || []).map(norm);
+  <main>
+    <div id="results" class="grid"></div>
+  </main>
+</div>
 
-      let score = 0;
-      const where = {name:false, alt:false, loc:false};
+<script>
+const DATA_URL = "Miejscowosci.json";
 
-      if(flags.name && nName.includes(q)){ score += 5; where.name = true; }
-      if(flags.alt){
-        for(const a of nAlt){
-          if(a.includes(q)){ score += 3; where.alt = true; break; }
-        }
-      }
-      if(flags.loc && nLoc.includes(q)){ score += 2; where.loc = true; }
+const els = {
+  q: q,
+  results,
+  metaPill,
+  statusLeft,
+  tName,
+  tAlt,
+  tLoc,
+  clearBtn,
+  copyBtn
+};
 
-      return {score, where};
-    }
+let db = [];
 
-    function render(items, rawQuery){
-      els.results.innerHTML = "";
-      const frag = document.createDocumentFragment();
+const norm = s => (s||"").toLowerCase();
+const esc = s => s.replace(/[&<>"']/g,m=>({ "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;" }[m]));
 
-      for(const it of items){
-        const e = it.entry;
-        const card = document.createElement("div");
-        card.className = "cardItem";
+function render(list, q){
+  els.results.innerHTML="";
+  for(const e of list){
+    const card=document.createElement("div");
+    card.className="card";
+    card.innerHTML=`
+      <div class="name">${esc(e.nazwa)}</div>
+      <div class="loc">${esc(e.lokalizacja||"")}</div>
+      <div class="chips">${
+        (e.inne_nazwy||[]).map(n=>`<span class="chip">${esc(n)}</span>`).join("") || ""
+      }</div>`;
+    els.results.appendChild(card);
+  }
+}
 
-        const nameHtml = highlight(e.nazwa, it.where.name ? rawQuery : "");
-        const locHtml  = highlight(e.lokalizacja, it.where.loc ? rawQuery : "");
+function search(){
+  const q=norm(els.q.value);
+  if(!q){render([]);els.statusLeft.textContent="Wpisz frazę, aby zobaczyć wyniki.";return;}
+  const res=db.filter(e=>
+    (els.tName.checked && norm(e.nazwa).includes(q)) ||
+    (els.tAlt.checked && (e.inne_nazwy||[]).some(n=>norm(n).includes(q))) ||
+    (els.tLoc.checked && norm(e.lokalizacja).includes(q))
+  );
+  render(res,q);
+  els.statusLeft.textContent = res.length ? `Wyniki: ${res.length}` : "Brak wyników.";
+}
 
-        const alts = e.inne_nazwy || [];
-        const chips = alts.length
-          ? alts.map(a => `<span class="chip">${highlight(a, it.where.alt ? rawQuery : "")}</span>`).join("")
-          : `<span class="chip" style="opacity:.75;">(brak innych nazw)</span>`;
+async function init(){
+  const r=await fetch(DATA_URL);
+  const j=await r.json();
+  db=j.miejscowosci||[];
+  els.metaPill.textContent=`Wpisów: ${db.length}`;
+}
 
-        card.innerHTML = `
-          <p class="name">${nameHtml}</p>
-          <div class="loc">${locHtml}</div>
-          <div class="chips">${chips}</div>
-        `;
+els.q.oninput=search;
+els.clearBtn.onclick=()=>{els.q.value="";render([]);els.statusLeft.textContent="Wpisz frazę, aby zobaczyć wyniki.";};
+document.onkeydown=e=>{
+  if(e.key==="/"){e.preventDefault();els.q.focus();}
+  if(e.key==="Escape"){els.clearBtn.onclick();}
+};
 
-        frag.appendChild(card);
-      }
-
-      els.results.appendChild(frag);
-      lastRendered = items.map(x => x.entry);
-    }
-
-    function search(){
-      const rawQuery = els.q.value.trim();
-      const q = norm(rawQuery);
-
-      const flags = { name: els.tName.checked, alt: els.tAlt.checked, loc: els.tLoc.checked };
-
-      // Bez danych nie robimy nic (i nie spamujemy)
-      if(!db.length){
-        render([], "");
-        return;
-      }
-
-      if(!q){
-        // puste pole = nie pokazujemy listy całej bazy (żeby nie zamulać)
-        render([], "");
-        return;
-      }
-
-      const hits = [];
-      for(const entry of db){
-        const {score, where} = scoreEntry(entry, q, flags);
-        if(score > 0) hits.push({entry, score, where});
-      }
-
-      hits.sort((a,b) => {
-        if(b.score !== a.score) return b.score - a.score;
-        return norm(a.entry.nazwa).localeCompare(norm(b.entry.nazwa), "pl");
-      });
-
-      const limited = hits.slice(0, 200);
-      render(limited, rawQuery);
-      els.metaPill.textContent = `Wpisów: ${db.length}`;
-    }
-
-    async function init(){
-      try{
-        const res = await fetch(DATA_URL, {cache:"no-store"});
-        if(!res.ok) throw new Error("fetch failed");
-        const json = await res.json();
-        db = Array.isArray(json?.miejscowosci) ? json.miejscowosci : [];
-        els.metaPill.textContent = `Wpisów: ${db.length}`;
-      } catch (err){
-        // Cicho: żadnych komunikatów na ekranie
-        els.metaPill.textContent = "Brak danych";
-        els.metaPill.style.borderColor = "rgba(251,191,36,0.35)";
-        console.error(err);
-      }
-    }
-
-    async function copyResults(){
-      if(!lastRendered.length){
-        return; // cicho
-      }
-      const lines = lastRendered.map(e => {
-        const alts = (e.inne_nazwy || []).join(", ") || "(brak)";
-        return `${e.nazwa} — ${e.lokalizacja} | inne: ${alts}`;
-      }).join("\n");
-
-      try{
-        await navigator.clipboard.writeText(lines);
-      } catch {
-        window.prompt("Skopiuj ręcznie:", lines);
-      }
-    }
-
-    // Events
-    els.q.addEventListener("input", search);
-    els.tName.addEventListener("change", search);
-    els.tAlt.addEventListener("change", search);
-    els.tLoc.addEventListener("change", search);
-
-    els.clearBtn.addEventListener("click", () => {
-      els.q.value = "";
-      els.q.focus();
-      render([], "");
-    });
-
-    els.copyBtn.addEventListener("click", copyResults);
-
-    // Esc czyści
-    document.addEventListener("keydown", (e) => {
-      if(e.key === "Escape"){
-        els.q.value = "";
-        render([], "");
-      }
-    });
-
-    init();
-  </script>
+init();
+</script>
 </body>
 </html>
