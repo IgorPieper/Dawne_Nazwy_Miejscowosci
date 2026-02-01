@@ -1,11 +1,10 @@
-```html
 <!doctype html>
 <html lang="pl">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Dawne Nazwy Miejscowości</title>
-  <meta name="description" content="Wyszukiwarka dawnych i alternatywnych nazw polskich miejscowości (miasta, wsie, osady)." />
+  <meta name="description" content="Wyszukiwarka dawnych i alternatywnych nazw polskich miejscowości." />
   <meta name="color-scheme" content="light dark" />
   <style>
     :root{
@@ -13,7 +12,7 @@
       --card: rgba(255,255,255,0.06);
       --card2: rgba(255,255,255,0.08);
       --text: rgba(255,255,255,0.92);
-      --muted: rgba(255,255,255,0.68);
+      --muted: rgba(255,255,255,0.66);
       --border: rgba(255,255,255,0.14);
       --shadow: 0 22px 70px rgba(0,0,0,0.35);
       --r: 18px;
@@ -22,6 +21,7 @@
       --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
       --a1: #7c5cff;
       --a2: #35d0ff;
+      --warn: #fbbf24;
     }
     @media (prefers-color-scheme: light){
       :root{
@@ -34,6 +34,7 @@
         --shadow: 0 18px 55px rgba(0,0,0,0.12);
       }
     }
+
     *{ box-sizing:border-box; }
     html,body{ height:100%; }
     body{
@@ -45,18 +46,41 @@
         radial-gradient(900px 600px at 90% 10%, rgba(53,208,255,0.25), transparent 55%),
         var(--bg);
     }
+
     .wrap{ max-width: 1100px; margin:0 auto; padding: 40px 20px 70px; }
-    .topbar{ display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom: 22px; }
-    .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; color:inherit; }
+
+    .topbar{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:12px;
+      margin-bottom: 18px;
+    }
+
+    .brand{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      text-decoration:none;
+      color:inherit;
+    }
+
     .logo{
       width:34px; height:34px; border-radius: 12px;
       background: linear-gradient(135deg, var(--a1), var(--a2));
       box-shadow: 0 12px 35px rgba(124,92,255,0.25);
       flex:0 0 auto;
     }
-    .brand span{ font-weight: 800; letter-spacing:-0.02em; }
+
+    .brand span{
+      font-weight: 800;
+      letter-spacing:-0.02em;
+    }
+
     .pill{
-      display:inline-flex; align-items:center; gap:8px;
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
       padding: 8px 12px;
       border: 1px solid var(--border);
       border-radius: 999px;
@@ -74,12 +98,14 @@
       box-shadow: var(--shadow);
       backdrop-filter: blur(10px);
     }
+
     h1{
       margin:0;
       font-size: clamp(26px, 3.3vw, 42px);
       letter-spacing: -0.04em;
       line-height: 1.08;
     }
+
     .sub{
       margin: 10px 0 0;
       color: var(--muted);
@@ -88,9 +114,12 @@
       max-width: 80ch;
     }
 
-    .search{ margin-top: 18px; display:grid; gap: 12px; }
+    .search{ margin-top: 16px; display:grid; gap: 12px; }
+
     .searchbox{
-      display:flex; align-items:center; gap: 10px;
+      display:flex;
+      align-items:center;
+      gap: 10px;
       padding: 12px 14px;
       border-radius: var(--r2);
       border: 1px solid var(--border);
@@ -99,18 +128,27 @@
     @media (prefers-color-scheme: light){
       .searchbox{ background: rgba(255,255,255,0.7); }
     }
+
     .icon{ width: 18px; height: 18px; opacity: 0.75; flex:0 0 auto; }
+
     input[type="text"]{
-      width:100%; border:none; outline:none;
-      background: transparent; color: var(--text);
-      font-size: 16px; line-height: 1.2;
+      width:100%;
+      border:none;
+      outline:none;
+      background: transparent;
+      color: var(--text);
+      font-size: 16px;
+      line-height: 1.2;
     }
     input::placeholder{ color: rgba(255,255,255,0.45); }
     @media (prefers-color-scheme: light){
       input::placeholder{ color: rgba(0,0,0,0.38); }
     }
+
     .btn{
-      display:inline-flex; align-items:center; gap:10px;
+      display:inline-flex;
+      align-items:center;
+      gap:10px;
       padding: 10px 12px;
       border-radius: 12px;
       border: 1px solid var(--border);
@@ -126,20 +164,35 @@
     }
 
     .controls{
-      display:flex; gap:10px; flex-wrap: wrap;
-      align-items:center; justify-content: space-between;
+      display:flex;
+      gap:10px;
+      flex-wrap: wrap;
+      align-items:center;
+      justify-content: space-between;
     }
-    .toggles{ display:flex; gap:10px; flex-wrap: wrap; align-items:center; }
+
+    .toggles{
+      display:flex;
+      gap:10px;
+      flex-wrap: wrap;
+      align-items:center;
+    }
+
     .toggle{
-      display:inline-flex; align-items:center; gap:10px;
-      padding: 10px 12px; border-radius: 999px;
+      display:inline-flex;
+      align-items:center;
+      gap:10px;
+      padding: 10px 12px;
+      border-radius: 999px;
       border: 1px solid var(--border);
       background: var(--card);
       color: var(--muted);
       font-size: 13px;
-      user-select:none; cursor:pointer;
+      user-select:none;
+      cursor:pointer;
     }
     .toggle input{ display:none; }
+
     .dot{
       width: 10px; height: 10px; border-radius:999px;
       border: 1px solid var(--border);
@@ -152,26 +205,10 @@
       box-shadow: 0 0 0 4px rgba(124,92,255,0.18);
     }
 
-    main{ margin-top: 18px; }
-    .status{
-      display:flex; justify-content: space-between; align-items:center;
-      gap:12px; flex-wrap: wrap;
-      color: var(--muted); font-size: 13px;
-      margin: 14px 4px;
-    }
-    .kbd{
-      font-family: var(--mono);
-      font-size: 12px;
-      padding: 2px 6px;
-      border-radius: 8px;
-      border: 1px solid var(--border);
-      background: rgba(255,255,255,0.03);
-    }
-    @media (prefers-color-scheme: light){
-      .kbd{ background: rgba(0,0,0,0.03); }
-    }
+    main{ margin-top: 16px; }
 
     .grid{ display:grid; grid-template-columns: repeat(12, 1fr); gap: 12px; }
+
     .cardItem{
       grid-column: span 12;
       border-radius: var(--r);
@@ -182,11 +219,26 @@
       backdrop-filter: blur(10px);
     }
     @media (min-width: 820px){ .cardItem{ grid-column: span 6; } }
-    .name{ font-weight: 900; letter-spacing: -0.02em; font-size: 18px; margin: 0; line-height: 1.2; }
-    .loc{ margin-top: 6px; color: var(--muted); font-size: 13px; }
+
+    .name{
+      font-weight: 900;
+      letter-spacing: -0.02em;
+      font-size: 18px;
+      margin: 0;
+      line-height: 1.2;
+    }
+
+    .loc{
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
     .chips{ margin-top: 12px; display:flex; flex-wrap: wrap; gap: 8px; }
+
     .chip{
-      display:inline-flex; align-items:center;
+      display:inline-flex;
+      align-items:center;
       padding: 7px 10px;
       border-radius: 999px;
       border: 1px solid var(--border);
@@ -197,24 +249,12 @@
     @media (prefers-color-scheme: light){
       .chip{ background: rgba(255,255,255,0.65); }
     }
-    mark{ background: rgba(251,191,36,0.25); color: inherit; padding: 0 2px; border-radius: 4px; }
-    .empty{
-      border: 1px dashed var(--border);
-      border-radius: var(--r);
-      padding: 18px;
-      color: var(--muted);
-      background: var(--card);
-      display:none;
-    }
-    footer{
-      margin-top: 26px;
-      color: var(--muted);
-      font-size: 12px;
-      display:flex;
-      justify-content: space-between;
-      gap: 10px;
-      flex-wrap: wrap;
-      padding: 0 4px;
+
+    mark{
+      background: rgba(251,191,36,0.25);
+      color: inherit;
+      padding: 0 2px;
+      border-radius: 4px;
     }
   </style>
 </head>
@@ -226,13 +266,13 @@
         <div class="logo" aria-hidden="true"></div>
         <span>Dawne Nazwy Miejscowości</span>
       </a>
-      <div class="pill" id="metaPill">Wczytuję dane…</div>
+      <div class="pill" id="metaPill">Wczytuję…</div>
     </div>
 
     <header>
       <h1>Wyszukiwarka nazw miejscowości</h1>
       <p class="sub">
-        Wpisz nazwę obecną lub inną (dawną/obcojęzyczną). Wyniki pokazują też lokalizację, żeby nie mylić miejsc o tej samej nazwie.
+        Szukaj po nazwie obecnej albo innej (dawnej/obcojęzycznej). Wyniki pokazują lokalizację, żeby nie mylić miejsc o tej samej nazwie.
       </p>
 
       <div class="search">
@@ -242,7 +282,7 @@
             <path d="M16.5 16.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
           </svg>
           <input id="q" type="text" placeholder="Np. Wrocław, Nowa Wieś, Breslau, Danzig…" autocomplete="off" />
-          <button class="btn" id="clearBtn" title="Wyczyść (Esc)">Wyczyść</button>
+          <button class="btn" id="clearBtn" title="Wyczyść">Wyczyść</button>
         </div>
 
         <div class="controls">
@@ -263,37 +303,25 @@
               Lokalizacja
             </label>
           </div>
-          <button class="btn" id="copyBtn" title="Kopiuj wyniki do schowka">Kopiuj wyniki</button>
+
+          <button class="btn" id="copyBtn" title="Kopiuj widoczne wyniki">Kopiuj wyniki</button>
         </div>
       </div>
     </header>
 
     <main>
-      <div class="status">
-        <div id="statusLeft">Wpisz frazę, aby zobaczyć wyniki.</div>
-        <div id="statusRight"><span class="kbd">/</span> fokus • <span class="kbd">Esc</span> czyść</div>
-      </div>
-
       <div id="results" class="grid"></div>
-      <div id="empty" class="empty">Brak wyników. Spróbuj innej pisowni albo wyszukaj po nazwie alternatywnej.</div>
     </main>
-
-    <footer>
-      <div>Dane: <span class="kbd">Miejscowosci.json</span></div>
-      <div>Limit: 200 wyników • działa w 100% w przeglądarce</div>
-    </footer>
   </div>
 
   <script>
-    // Dane są w katalogu nadrzędnym repo: /Miejscowosci.json (strona znajduje się w katalogu: pomocnicze)
-    const DATA_URL = "Miejscowosci.json";
+    // Wszystko jest w root
+    const DATA_URL = "./Miejscowosci.json";
 
     const els = {
       q: document.getElementById("q"),
       results: document.getElementById("results"),
-      empty: document.getElementById("empty"),
       metaPill: document.getElementById("metaPill"),
-      statusLeft: document.getElementById("statusLeft"),
       tName: document.getElementById("tName"),
       tAlt: document.getElementById("tAlt"),
       tLoc: document.getElementById("tLoc"),
@@ -349,21 +377,20 @@
 
     function render(items, rawQuery){
       els.results.innerHTML = "";
-      els.empty.style.display = items.length ? "none" : "block";
-
       const frag = document.createDocumentFragment();
+
       for(const it of items){
         const e = it.entry;
         const card = document.createElement("div");
         card.className = "cardItem";
 
         const nameHtml = highlight(e.nazwa, it.where.name ? rawQuery : "");
-        const locHtml = highlight(e.lokalizacja, it.where.loc ? rawQuery : "");
+        const locHtml  = highlight(e.lokalizacja, it.where.loc ? rawQuery : "");
 
         const alts = e.inne_nazwy || [];
         const chips = alts.length
           ? alts.map(a => `<span class="chip">${highlight(a, it.where.alt ? rawQuery : "")}</span>`).join("")
-          : `<span class="chip" style="opacity:.75;">Inne nazwy: (brak)</span>`;
+          : `<span class="chip" style="opacity:.75;">(brak innych nazw)</span>`;
 
         card.innerHTML = `
           <p class="name">${nameHtml}</p>
@@ -373,6 +400,7 @@
 
         frag.appendChild(card);
       }
+
       els.results.appendChild(frag);
       lastRendered = items.map(x => x.entry);
     }
@@ -380,16 +408,17 @@
     function search(){
       const rawQuery = els.q.value.trim();
       const q = norm(rawQuery);
+
       const flags = { name: els.tName.checked, alt: els.tAlt.checked, loc: els.tLoc.checked };
 
-      if(!flags.name && !flags.alt && !flags.loc){
-        els.statusLeft.textContent = "Włącz co najmniej jedno pole (Nazwa / Inne nazwy / Lokalizacja).";
+      // Bez danych nie robimy nic (i nie spamujemy)
+      if(!db.length){
         render([], "");
         return;
       }
 
       if(!q){
-        els.statusLeft.textContent = "Wpisz frazę, aby zobaczyć wyniki.";
+        // puste pole = nie pokazujemy listy całej bazy (żeby nie zamulać)
         render([], "");
         return;
       }
@@ -406,33 +435,28 @@
       });
 
       const limited = hits.slice(0, 200);
-      els.statusLeft.textContent = limited.length
-        ? `Wyniki: ${limited.length}${hits.length > 200 ? " (obcięto do 200)" : ""}`
-        : "Brak wyników.";
-
       render(limited, rawQuery);
+      els.metaPill.textContent = `Wpisów: ${db.length}`;
     }
 
     async function init(){
       try{
-        els.metaPill.textContent = "Wczytuję dane…";
         const res = await fetch(DATA_URL, {cache:"no-store"});
-        if(!res.ok) throw new Error("Nie udało się pobrać Miejscowosci.json");
+        if(!res.ok) throw new Error("fetch failed");
         const json = await res.json();
         db = Array.isArray(json?.miejscowosci) ? json.miejscowosci : [];
         els.metaPill.textContent = `Wpisów: ${db.length}`;
-        els.statusLeft.textContent = "Wpisz frazę, aby zobaczyć wyniki.";
-      } catch(err){
-        els.metaPill.textContent = "Błąd danych";
-        els.statusLeft.textContent = "Nie udało się wczytać danych. Upewnij się, że Miejscowosci.json jest w repo w katalogu nadrzędnym.";
+      } catch (err){
+        // Cicho: żadnych komunikatów na ekranie
+        els.metaPill.textContent = "Brak danych";
+        els.metaPill.style.borderColor = "rgba(251,191,36,0.35)";
         console.error(err);
       }
     }
 
     async function copyResults(){
       if(!lastRendered.length){
-        alert("Brak wyników do skopiowania.");
-        return;
+        return; // cicho
       }
       const lines = lastRendered.map(e => {
         const alts = (e.inne_nazwy || []).join(", ") || "(brak)";
@@ -441,27 +465,30 @@
 
       try{
         await navigator.clipboard.writeText(lines);
-        els.statusLeft.textContent = `Skopiowano ${lastRendered.length} wyników do schowka.`;
       } catch {
         window.prompt("Skopiuj ręcznie:", lines);
       }
     }
 
+    // Events
     els.q.addEventListener("input", search);
     els.tName.addEventListener("change", search);
     els.tAlt.addEventListener("change", search);
     els.tLoc.addEventListener("change", search);
-    els.clearBtn.addEventListener("click", () => { els.q.value=""; els.q.focus(); search(); });
+
+    els.clearBtn.addEventListener("click", () => {
+      els.q.value = "";
+      els.q.focus();
+      render([], "");
+    });
+
     els.copyBtn.addEventListener("click", copyResults);
 
+    // Esc czyści
     document.addEventListener("keydown", (e) => {
-      if(e.key === "/" && document.activeElement !== els.q){
-        e.preventDefault();
-        els.q.focus();
-      }
-      if(e.key === "Escape" && document.activeElement === els.q){
+      if(e.key === "Escape"){
         els.q.value = "";
-        search();
+        render([], "");
       }
     });
 
@@ -469,4 +496,3 @@
   </script>
 </body>
 </html>
-```
