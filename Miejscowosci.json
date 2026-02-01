@@ -83,7 +83,7 @@
     { "nazwa": "Frombork", "lokalizacja": "woj. warmińsko-mazurskie, pow. braniewski", "inne_nazwy": ["Frauenburg"] },
 
     { "nazwa": "Gardyny", "lokalizacja": "woj. warmińsko-mazurskie, pow. ostródzki", "inne_nazwy": ["Groß Gardienen"] },
-    {"nazwa": "Gdańsk","lokalizacja": "woj. pomorskie, pow. m. Gdańsk","inne_nazwy": ["Danzig"]
+    {"nazwa": "Gdańsk","lokalizacja": "woj. pomorskie, pow. m. Gdańsk","inne_nazwy": ["Danzig"] },
     { "nazwa": "Gierłoż", "lokalizacja": "woj. warmińsko-mazurskie, pow. ostródzki", "inne_nazwy": ["Görlitz"] },
     { "nazwa": "Gierłoż Polska", "lokalizacja": "woj. warmińsko-mazurskie, pow. iławski", "inne_nazwy": ["Groß Görlitz"] },
     { "nazwa": "Gietrzwałd", "lokalizacja": "woj. warmińsko-mazurskie, pow. olsztyński", "inne_nazwy": ["Dietrichswalde"] },
