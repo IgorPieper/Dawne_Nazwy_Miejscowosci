@@ -1,5 +1,7 @@
 # Dawne Nazwy Miejscowości
 
+🌍 Strona projektu: https://igorpieper.github.io/Dawne_Nazwy_Miejscowosci/
+
 **Dawne Nazwy Miejscowości** to otwarty, prosty w użyciu projekt, którego celem jest ułatwienie identyfikacji miejscowości występujących w dawnych dokumentach, aktach archiwalnych i źródłach historycznych.
 
 Projekt powstał z bardzo praktycznej potrzeby.
