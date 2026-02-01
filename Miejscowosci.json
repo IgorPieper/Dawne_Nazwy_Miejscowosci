@@ -4618,13 +4618,6 @@
     },
     {
       "nazwa": "Gdańsk",
-      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
-      "inne_nazwy": [
-        "Danzig"
-      ]
-    },
-    {
-      "nazwa": "Gdańsk",
       "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
       "inne_nazwy": [
         "Danzig"
@@ -18819,15 +18812,6 @@
       "inne_nazwy": [
         "Fröbel"
       ]
-    },
-    {
-      "nazwa": "Wrocław",
-      "lokalizacja": "woj. dolnośląskie, pow. m. Wrocław",
-      "inne_nazwy": [
-        "Breslau",
-        "Vratislavia"
-      ],
-      "notka": "Test"
     },
     {
       "nazwa": "Wrocław",
