@@ -534,6 +534,13 @@
       ]
     },
     {
+      "nazwa": "Barcin",
+      "lokalizacja": "woj. kujawsko-pomorskie, pow. żniński",
+      "inne_nazwy": [
+        "Bartschin"
+      ]
+    },
+    {
       "nazwa": "Barcinek",
       "lokalizacja": "woj. dolnośląskie, pow. karkonoski",
       "inne_nazwy": [
@@ -551,7 +558,8 @@
       "nazwa": "Barczewo",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. olsztyński",
       "inne_nazwy": [
-        "Wartenburg (in Ostpreußen)"
+        "Wartenburg (in Ostpreußen)",
+        "Wartenburg"
       ]
     },
     {
@@ -1128,6 +1136,14 @@
       "lokalizacja": "woj. wielkopolskie, pow. poznański",
       "inne_nazwy": [
         "Biskupitz"
+      ]
+    },
+    {
+      "nazwa": "Biskupiec",
+      "lokalizacja": "woj. warmińsko-mazurskie, pow. nowomiejski",
+      "inne_nazwy": [
+        "Bischofswerder",
+        "Bischofsburg"
       ]
     },
     {
@@ -1751,6 +1767,13 @@
       "lokalizacja": "woj. śląskie, pow. lubliniecki",
       "inne_nazwy": [
         "Bruschek"
+      ]
+    },
+    {
+      "nazwa": "Brusy",
+      "lokalizacja": "woj. pomorskie, pow. chojnicki",
+      "inne_nazwy": [
+        "Bruss"
       ]
     },
     {
@@ -2421,7 +2444,8 @@
       "nazwa": "Chełmno",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. chełmiński",
       "inne_nazwy": [
-        "Kulm"
+        "Kulm",
+        "Culm"
       ]
     },
     {
@@ -2435,7 +2459,8 @@
       "nazwa": "Chełmża",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. toruński",
       "inne_nazwy": [
-        "Kulmsee"
+        "Kulmsee",
+        "Culmsee"
       ]
     },
     {
@@ -3042,6 +3067,16 @@
       ]
     },
     {
+      "nazwa": "Cynty",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Zinten",
+        "Kornewo",
+        "Корнево",
+        "Cintai"
+      ]
+    },
+    {
       "nazwa": "Czapielsk",
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
@@ -3287,6 +3322,13 @@
       "lokalizacja": "woj. warmińsko-mazurskie, pow. kętrzyński",
       "inne_nazwy": [
         "Schwarzstein"
+      ]
+    },
+    {
+      "nazwa": "Czersk",
+      "lokalizacja": "woj. pomorskie, pow. chojnicki",
+      "inne_nazwy": [
+        "Czersk"
       ]
     },
     {
@@ -3607,6 +3649,18 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. gryficki",
       "inne_nazwy": [
         "Dargislaff"
+      ]
+    },
+    {
+      "nazwa": "Darkiejmy",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Darkehmen",
+        "Oziorsk",
+        "Ozersk",
+        "Озёрск",
+        "Angerapp",
+        "Darkiemis"
       ]
     },
     {
@@ -3944,6 +3998,16 @@
       ]
     },
     {
+      "nazwa": "Domnowo",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Domnau",
+        "Domnovo",
+        "Домново",
+        "Dumnava"
+      ]
+    },
+    {
       "nazwa": "Dorotowo",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. olsztyński",
       "inne_nazwy": [
@@ -4248,6 +4312,13 @@
       ]
     },
     {
+      "nazwa": "Dzierzgoń",
+      "lokalizacja": "woj. pomorskie, pow. sztumski",
+      "inne_nazwy": [
+        "Christburg"
+      ]
+    },
+    {
       "nazwa": "Dzierzków",
       "lokalizacja": "woj. dolnośląskie, pow. świdnicki",
       "inne_nazwy": [
@@ -4413,6 +4484,13 @@
     },
     {
       "nazwa": "Elbląg",
+      "lokalizacja": "woj. warmińsko-mazurskie, pow. m. Elbląg",
+      "inne_nazwy": [
+        "Elbing"
+      ]
+    },
+    {
+      "nazwa": "Elbląg",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. miasto Elbląg",
       "inne_nazwy": [
         "Elbing"
@@ -4451,6 +4529,13 @@
       "lokalizacja": "woj. warmińsko-mazurskie, pow. ełcki",
       "inne_nazwy": [
         "Lyck"
+      ]
+    },
+    {
+      "nazwa": "Ełk, Szyba",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Sybba (Walden)"
       ]
     },
     {
@@ -4503,10 +4588,28 @@
       ]
     },
     {
+      "nazwa": "Frydland",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Friedland",
+        "Prawdinsk",
+        "Правдинск",
+        "Friedland in Ostpreußen",
+        "Romuva"
+      ]
+    },
+    {
       "nazwa": "Frydman",
       "lokalizacja": "woj. małopolskie, pow. nowotarski",
       "inne_nazwy": [
         "Friedmann"
+      ]
+    },
+    {
+      "nazwa": "Frygnowo",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Frogenau"
       ]
     },
     {
@@ -4618,9 +4721,163 @@
     },
     {
       "nazwa": "Gdańsk",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Danzig"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk",
       "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
       "inne_nazwy": [
         "Danzig"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Brzezno",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Brosen"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Emaus",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Emaus"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Jasień",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Altdorf"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Jelitkowo",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Glettkau"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Krakowiec",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Krakau"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Letnica",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Lauental"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Niedźwiednik",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Brentall"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Nowe Szkoty",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Neu Schottland"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Oliwa",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Oliva"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Olszynka",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Walddorf"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Orunia",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Ohra"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Piecki",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Pietzendorf"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Pohulanka",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Stolzenberg"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Polanki",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Pelonken"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Rudniki",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Burgerwiesen"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Saczki",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Riesenfeld"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Stogi",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Heubude"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Westerplate",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Westerplatte"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Wisłoujście",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Weichselmunde"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Wrzeszcz",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Langfuhr"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk, -Zaspa",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Saspe"
       ]
     },
     {
@@ -4678,7 +4935,8 @@
       "nazwa": "Giżycko",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. giżycki",
       "inne_nazwy": [
-        "Lötzen"
+        "Lötzen",
+        "Lotzen"
       ]
     },
     {
@@ -4915,6 +5173,13 @@
       ]
     },
     {
+      "nazwa": "Golin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. wałecki",
+      "inne_nazwy": [
+        "Gollin"
+      ]
+    },
+    {
       "nazwa": "Golina",
       "lokalizacja": "woj. wielkopolskie, pow. koniński",
       "inne_nazwy": [
@@ -4926,6 +5191,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. bolesławiecki",
       "inne_nazwy": [
         "Groß Gollnisch"
+      ]
+    },
+    {
+      "nazwa": "Golub - Dobrzyń",
+      "lokalizacja": "woj. kujawsko-pomorskie, pow. golubsko-dobrzyński",
+      "inne_nazwy": [
+        "Gollub"
       ]
     },
     {
@@ -5038,6 +5310,13 @@
       "lokalizacja": "woj. wielkopolskie, pow. złotowski",
       "inne_nazwy": [
         "Gursen"
+      ]
+    },
+    {
+      "nazwa": "Górzno",
+      "lokalizacja": "woj. kujawsko-pomorskie, pow. brodnicki",
+      "inne_nazwy": [
+        "Gorzno"
       ]
     },
     {
@@ -5603,6 +5882,13 @@
     },
     {
       "nazwa": "Grudziądz",
+      "lokalizacja": "woj. kujawsko-pomorskie, pow. m. Grudziądz",
+      "inne_nazwy": [
+        "Graudenz"
+      ]
+    },
+    {
+      "nazwa": "Grudziądz",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. miasto Grudziądz",
       "inne_nazwy": [
         "Graudenz"
@@ -5773,6 +6059,16 @@
       "lokalizacja": "woj. warmińsko-mazurskie, pow. ostródzki",
       "inne_nazwy": [
         "Groß Rüppertswalde"
+      ]
+    },
+    {
+      "nazwa": "Gusiew",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Gumbinnen",
+        "Gussew",
+        "Гусев",
+        "Gąbin"
       ]
     },
     {
@@ -6166,6 +6462,20 @@
       ]
     },
     {
+      "nazwa": "Jabłonków",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Jablonken"
+      ]
+    },
+    {
+      "nazwa": "Jabłonowo Pomorskie",
+      "lokalizacja": "woj. kujawsko-pomorskie, pow. brodnicki",
+      "inne_nazwy": [
+        "Gosslershausen"
+      ]
+    },
+    {
       "nazwa": "Jabłonowo Pomorskie",
       "lokalizacja": "woj. pomorskie, pow. brodnicki",
       "inne_nazwy": [
@@ -6458,7 +6768,22 @@
       ]
     },
     {
+      "nazwa": "Jasnoje",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Kaukehmen",
+        "Ясное"
+      ]
+    },
+    {
       "nazwa": "Jastrowie",
+      "lokalizacja": "woj. wielkopolskie, pow. złotowski",
+      "inne_nazwy": [
+        "Jastrow"
+      ]
+    },
+    {
+      "nazwa": "Jastrowiec",
       "lokalizacja": "woj. wielkopolskie, pow. złotowski",
       "inne_nazwy": [
         "Jastrow"
@@ -6519,6 +6844,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. świdnicki",
       "inne_nazwy": [
         "Königszelt"
+      ]
+    },
+    {
+      "nazwa": "Jawty Wielkie",
+      "lokalizacja": "woj. warmińsko-mazurskie, pow. iławski",
+      "inne_nazwy": [
+        "Gross Jauth"
       ]
     },
     {
@@ -7358,7 +7690,8 @@
       "nazwa": "Kisielice",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. iławski",
       "inne_nazwy": [
-        "Freystadt (in Westpreußen)"
+        "Freystadt (in Westpreußen)",
+        "Freystadt"
       ]
     },
     {
@@ -7657,6 +7990,13 @@
       ]
     },
     {
+      "nazwa": "Komierowo",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Komierowo"
+      ]
+    },
+    {
       "nazwa": "Komorniki",
       "lokalizacja": "woj. opolskie, pow. krapkowicki",
       "inne_nazwy": [
@@ -7949,7 +8289,8 @@
       "nazwa": "Kościerzyna",
       "lokalizacja": "woj. pomorskie, pow. kościerski",
       "inne_nazwy": [
-        "Berent"
+        "Berent",
+        "Berendt"
       ]
     },
     {
@@ -8449,6 +8790,16 @@
       ]
     },
     {
+      "nazwa": "Królewiec",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Konigsberg",
+        "Kaliningrad",
+        "Калининград",
+        "Königsberg"
+      ]
+    },
+    {
       "nazwa": "Królewo",
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
@@ -8566,6 +8917,13 @@
     },
     {
       "nazwa": "Kruszyn",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Kruschin"
+      ]
+    },
+    {
+      "nazwa": "Kruszyn",
       "lokalizacja": "woj. dolnośląskie, pow. bolesławiecki",
       "inne_nazwy": [
         "Groß Krauschen"
@@ -8584,6 +8942,13 @@
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
         "Krönke"
+      ]
+    },
+    {
+      "nazwa": "Krynica Morska",
+      "lokalizacja": "woj. pomorskie, pow. nowodworski",
+      "inne_nazwy": [
+        "Kahlberg"
       ]
     },
     {
@@ -8839,6 +9204,13 @@
       ]
     },
     {
+      "nazwa": "Kwiatuszki",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Blumenau"
+      ]
+    },
+    {
       "nazwa": "Kwidzyn",
       "lokalizacja": "woj. pomorskie, pow. kwidzyński",
       "inne_nazwy": [
@@ -8857,6 +9229,15 @@
       "lokalizacja": "woj. dolnośląskie, pow. świdnicki",
       "inne_nazwy": [
         "Kauder"
+      ]
+    },
+    {
+      "nazwa": "Kłajpeda",
+      "lokalizacja": "kraj. Litwa, okr. kłajpedzki",
+      "inne_nazwy": [
+        "Memel",
+        "Klaipėda",
+        "Klaipeda"
       ]
     },
     {
@@ -8928,6 +9309,15 @@
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
         "Klossowo"
+      ]
+    },
+    {
+      "nazwa": "Labiawa",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Labiau",
+        "Polessk",
+        "Полесск"
       ]
     },
     {
@@ -9206,6 +9596,14 @@
       ]
     },
     {
+      "nazwa": "Lichtajny",
+      "lokalizacja": "woj. warmińsko-mazurskie, pow. olsztyński",
+      "inne_nazwy": [
+        "Lichteinen",
+        "Aldig"
+      ]
+    },
+    {
       "nazwa": "Lidzbark",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. działdowski",
       "inne_nazwy": [
@@ -9217,6 +9615,13 @@
       "lokalizacja": "woj. warmińsko-mazurskie, pow. lidzbarski",
       "inne_nazwy": [
         "Heilsberg"
+      ]
+    },
+    {
+      "nazwa": "Lidzbark Welski",
+      "lokalizacja": "woj. warmińsko-mazurskie, pow. działdowski",
+      "inne_nazwy": [
+        "Lautenburg"
       ]
     },
     {
@@ -9259,6 +9664,13 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. pyrzycki",
       "inne_nazwy": [
         "Lippehne"
+      ]
+    },
+    {
+      "nazwa": "Lipinki",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Lippinken"
       ]
     },
     {
@@ -9412,7 +9824,8 @@
       "nazwa": "Lubawa",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. iławski",
       "inne_nazwy": [
-        "Löbau"
+        "Löbau",
+        "Loebau"
       ]
     },
     {
@@ -9559,6 +9972,14 @@
       ]
     },
     {
+      "nazwa": "Lubuchów",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Lubuchow b",
+        "Stargard"
+      ]
+    },
+    {
       "nazwa": "Ludów Śląski",
       "lokalizacja": "woj. dolnośląskie, pow. strzeliński",
       "inne_nazwy": [
@@ -9605,6 +10026,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. świdnicki",
       "inne_nazwy": [
         "Leutmansdorf"
+      ]
+    },
+    {
+      "nazwa": "Lutry",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Lautern"
       ]
     },
     {
@@ -10226,6 +10654,13 @@
       ]
     },
     {
+      "nazwa": "Mikolajki, Dybowo",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Diebau"
+      ]
+    },
+    {
       "nazwa": "Mikolin",
       "lokalizacja": "woj. opolskie, pow. brzeski",
       "inne_nazwy": [
@@ -10552,6 +10987,13 @@
       ]
     },
     {
+      "nazwa": "Mortęgi",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Mortung"
+      ]
+    },
+    {
       "nazwa": "Moryń",
       "lokalizacja": "woj. zachodniopomorskie, pow. gryfiński",
       "inne_nazwy": [
@@ -10757,7 +11199,8 @@
       "nazwa": "Młynary",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. elbląski",
       "inne_nazwy": [
-        "Mühlhausen"
+        "Mühlhausen",
+        "Muhlhausen"
       ]
     },
     {
@@ -10982,6 +11425,16 @@
       ]
     },
     {
+      "nazwa": "Nieman",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Ragnit",
+        "Njeman",
+        "Неман",
+        "Ragainė"
+      ]
+    },
+    {
       "nazwa": "Niemcza",
       "lokalizacja": "woj. dolnośląskie, pow. dzierżoniowski",
       "inne_nazwy": [
@@ -11021,6 +11474,16 @@
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
         "Nestempohl"
+      ]
+    },
+    {
+      "nazwa": "Niestierow",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Stalluponen",
+        "Nesterow",
+        "Нестеров",
+        "Stallupönen"
       ]
     },
     {
@@ -11738,7 +12201,8 @@
       "lokalizacja": "woj. warmińsko-mazurskie, pow. olecki",
       "inne_nazwy": [
         "Marggrabowa",
-        "Treuburg"
+        "Treuburg",
+        "Oletzko (Treuburg)"
       ]
     },
     {
@@ -11800,6 +12264,13 @@
     },
     {
       "nazwa": "Olsztyn",
+      "lokalizacja": "woj. warmińsko-mazurskie, pow. m. Olsztyn",
+      "inne_nazwy": [
+        "Allestein"
+      ]
+    },
+    {
+      "nazwa": "Olsztyn",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. miasto Olsztyn",
       "inne_nazwy": [
         "Allenstein"
@@ -11809,7 +12280,15 @@
       "nazwa": "Olsztynek",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. olsztyński",
       "inne_nazwy": [
-        "Hohenstein (in Ostpreußen)"
+        "Hohenstein (in Ostpreußen)",
+        "Hohenstein"
+      ]
+    },
+    {
+      "nazwa": "Olsztynek, Sudawa",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Sauden"
       ]
     },
     {
@@ -12284,6 +12763,13 @@
       ]
     },
     {
+      "nazwa": "Palczew",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Palschau"
+      ]
+    },
+    {
       "nazwa": "Palczewice",
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
@@ -12392,7 +12878,8 @@
       "nazwa": "Pasłęk",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. elbląski",
       "inne_nazwy": [
-        "Preußisch Holland"
+        "Preußisch Holland",
+        "Preussisch Holland"
       ]
     },
     {
@@ -12470,6 +12957,13 @@
       "lokalizacja": "woj. opolskie, pow. brzeski",
       "inne_nazwy": [
         "Pampitz"
+      ]
+    },
+    {
+      "nazwa": "Peplin",
+      "lokalizacja": "woj. pomorskie, pow. tczewski",
+      "inne_nazwy": [
+        "Peplin"
       ]
     },
     {
@@ -12675,6 +13169,19 @@
       "inne_nazwy": [
         "Pilchowitz",
         "Bilchengrund"
+      ]
+    },
+    {
+      "nazwa": "Pilkały",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Pillkalen",
+        "Dobrowolsk",
+        "Добровольск",
+        "Pillkallen",
+        "Schloßberg",
+        "Schlossberg",
+        "Pilkalnis"
       ]
     },
     {
@@ -13233,9 +13740,27 @@
     },
     {
       "nazwa": "Prusinowo",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Prutzenwalde"
+      ]
+    },
+    {
+      "nazwa": "Prusinowo",
       "lokalizacja": "woj. pomorskie, pow. człuchowski",
       "inne_nazwy": [
         "Prützenwalde"
+      ]
+    },
+    {
+      "nazwa": "Pruska Iławka",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Preussisch Eylau",
+        "Bagrationowsk",
+        "Багратионовск",
+        "Preußisch Eylau",
+        "Iławka"
       ]
     },
     {
@@ -13432,7 +13957,8 @@
       "nazwa": "Przywidz",
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
-        "Mariensee"
+        "Mariensee",
+        "Danzig"
       ]
     },
     {
@@ -14063,7 +14589,8 @@
       "nazwa": "Reszel",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. kętrzyński",
       "inne_nazwy": [
-        "Rössel"
+        "Rössel",
+        "Roessel"
       ]
     },
     {
@@ -14106,6 +14633,13 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. gryficki",
       "inne_nazwy": [
         "Kamp"
+      ]
+    },
+    {
+      "nazwa": "Rogóż",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Roggenhausen"
       ]
     },
     {
@@ -14291,6 +14825,20 @@
       ]
     },
     {
+      "nazwa": "Ruciane-Nida, Nida",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Nieden"
+      ]
+    },
+    {
+      "nazwa": "Ruciane-Nida, -Ruciane",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Rudczanny (Rudweiler)"
+      ]
+    },
+    {
       "nazwa": "Rudno",
       "lokalizacja": "woj. śląskie, pow. gliwicki",
       "inne_nazwy": [
@@ -14346,6 +14894,16 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. łobeski",
       "inne_nazwy": [
         "Ruhnow"
+      ]
+    },
+    {
+      "nazwa": "Ruś",
+      "lokalizacja": "kraj. Litwa, okr. kłajpedzki",
+      "inne_nazwy": [
+        "Russ",
+        "Rusnė",
+        "Rusne",
+        "Ruß"
       ]
     },
     {
@@ -14435,6 +14993,13 @@
       ]
     },
     {
+      "nazwa": "Rychliki",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Reichenbach"
+      ]
+    },
+    {
       "nazwa": "Rychnowy",
       "lokalizacja": "woj. pomorskie, pow. człuchowski",
       "inne_nazwy": [
@@ -14509,10 +15074,18 @@
       ]
     },
     {
+      "nazwa": "Rynarzewo",
+      "lokalizacja": "woj. kujawsko-pomorskie, pow. nakielski",
+      "inne_nazwy": [
+        "Rohrbruck"
+      ]
+    },
+    {
       "nazwa": "Ryńsk",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. wąbrzeski",
       "inne_nazwy": [
-        "Rheinsberg"
+        "Rheinsberg",
+        "Rynsk"
       ]
     },
     {
@@ -14777,10 +15350,18 @@
       ]
     },
     {
+      "nazwa": "Sępolno Krajeńskie",
+      "lokalizacja": "woj. kujawsko-pomorskie, pow. sępoleński",
+      "inne_nazwy": [
+        "Zempelburg"
+      ]
+    },
+    {
       "nazwa": "Sępopol",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. bartoszycki",
       "inne_nazwy": [
-        "Schippenbeil"
+        "Schippenbeil",
+        "Schippenbell"
       ]
     },
     {
@@ -15030,7 +15611,8 @@
       "nazwa": "Skarszewy",
       "lokalizacja": "woj. pomorskie, pow. starogardzki",
       "inne_nazwy": [
-        "Schöneck"
+        "Schöneck",
+        "Schoneck"
       ]
     },
     {
@@ -15056,6 +15638,13 @@
     },
     {
       "nazwa": "Skórcz",
+      "lokalizacja": "woj. pomorskie, pow. starogardzki",
+      "inne_nazwy": [
+        "Skurz"
+      ]
+    },
+    {
+      "nazwa": "Skorcz",
       "lokalizacja": "woj. pomorskie, pow. starogardzki",
       "inne_nazwy": [
         "Skurz"
@@ -15143,7 +15732,8 @@
       "nazwa": "Śliwice",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. tucholski",
       "inne_nazwy": [
-        "Groß Schliewitz"
+        "Groß Schliewitz",
+        "Gross Schliwitz"
       ]
     },
     {
@@ -15298,6 +15888,13 @@
       "inne_nazwy": [
         "Soppieschin",
         "Sophienhof"
+      ]
+    },
+    {
+      "nazwa": "Sopot",
+      "lokalizacja": "woj. pomorskie, pow. m. Sopot",
+      "inne_nazwy": [
+        "Zoppot"
       ]
     },
     {
@@ -15587,6 +16184,13 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. stargardzki",
       "inne_nazwy": [
         "Stargard (in Pommern)"
+      ]
+    },
+    {
+      "nazwa": "Stargard Gdański",
+      "lokalizacja": "woj. pomorskie, pow. starogardzki",
+      "inne_nazwy": [
+        "Preussisch Stargard"
       ]
     },
     {
@@ -16322,6 +16926,13 @@
       ]
     },
     {
+      "nazwa": "Świecie n/W",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Gruppe"
+      ]
+    },
+    {
       "nazwa": "Święciechów",
       "lokalizacja": "woj. zachodniopomorskie, pow. choszczeński",
       "inne_nazwy": [
@@ -16453,6 +17064,16 @@
       "lokalizacja": "woj. lubuskie, pow. międzyrzecki",
       "inne_nazwy": [
         "Georgsdorf"
+      ]
+    },
+    {
+      "nazwa": "Swietłogorsk",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Rauschen",
+        "Swetlogorsk",
+        "Svetlogorsk",
+        "Светлогорск"
       ]
     },
     {
@@ -16987,6 +17608,15 @@
       ]
     },
     {
+      "nazwa": "Szyłokarczma",
+      "lokalizacja": "kraj. Litwa, okr. kłajpedzki",
+      "inne_nazwy": [
+        "Heydekrug",
+        "Šilutė",
+        "Silute"
+      ]
+    },
+    {
       "nazwa": "Słaboszewo",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. mogileński",
       "inne_nazwy": [
@@ -17279,6 +17909,13 @@
       ]
     },
     {
+      "nazwa": "Tilsit(Rosja)",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Splitter"
+      ]
+    },
+    {
       "nazwa": "Tokary",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
@@ -17346,9 +17983,23 @@
     },
     {
       "nazwa": "Toruń",
+      "lokalizacja": "woj. kujawsko-pomorskie, pow. m. Toruń",
+      "inne_nazwy": [
+        "Thorn"
+      ]
+    },
+    {
+      "nazwa": "Toruń",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. miasto Toruń",
       "inne_nazwy": [
         "Thorn"
+      ]
+    },
+    {
+      "nazwa": "Toruń, -?",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Mocker"
       ]
     },
     {
@@ -17476,6 +18127,13 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. gryfiński",
       "inne_nazwy": [
         "Bad Schönfließ"
+      ]
+    },
+    {
+      "nazwa": "Trzebcz",
+      "lokalizacja": "woj. kujawsko-pomorskie, pow. chełmiński",
+      "inne_nazwy": [
+        "Trzebcz"
       ]
     },
     {
@@ -17649,6 +18307,13 @@
       ]
     },
     {
+      "nazwa": "Turza Mała",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Klein Tauersee"
+      ]
+    },
+    {
       "nazwa": "Turze",
       "lokalizacja": "woj. zachodniopomorskie, pow. pyrzycki",
       "inne_nazwy": [
@@ -17737,6 +18402,18 @@
       "lokalizacja": "woj. kujawsko-pomorskie, pow. toruński",
       "inne_nazwy": [
         "Tillitz"
+      ]
+    },
+    {
+      "nazwa": "Tylża",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Tilsit",
+        "Sowieck",
+        "Sowjetsk",
+        "Советск",
+        "Tilžė",
+        "Тылжа"
       ]
     },
     {
@@ -18069,6 +18746,13 @@
       ]
     },
     {
+      "nazwa": "Wąsosz",
+      "lokalizacja": "woj. zachodniopomorskie, pow. drawski",
+      "inne_nazwy": [
+        "Bruchhof"
+      ]
+    },
+    {
       "nazwa": "Watorowo",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. chełmiński",
       "inne_nazwy": [
@@ -18199,6 +18883,13 @@
       "lokalizacja": "woj. pomorskie, pow. bytowski",
       "inne_nazwy": [
         "Viartlum"
+      ]
+    },
+    {
+      "nazwa": "Wichórze",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Wichorsee"
       ]
     },
     {
@@ -18815,6 +19506,15 @@
     },
     {
       "nazwa": "Wrocław",
+      "lokalizacja": "woj. dolnośląskie, pow. m. Wrocław",
+      "inne_nazwy": [
+        "Breslau",
+        "Vratislavia"
+      ],
+      "notka": "Test"
+    },
+    {
+      "nazwa": "Wrocław",
       "lokalizacja": "woj. dolnośląskie, pow. miasto Wrocław",
       "inne_nazwy": [
         "Breslau"
@@ -18826,6 +19526,13 @@
       "inne_nazwy": [
         "Wrotzlawken",
         "Atzmannsdorf"
+      ]
+    },
+    {
+      "nazwa": "Wroki",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Wrotzk"
       ]
     },
     {
@@ -19049,6 +19756,18 @@
         "Sucha",
         "Huta",
         "Przywidz"
+      ]
+    },
+    {
+      "nazwa": "Wystruć",
+      "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
+      "inne_nazwy": [
+        "Insterburg",
+        "Czerniachowsk",
+        "Tschernjachowsk",
+        "Chernyakhovsk",
+        "Черняховск",
+        "Įsrutis"
       ]
     },
     {
@@ -19471,6 +20190,13 @@
       "lokalizacja": "woj. lubuskie, pow. żarski",
       "inne_nazwy": [
         "Forst"
+      ]
+    },
+    {
+      "nazwa": "Zaskocz",
+      "lokalizacja": "woj. kujawsko-pomorskie, pow. wąbrzeski",
+      "inne_nazwy": [
+        "Zaskotsch"
       ]
     },
     {
@@ -20287,7 +21013,8 @@
       "nazwa": "Łasin",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. grudziądzki",
       "inne_nazwy": [
-        "Lessen"
+        "Lessen",
+        "Lessin"
       ]
     },
     {
