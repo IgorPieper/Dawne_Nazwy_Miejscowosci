@@ -44,7 +44,8 @@ Format jest celowo **prosty i jednoznaczny**:
     {
       "nazwa": "Wrocław",
       "lokalizacja": "woj. dolnośląskie, pow. m. Wrocław",
-      "inne_nazwy": ["Breslau", "Vratislavia"]
+      "inne_nazwy": ["Breslau", "Vratislavia"],
+      "notka":
     }
   ]
 }
@@ -53,6 +54,7 @@ Format jest celowo **prosty i jednoznaczny**:
 * `nazwa` – obecna, oficjalna nazwa miejscowości
 * `lokalizacja` – opis administracyjny pozwalający jednoznacznie ją zidentyfikować
 * `inne_nazwy` – dawne, historyczne lub obcojęzyczne nazwy
+* `notka` - dodatkowa informacja
 
 ---
 
