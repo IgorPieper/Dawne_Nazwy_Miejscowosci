@@ -1,0 +1,18 @@
+{
+  "miejscowosci": [
+    {
+      "nazwa": "Wrocław",
+      "lokalizacja": "woj. dolnośląskie, pow. m. Wrocław",
+      "inne_nazwy": [
+        "Breslau",
+        "Vratislavia"
+      ]
+    },
+    {
+      "nazwa": "Gdańsk",
+      "lokalizacja": "woj. pomorskie, pow. m. Gdańsk",
+      "inne_nazwy": [
+        "Danzig"
+      ]
+    },
+}
