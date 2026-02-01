@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Dawne Nazwy Miejscowości</title>
-  <meta name="description" content="Wyszukiwarka dawnych i alternatywnych nazw polskich miejscowości (miasta, wsie, osady)." />
+  <meta name="description" content="Wyszukiwarka dawnych i alternatywnych nazw polskich miejscowości." />
   <meta name="color-scheme" content="light dark" />
   <style>
     :root{
@@ -12,7 +12,7 @@
       --card: rgba(255,255,255,0.06);
       --card2: rgba(255,255,255,0.08);
       --text: rgba(255,255,255,0.92);
-      --muted: rgba(255,255,255,0.68);
+      --muted: rgba(255,255,255,0.66);
       --border: rgba(255,255,255,0.14);
       --shadow: 0 22px 70px rgba(0,0,0,0.35);
       --r: 18px;
@@ -42,13 +42,21 @@
       font-family: var(--sans);
       color: var(--text);
       background:
-        radial-gradient(1200px 700px at 15% 0%, rgba(124,92,255,0.35), transparent 60%),
-        radial-gradient(900px 600px at 90% 10%, rgba(53,208,255,0.25), transparent 55%),
-        radial-gradient(900px 600px at 40% 120%, rgba(251,191,36,0.10), transparent 55%),
+        /* papier / sepia */
+        radial-gradient(1200px 760px at 18% 8%, rgba(227, 197, 141, 0.20), transparent 62%),
+        radial-gradient(980px 680px at 88% 14%, rgba(142, 190, 191, 0.14), transparent 58%),
+        radial-gradient(900px 700px at 55% 120%, rgba(120, 86, 40, 0.18), transparent 60%),
+        /* delikatna siatka jak na planach */
+        repeating-linear-gradient(0deg, rgba(255,255,255,0.05) 0 1px, transparent 1px 26px),
+        repeating-linear-gradient(90deg, rgba(255,255,255,0.04) 0 1px, transparent 1px 26px),
+        /* ukośne kreskowanie (papier / skan) */
+        repeating-linear-gradient(45deg, rgba(0,0,0,0.18) 0 1px, transparent 1px 90px),
+        /* winieta */
+        radial-gradient(1100px 800px at 50% 30%, transparent 55%, rgba(0,0,0,0.35) 100%),
         var(--bg);
     }
 
-    .wrap{ max-width: 1200px; margin:0 auto; padding: 38px 22px 70px; }
+    .wrap{ max-width: 1100px; margin:0 auto; padding: 40px 20px 70px; }
 
     .topbar{
       display:flex;
@@ -206,30 +214,7 @@
       box-shadow: 0 0 0 4px rgba(124,92,255,0.18);
     }
 
-    /* STATUS BAR (podpowiedzi / i Esc) */
-    .status{
-      display:flex;
-      justify-content: space-between;
-      align-items:center;
-      gap:12px;
-      flex-wrap: wrap;
-      color: var(--muted);
-      font-size: 13px;
-      margin: 14px 6px 6px;
-    }
-    .kbd{
-      font-family: var(--mono);
-      font-size: 12px;
-      padding: 2px 6px;
-      border-radius: 8px;
-      border: 1px solid var(--border);
-      background: rgba(255,255,255,0.03);
-    }
-    @media (prefers-color-scheme: light){
-      .kbd{ background: rgba(0,0,0,0.03); }
-    }
-
-    main{ margin-top: 10px; }
+    main{ margin-top: 16px; }
 
     .grid{ display:grid; grid-template-columns: repeat(12, 1fr); gap: 12px; }
 
@@ -296,7 +281,7 @@
     <header>
       <h1>Wyszukiwarka nazw miejscowości</h1>
       <p class="sub">
-        Szukaj po nazwie obecnej, dawnej lub obcojęzycznej.
+        Szukaj po nazwie obecnej albo innej (dawnej/obcojęzycznej). Wyniki pokazują lokalizację, żeby nie mylić miejsc o tej samej nazwie.
       </p>
 
       <div class="search">
@@ -305,8 +290,8 @@
             <path d="M10.5 18a7.5 7.5 0 1 1 0-15 7.5 7.5 0 0 1 0 15Z" stroke="currentColor" stroke-width="2"/>
             <path d="M16.5 16.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
           </svg>
-          <input id="q" type="text" placeholder="Np. Wrocław, Breslau, Danzig…" autocomplete="off" />
-          <button class="btn" id="clearBtn" title="Wyczyść (Esc)">Wyczyść</button>
+          <input id="q" type="text" placeholder="Np. Wrocław, Nowa Wieś, Breslau, Danzig…" autocomplete="off" />
+          <button class="btn" id="clearBtn" title="Wyczyść">Wyczyść</button>
         </div>
 
         <div class="controls">
@@ -333,26 +318,19 @@
       </div>
     </header>
 
-    <!-- TU SĄ PODPOWIEDZI / i Esc -->
-    <div class="status">
-      <div id="statusLeft">Wpisz frazę, aby zobaczyć wyniki.</div>
-      <div id="statusRight"><span class="kbd">/</span> fokus • <span class="kbd">Esc</span> wyczyść</div>
-    </div>
-
     <main>
       <div id="results" class="grid"></div>
     </main>
   </div>
 
   <script>
-    // wszystko w root, dokładnie jak chcesz:
-    const DATA_URL = "Miejscowosci.json";
+    // Wszystko jest w root
+    const DATA_URL = "./Miejscowosci.json";
 
     const els = {
       q: document.getElementById("q"),
       results: document.getElementById("results"),
       metaPill: document.getElementById("metaPill"),
-      statusLeft: document.getElementById("statusLeft"),
       tName: document.getElementById("tName"),
       tAlt: document.getElementById("tAlt"),
       tLoc: document.getElementById("tLoc"),
@@ -436,24 +414,21 @@
       lastRendered = items.map(x => x.entry);
     }
 
-    function setStatus(msg){
-      if(els.statusLeft) els.statusLeft.textContent = msg;
-    }
-
     function search(){
       const rawQuery = els.q.value.trim();
       const q = norm(rawQuery);
+
       const flags = { name: els.tName.checked, alt: els.tAlt.checked, loc: els.tLoc.checked };
 
+      // Bez danych nie robimy nic (i nie spamujemy)
       if(!db.length){
         render([], "");
-        setStatus("Brak danych.");
         return;
       }
 
       if(!q){
+        // puste pole = nie pokazujemy listy całej bazy (żeby nie zamulać)
         render([], "");
-        setStatus("Wpisz frazę, aby zobaczyć wyniki.");
         return;
       }
 
@@ -470,7 +445,7 @@
 
       const limited = hits.slice(0, 200);
       render(limited, rawQuery);
-      setStatus(limited.length ? `Wyniki: ${limited.length}${hits.length > 200 ? " (obcięto do 200)" : ""}` : "Brak wyników.");
+      els.metaPill.textContent = `Wpisów: ${db.length}`;
     }
 
     async function init(){
@@ -480,18 +455,18 @@
         const json = await res.json();
         db = Array.isArray(json?.miejscowosci) ? json.miejscowosci : [];
         els.metaPill.textContent = `Wpisów: ${db.length}`;
-        setStatus("Wpisz frazę, aby zobaczyć wyniki.");
-        search();
       } catch (err){
+        // Cicho: żadnych komunikatów na ekranie
         els.metaPill.textContent = "Brak danych";
         els.metaPill.style.borderColor = "rgba(251,191,36,0.35)";
-        setStatus("Nie udało się wczytać danych.");
         console.error(err);
       }
     }
 
     async function copyResults(){
-      if(!lastRendered.length) return;
+      if(!lastRendered.length){
+        return; // cicho
+      }
       const lines = lastRendered.map(e => {
         const alts = (e.inne_nazwy || []).join(", ") || "(brak)";
         return `${e.nazwa} — ${e.lokalizacja} | inne: ${alts}`;
@@ -499,12 +474,12 @@
 
       try{
         await navigator.clipboard.writeText(lines);
-        setStatus(`Skopiowano ${lastRendered.length} wyników.`);
       } catch {
         window.prompt("Skopiuj ręcznie:", lines);
       }
     }
 
+    // Events
     els.q.addEventListener("input", search);
     els.tName.addEventListener("change", search);
     els.tAlt.addEventListener("change", search);
@@ -514,21 +489,15 @@
       els.q.value = "";
       els.q.focus();
       render([], "");
-      setStatus("Wpisz frazę, aby zobaczyć wyniki.");
     });
 
     els.copyBtn.addEventListener("click", copyResults);
 
-    // / fokus, Esc czyść
+    // Esc czyści
     document.addEventListener("keydown", (e) => {
-      if(e.key === "/" && document.activeElement !== els.q){
-        e.preventDefault();
-        els.q.focus();
-      }
       if(e.key === "Escape"){
         els.q.value = "";
         render([], "");
-        setStatus("Wpisz frazę, aby zobaczyć wyniki.");
       }
     });
 
