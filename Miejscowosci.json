@@ -3,7 +3,8 @@
     {
       "nazwa": "Wrocław",
       "lokalizacja": "woj. dolnośląskie, pow. m. Wrocław",
-      "inne_nazwy": ["Breslau", "Vratislavia"]
+      "inne_nazwy": ["Breslau", "Vratislavia"],
+      "notka": "Test"
     },
     {
       "nazwa": "Gdańsk",
