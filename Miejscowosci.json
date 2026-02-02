@@ -1523,6 +1523,23 @@
       ]
     },
     {
+      "nazwa": "Bolszewo",
+      "lokalizacja": "woj. pomorskie, pow. wejherowski",
+      "inne_nazwy": [
+        "Buleczowe",
+        "Bolischow",
+        "Boleschow",
+        "Boleschowo",
+        "Pulschaw",
+        "Bulsow",
+        "Bolessauw",
+        "Bolszouw",
+        "Bolschaff",
+        "Bohlschau",
+        "Bólszewò"
+      ]
+    },
+    {
       "nazwa": "Boniowice",
       "lokalizacja": "woj. śląskie, pow. tarnogórski",
       "inne_nazwy": [
@@ -5467,6 +5484,17 @@
       ]
     },
     {
+      "nazwa": "Gościcino",
+      "lokalizacja": "woj. pomorskie, pow. wejherowski",
+      "inne_nazwy": [
+        "Gossen",
+        "Gosczizino",
+        "Gostetin",
+        "Gossentin",
+        "Gòścëcëno"
+      ]
+    },
+    {
       "nazwa": "Gościejewo",
       "lokalizacja": "woj. wielkopolskie, pow. obornicki",
       "inne_nazwy": [
@@ -7888,7 +7916,16 @@
       "nazwa": "Kielno",
       "lokalizacja": "woj. pomorskie, pow. wejherowski",
       "inne_nazwy": [
-        "Kölln"
+        "Kölln",
+        "Kelne",
+        "Kelnam",
+        "Callen",
+        "Cellen",
+        "de Kelna",
+        "Kyelnya",
+        "Calgon",
+        "Kölln am Walde",
+        "Kolno"
       ]
     },
     {
@@ -8196,7 +8233,8 @@
       "lokalizacja": "woj. pomorskie, pow. wejherowski",
       "inne_nazwy": [
         "Kolletzkau",
-        "Kollendorf"
+        "Kollendorf",
+        "Kòleczkòwò"
       ]
     },
     {
@@ -10295,6 +10333,13 @@
       ]
     },
     {
+      "nazwa": "Lubowidz",
+      "lokalizacja": "woj. pomorskie, pow. lęborski",
+      "inne_nazwy": [
+        "Luggewiese"
+      ]
+    },
+    {
       "nazwa": "Lubrza",
       "lokalizacja": "woj. lubuskie, pow. świebodziński",
       "inne_nazwy": [
@@ -10404,7 +10449,10 @@
       "nazwa": "Luzino",
       "lokalizacja": "woj. pomorskie, pow. wejherowski",
       "inne_nazwy": [
-        "Lusin"
+        "Lusin",
+        "Lusino",
+        "Lusyno",
+        "Lëzëno"
       ]
     },
     {
@@ -10643,6 +10691,15 @@
       "lokalizacja": "woj. lubuskie, pow. krośnieński",
       "inne_nazwy": [
         "Massow"
+      ]
+    },
+    {
+      "nazwa": "Maszewo",
+      "lokalizacja": "woj. pomorskie, pow. lęborski",
+      "inne_nazwy": [
+        "Maszewo Lęborskie",
+        "Groß Massow",
+        "Maszewò Lãbòrsczé"
       ]
     },
     {
@@ -11440,6 +11497,15 @@
     },
     {
       "nazwa": "Mosty",
+      "lokalizacja": "woj. pomorskie, pow. lęborski",
+      "inne_nazwy": [
+        "Brücke",
+        "Luggewieser Brücke",
+        "Mostë"
+      ]
+    },
+    {
+      "nazwa": "Mosty",
       "lokalizacja": "woj. zachodniopomorskie, pow. goleniowski",
       "inne_nazwy": [
         "Speck"
@@ -11711,6 +11777,17 @@
       "inne_nazwy": [
         "Namslau"
       ]
+    },
+    {
+      "nazwa": "Nanice",
+      "lokalizacja": "woj. pomorskie, pow. wejherowski",
+      "inne_nazwy": [
+        "Wejherowo-Nanice",
+        "Naniec",
+        "Nańc",
+        "Nanitz"
+      ],
+      "notka": "Obecnie część Wejherowa"
     },
     {
       "nazwa": "Napiwoda",
@@ -12118,7 +12195,9 @@
       "nazwa": "Nowa Wieś Lęborska",
       "lokalizacja": "woj. pomorskie, pow. lęborski",
       "inne_nazwy": [
-        "Neuendorf"
+        "Neuendorf",
+        "Nowa Wieś",
+        "Nowô Wies"
       ]
     },
     {
@@ -15603,6 +15682,15 @@
       ]
     },
     {
+      "nazwa": "Rybki",
+      "lokalizacja": "woj. pomorskie, pow. wejherowski",
+      "inne_nazwy": [
+        "Röpke",
+        "Wielorybki"
+      ],
+      "notka": "Obecnie część Lęborka"
+    },
+    {
       "nazwa": "Rybnica",
       "lokalizacja": "woj. dolnośląskie, pow. karkonoski",
       "inne_nazwy": [
@@ -16473,6 +16561,15 @@
       "inne_nazwy": [
         "Schmellwitz"
       ]
+    },
+    {
+      "nazwa": "Śmiechowo",
+      "lokalizacja": "woj. pomorskie, pow. wejherowski",
+      "inne_nazwy": [
+        "Schmechau",
+        "Smëchowò"
+      ],
+      "notka": "Obecnie część Wejherowa"
     },
     {
       "nazwa": "Śmiełów",
@@ -18088,7 +18185,13 @@
       "nazwa": "Szemud",
       "lokalizacja": "woj. pomorskie, pow. wejherowski",
       "inne_nazwy": [
-        "Schönwalde"
+        "Schönwalde",
+        "Schönwald",
+        "Szynwałd",
+        "Szemałd",
+        "Szenwald",
+        "Schöenewalde",
+        "Szëmôłd"
       ]
     },
     {
@@ -21029,6 +21132,17 @@
       ]
     },
     {
+      "nazwa": "Zamek",
+      "lokalizacja": "woj. pomorskie, pow. wejherowski",
+      "inne_nazwy": [
+        "Wejherowo-Zamek",
+        "Cegielnia",
+        "Zamkowa Cegielnia",
+        "Burg"
+      ],
+      "notka": "Obecnie część Wejherowa"
+    },
+    {
       "nazwa": "Zamek Kiszewski",
       "lokalizacja": "woj. pomorskie, pow. kościerski",
       "inne_nazwy": [
@@ -22024,6 +22138,16 @@
       "inne_nazwy": [
         "Lonzyn",
         "Wielka"
+      ]
+    },
+    {
+      "nazwa": "Łeba",
+      "lokalizacja": "woj. pomorskie, pow. lęborski",
+      "inne_nazwy": [
+        "Łeboujście",
+        "Lebamunde",
+        "Leba",
+        "Stara Łeba"
       ]
     },
     {
