@@ -1896,6 +1896,14 @@
     },
     {
       "nazwa": "Brzeźno",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Brosen"
+      ],
+      "notka": "Obecnie część Gdańska"
+    },
+    {
+      "nazwa": "Brzeźno",
       "lokalizacja": "woj. wielkopolskie, pow. koniński",
       "inne_nazwy": [
         "Briesen",
@@ -4289,17 +4297,17 @@
       ]
     },
     {
-      "nazwa": "Dzierżążno-Leśnictwo",
-      "lokalizacja": "woj. pomorskie, pow. kartuski",
-      "inne_nazwy": [
-        "Forstwirtschaft Seeresen"
-      ]
-    },
-    {
       "nazwa": "Dzierżążno Wielkie",
       "lokalizacja": "woj. wielkopolskie, pow. czarnkowsko-trzcianecki",
       "inne_nazwy": [
         "Gross-Drensen"
+      ]
+    },
+    {
+      "nazwa": "Dzierżążno-Leśnictwo",
+      "lokalizacja": "woj. pomorskie, pow. kartuski",
+      "inne_nazwy": [
+        "Forstwirtschaft Seeresen"
       ]
     },
     {
@@ -4516,6 +4524,14 @@
       ]
     },
     {
+      "nazwa": "Emaus",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Emaus"
+      ],
+      "notka": "Obecnie część Gdańska"
+    },
+    {
       "nazwa": "Ełganowo",
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
@@ -4723,174 +4739,6 @@
       "inne_nazwy": [
         "Danzig"
       ]
-    },
-    {
-      "nazwa": "Brzeźno",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Brosen"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Emaus",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Emaus"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Jasień",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Altdorf"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Jelitkowo",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Glettkau"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Krakowiec",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Krakau"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Letnica",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Lauental"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Niedźwiednik",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Brentall"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Nowe Szkoty",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Neu Schottland"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Oliwa",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Oliva"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Olszynka",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Walddorf"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Orunia",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Ohra"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Piecki",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Pietzendorf"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Pohulanka",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Stolzenberg"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Polanki",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Pelonken"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Rudniki",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Burgerwiesen"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Saczki",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Riesenfeld"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Stogi",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Heubude"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Westerplate",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Westerplatte"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Wisłoujście",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Weichselmunde"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Wrzeszcz",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Langfuhr"
-      ],
-      "notka": "Obecnie dzielnica Gdańska"
-    },
-    {
-      "nazwa": "Zaspa",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Saspe"
-      ],
-      "notka": "Obecnie dzielnica Gdańska"
     },
     {
       "nazwa": "Gdynia",
@@ -6724,6 +6572,14 @@
       ]
     },
     {
+      "nazwa": "Jasień",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Altdorf"
+      ],
+      "notka": "Obecnie część Gdańska"
+    },
+    {
       "nazwa": "Jasienica",
       "lokalizacja": "woj. śląskie, pow. bielski",
       "inne_nazwy": [
@@ -6930,6 +6786,14 @@
       "inne_nazwy": [
         "Jellenschehütte"
       ]
+    },
+    {
+      "nazwa": "Jelitkowo",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Glettkau"
+      ],
+      "notka": "Obecnie część Gdańska"
     },
     {
       "nazwa": "Jelitkowo",
@@ -8682,6 +8546,14 @@
       ]
     },
     {
+      "nazwa": "Krakowiec",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Krakau"
+      ],
+      "notka": "Obecnie część Gdańska"
+    },
+    {
       "nazwa": "Krapkowice",
       "lokalizacja": "woj. opolskie, pow. krapkowicki",
       "inne_nazwy": [
@@ -9572,6 +9444,14 @@
       "inne_nazwy": [
         "Leschütz"
       ]
+    },
+    {
+      "nazwa": "Letnica",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Lauental"
+      ],
+      "notka": "Obecnie część Gdańska"
     },
     {
       "nazwa": "Letnin",
@@ -11382,6 +11262,14 @@
       ]
     },
     {
+      "nazwa": "Niedźwiednik",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Brentall"
+      ],
+      "notka": "Obecnie część Gdańska"
+    },
+    {
       "nazwa": "Niedźwiedź",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. świecki",
       "inne_nazwy": [
@@ -11789,6 +11677,14 @@
         "Neu Skalmierschütz",
         "Neu Skalden"
       ]
+    },
+    {
+      "nazwa": "Nowe Szkoty",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Neu Schottland"
+      ],
+      "notka": "Obecnie część Gdańska"
     },
     {
       "nazwa": "Nowe Warpno",
@@ -12241,6 +12137,14 @@
       ]
     },
     {
+      "nazwa": "Oliwa",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Oliva"
+      ],
+      "notka": "Obecnie część Gdańska"
+    },
+    {
       "nazwa": "Olkusz",
       "lokalizacja": "woj. małopolskie, pow. olkuski",
       "inne_nazwy": [
@@ -12320,6 +12224,14 @@
       ]
     },
     {
+      "nazwa": "Olszynka",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Walddorf"
+      ],
+      "notka": "Obecnie część Gdańska"
+    },
+    {
       "nazwa": "Opalenica",
       "lokalizacja": "woj. wielkopolskie, pow. nowotomyski",
       "inne_nazwy": [
@@ -12368,6 +12280,14 @@
       "inne_nazwy": [
         "Wormditt"
       ]
+    },
+    {
+      "nazwa": "Orunia",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Ohra"
+      ],
+      "notka": "Obecnie część Gdańska"
     },
     {
       "nazwa": "Orzechowo",
@@ -13056,6 +12976,14 @@
       ]
     },
     {
+      "nazwa": "Piecki",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Pietzendorf"
+      ],
+      "notka": "Obecnie część Gdańska"
+    },
+    {
       "nazwa": "Pieckowo",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. kętrzyński",
       "inne_nazwy": [
@@ -13420,6 +13348,14 @@
       ]
     },
     {
+      "nazwa": "Pohulanka",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Stolzenberg"
+      ],
+      "notka": "Obecnie część Gdańska"
+    },
+    {
       "nazwa": "Pokój",
       "lokalizacja": "woj. opolskie, pow. namysłowski",
       "inne_nazwy": [
@@ -13453,6 +13389,14 @@
       "inne_nazwy": [
         "Deutschbach"
       ]
+    },
+    {
+      "nazwa": "Polanki",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Pelonken"
+      ],
+      "notka": "Obecnie część Gdańska"
     },
     {
       "nazwa": "Polanów",
@@ -14839,6 +14783,13 @@
       ]
     },
     {
+      "nazwa": "Ruciane-Nida, -Ruciane",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Rudczanny (Rudweiler)"
+      ]
+    },
+    {
       "nazwa": "Ruciane-Nida, Nida",
       "lokalizacja": "lokalizacja do uzupełnienia",
       "inne_nazwy": [
@@ -14846,11 +14797,12 @@
       ]
     },
     {
-      "nazwa": "Ruciane-Nida, -Ruciane",
-      "lokalizacja": "lokalizacja do uzupełnienia",
+      "nazwa": "Rudniki",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
       "inne_nazwy": [
-        "Rudczanny (Rudweiler)"
-      ]
+        "Burgerwiesen"
+      ],
+      "notka": "Obecnie część Gdańska"
     },
     {
       "nazwa": "Rudno",
@@ -15189,6 +15141,14 @@
       "inne_nazwy": [
         "Ristow"
       ]
+    },
+    {
+      "nazwa": "Saczki",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Riesenfeld"
+      ],
+      "notka": "Obecnie część Gdańska"
     },
     {
       "nazwa": "Sadowice",
@@ -16445,6 +16405,14 @@
       "inne_nazwy": [
         "Stöwen"
       ]
+    },
+    {
+      "nazwa": "Stogi",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Heubude"
+      ],
+      "notka": "Obecnie część Gdańska"
     },
     {
       "nazwa": "Stójków",
@@ -18879,6 +18847,14 @@
       ]
     },
     {
+      "nazwa": "Westerplate",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Westerplatte"
+      ],
+      "notka": "Obecnie część Gdańska"
+    },
+    {
       "nazwa": "Wiadrów",
       "lokalizacja": "woj. dolnośląskie, pow. jaworski",
       "inne_nazwy": [
@@ -19299,6 +19275,14 @@
       ]
     },
     {
+      "nazwa": "Wisłoujście",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Weichselmunde"
+      ],
+      "notka": "Obecnie część Gdańska"
+    },
+    {
       "nazwa": "Witków",
       "lokalizacja": "woj. dolnośląskie, pow. świdnicki",
       "inne_nazwy": [
@@ -19577,6 +19561,14 @@
       "inne_nazwy": [
         "Freetz"
       ]
+    },
+    {
+      "nazwa": "Wrzeszcz",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Langfuhr"
+      ],
+      "notka": "Obecnie dzielnica Gdańska"
     },
     {
       "nazwa": "Wrzeszcz",
@@ -20212,6 +20204,14 @@
       "inne_nazwy": [
         "Saskoschin"
       ]
+    },
+    {
+      "nazwa": "Zaspa",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Saspe"
+      ],
+      "notka": "Obecnie dzielnica Gdańska"
     },
     {
       "nazwa": "Zawada Książęca",
