@@ -1590,6 +1590,13 @@
       ]
     },
     {
+      "nazwa": "Boża Wola",
+      "lokalizacja": "woj. lubelskie, pow. tomaszowski",
+      "inne_nazwy": [
+        "Sorge"
+      ]
+    },
+    {
       "nazwa": "Bożanów",
       "lokalizacja": "woj. dolnośląskie, pow. świdnicki",
       "inne_nazwy": [
@@ -1816,6 +1823,15 @@
       ]
     },
     {
+      "nazwa": "Brześć Litewski",
+      "lokalizacja": "kraj. Białoruś, obw. brzeski",
+      "inne_nazwy": [
+        "Bieraście",
+        "Брест",
+        "Brest-Litowsk"
+      ]
+    },
+    {
       "nazwa": "Brzesko",
       "lokalizacja": "woj. małopolskie, pow. brzeski",
       "inne_nazwy": [
@@ -1889,13 +1905,7 @@
       "nazwa": "Brzeźno",
       "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
       "inne_nazwy": [
-        "Brösen"
-      ]
-    },
-    {
-      "nazwa": "Brzeźno",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
+        "Brösen",
         "Brosen"
       ],
       "notka": "Obecnie część Gdańska"
@@ -4209,6 +4219,14 @@
       ]
     },
     {
+      "nazwa": "Dyneburg",
+      "lokalizacja": "kraj. Łotwa, Łatgalia",
+      "inne_nazwy": [
+        "Daugavpils",
+        "Двинск"
+      ]
+    },
+    {
       "nazwa": "Dynów",
       "lokalizacja": "woj. podkarpackie, pow. rzeszowski",
       "inne_nazwy": [
@@ -4294,17 +4312,17 @@
       ]
     },
     {
-      "nazwa": "Dzierżążno Wielkie",
-      "lokalizacja": "woj. wielkopolskie, pow. czarnkowsko-trzcianecki",
-      "inne_nazwy": [
-        "Gross-Drensen"
-      ]
-    },
-    {
       "nazwa": "Dzierżążno-Leśnictwo",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
         "Forstwirtschaft Seeresen"
+      ]
+    },
+    {
+      "nazwa": "Dzierżążno Wielkie",
+      "lokalizacja": "woj. wielkopolskie, pow. czarnkowsko-trzcianecki",
+      "inne_nazwy": [
+        "Gross-Drensen"
       ]
     },
     {
@@ -5645,6 +5663,14 @@
       ]
     },
     {
+      "nazwa": "Grodno",
+      "lokalizacja": "kraj. Białoruś, obw. grodzieński",
+      "inne_nazwy": [
+        "Hrodna",
+        "Гродно"
+      ]
+    },
+    {
       "nazwa": "Grodzisk Wielkopolski",
       "lokalizacja": "woj. wielkopolskie, pow. grodziski",
       "inne_nazwy": [
@@ -6191,10 +6217,24 @@
       ]
     },
     {
+      "nazwa": "Horyszów",
+      "lokalizacja": "woj. lubelskie, pow. zamojski",
+      "inne_nazwy": [
+        "Pfingstdorf"
+      ]
+    },
+    {
       "nazwa": "Husów",
       "lokalizacja": "woj. podkarpackie, pow. łańcucki",
       "inne_nazwy": [
         "Hussau"
+      ]
+    },
+    {
+      "nazwa": "Huszczka",
+      "lokalizacja": "woj. lubelskie, pow. zamojski",
+      "inne_nazwy": [
+        "Bergfeld"
       ]
     },
     {
@@ -6777,17 +6817,10 @@
       "nazwa": "Jelitkowo",
       "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
       "inne_nazwy": [
-        "Glettkau"
-      ],
-      "notka": "Obecnie część Gdańska"
-    },
-    {
-      "nazwa": "Jelitkowo",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
         "Glettkau",
         "Glettkaw"
-      ]
+      ],
+      "notka": "Obecnie część Gdańska"
     },
     {
       "nazwa": "Jemielno",
@@ -7076,6 +7109,14 @@
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
         "Niedeck"
+      ]
+    },
+    {
+      "nazwa": "Kamieniec Podolski",
+      "lokalizacja": "kraj. Ukraina, obw. chmielnicki",
+      "inne_nazwy": [
+        "Kamianets-Podilskyi",
+        "Каменец-Подольский"
       ]
     },
     {
@@ -8343,6 +8384,14 @@
       "lokalizacja": "woj. dolnośląskie, pow. karkonoski",
       "inne_nazwy": [
         "Schmiedeberg"
+      ]
+    },
+    {
+      "nazwa": "Kowno",
+      "lokalizacja": "kraj. Litwa, okr. kowieński",
+      "inne_nazwy": [
+        "Kaunas",
+        "Ковно"
       ]
     },
     {
@@ -9933,6 +9982,15 @@
       ]
     },
     {
+      "nazwa": "Lwów",
+      "lokalizacja": "kraj. Ukraina, obw. lwowski",
+      "inne_nazwy": [
+        "Lviv",
+        "Львов",
+        "Lemberg"
+      ]
+    },
+    {
       "nazwa": "Lwówek",
       "lokalizacja": "woj. wielkopolskie, pow. nowotomyski",
       "inne_nazwy": [
@@ -9952,6 +10010,13 @@
       "lokalizacja": "woj. mazowieckie, pow. przasnyski",
       "inne_nazwy": [
         "Montwitz"
+      ]
+    },
+    {
+      "nazwa": "Majdan Wielki",
+      "lokalizacja": "woj. lubelskie, pow. tomaszowski",
+      "inne_nazwy": [
+        "Wilhelmstal"
       ]
     },
     {
@@ -10635,6 +10700,14 @@
       "lokalizacja": "woj. dolnośląskie, pow. oławski",
       "inne_nazwy": [
         "Minken"
+      ]
+    },
+    {
+      "nazwa": "Mińsk",
+      "lokalizacja": "kraj. Białoruś, obw. miński",
+      "inne_nazwy": [
+        "Miensk",
+        "Минск"
       ]
     },
     {
@@ -11724,6 +11797,14 @@
       ]
     },
     {
+      "nazwa": "Nowogródek",
+      "lokalizacja": "kraj. Białoruś, obw. grodzieński",
+      "inne_nazwy": [
+        "Navahrudak",
+        "Новогрудок"
+      ]
+    },
+    {
       "nazwa": "Nowogródek Pomorski",
       "lokalizacja": "woj. zachodniopomorskie, pow. myśliborski",
       "inne_nazwy": [
@@ -12710,6 +12791,13 @@
       ]
     },
     {
+      "nazwa": "Pańska Dolina",
+      "lokalizacja": "woj. lubelskie, pow. zamojski",
+      "inne_nazwy": [
+        "Pfälzdorf"
+      ]
+    },
+    {
       "nazwa": "Papowo Toruńskie",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. toruński",
       "inne_nazwy": [
@@ -13208,6 +13296,13 @@
       "inne_nazwy": [
         "Pniow",
         "Schrotkirch"
+      ]
+    },
+    {
+      "nazwa": "Pniówek",
+      "lokalizacja": "woj. lubelskie, pow. tomaszowski",
+      "inne_nazwy": [
+        "Neu-Hanau"
       ]
     },
     {
@@ -14103,6 +14198,13 @@
       ]
     },
     {
+      "nazwa": "Płoskie",
+      "lokalizacja": "woj. lubelskie, pow. zamojski",
+      "inne_nazwy": [
+        "Ebenheim"
+      ]
+    },
+    {
       "nazwa": "Płośnica",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. działdowski",
       "inne_nazwy": [
@@ -14759,17 +14861,17 @@
       ]
     },
     {
-      "nazwa": "Ruciane-Nida, -Ruciane",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Rudczanny (Rudweiler)"
-      ]
-    },
-    {
       "nazwa": "Ruciane-Nida, Nida",
       "lokalizacja": "lokalizacja do uzupełnienia",
       "inne_nazwy": [
         "Nieden"
+      ]
+    },
+    {
+      "nazwa": "Ruciane-Nida, -Ruciane",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Rudczanny (Rudweiler)"
       ]
     },
     {
@@ -15380,6 +15482,13 @@
       ]
     },
     {
+      "nazwa": "Siedliska",
+      "lokalizacja": "woj. lubelskie, pow. zamojski",
+      "inne_nazwy": [
+        "Mattern"
+      ]
+    },
+    {
       "nazwa": "Siedlisko",
       "lokalizacja": "woj. lubuskie, pow. nowosolski",
       "inne_nazwy": [
@@ -15516,6 +15625,13 @@
       ]
     },
     {
+      "nazwa": "Sitaniec",
+      "lokalizacja": "woj. lubelskie, pow. zamojski",
+      "inne_nazwy": [
+        "Silbenfeld"
+      ]
+    },
+    {
       "nazwa": "Sitno",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
@@ -15570,6 +15686,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. świdnicki",
       "inne_nazwy": [
         "Grunau"
+      ]
+    },
+    {
+      "nazwa": "Skierbieszów",
+      "lokalizacja": "woj. lubelskie, pow. zamojski",
+      "inne_nazwy": [
+        "Heidenstein"
       ]
     },
     {
@@ -17119,6 +17242,13 @@
       ]
     },
     {
+      "nazwa": "Szarowola",
+      "lokalizacja": "woj. lubelskie, pow. tomaszowski",
+      "inne_nazwy": [
+        "Schumkasee"
+      ]
+    },
+    {
       "nazwa": "Szatarpy",
       "lokalizacja": "woj. pomorskie, pow. kościerski",
       "inne_nazwy": [
@@ -17992,6 +18122,14 @@
       "lokalizacja": "woj. dolnośląskie, pow. wrocławski",
       "inne_nazwy": [
         "Treschen"
+      ]
+    },
+    {
+      "nazwa": "Troki",
+      "lokalizacja": "kraj. Litwa, okr. wileński",
+      "inne_nazwy": [
+        "Trakai",
+        "Троки"
       ]
     },
     {
@@ -19179,6 +19317,14 @@
       ]
     },
     {
+      "nazwa": "Wilno",
+      "lokalizacja": "kraj. Litwa, okr. wileński",
+      "inne_nazwy": [
+        "Vilnius",
+        "Вильнюс"
+      ]
+    },
+    {
       "nazwa": "Winnica",
       "lokalizacja": "woj. lubuskie, pow. międzyrzecki",
       "inne_nazwy": [
@@ -19546,13 +19692,6 @@
       "notka": "Obecnie dzielnica Gdańska"
     },
     {
-      "nazwa": "Wrzeszcz",
-      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
-      "inne_nazwy": [
-        "Langfuhr"
-      ]
-    },
-    {
       "nazwa": "Wrzeszczyn",
       "lokalizacja": "woj. dolnośląskie, pow. karkonoski",
       "inne_nazwy": [
@@ -19713,6 +19852,13 @@
       "lokalizacja": "woj. kujawsko-pomorskie, pow. sępoleński",
       "inne_nazwy": [
         "Hohenfelde"
+      ]
+    },
+    {
+      "nazwa": "Wysokie",
+      "lokalizacja": "woj. lubelskie, pow. zamojski",
+      "inne_nazwy": [
+        "Hochdorf"
       ]
     },
     {
@@ -20186,6 +20332,13 @@
         "Saspe"
       ],
       "notka": "Obecnie dzielnica Gdańska"
+    },
+    {
+      "nazwa": "Zawada",
+      "lokalizacja": "woj. lubelskie, pow. zamojski",
+      "inne_nazwy": [
+        "Wirsing"
+      ]
     },
     {
       "nazwa": "Zawada Książęca",
@@ -21212,6 +21365,14 @@
       "lokalizacja": "woj. śląskie, pow. raciborski",
       "inne_nazwy": [
         "Lubowitz"
+      ]
+    },
+    {
+      "nazwa": "Łuck",
+      "lokalizacja": "kraj. Ukraina, obw. wołyński",
+      "inne_nazwy": [
+        "Luck",
+        "Луцк"
       ]
     },
     {
