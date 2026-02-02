@@ -329,7 +329,6 @@
       "inne_nazwy": [
         "Bondecz",
         "Collin",
-        "1939–1945 Kollin",
         "Kollin"
       ]
     },
@@ -1905,7 +1904,7 @@
       "nazwa": "Brześć Kujawski",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. włocławski",
       "inne_nazwy": [
-        "Brest (in Wartheland)"
+        "Brest"
       ]
     },
     {
@@ -2370,7 +2369,7 @@
       "nazwa": "Bytom Odrzański",
       "lokalizacja": "woj. lubuskie, pow. nowosolski",
       "inne_nazwy": [
-        "Beuthen (an der Oder)"
+        "Beuthen"
       ]
     },
     {
@@ -3236,7 +3235,6 @@
       "inne_nazwy": [
         "Klein Czapielken",
         "Klein Schaplitz",
-        "1930–1945 Schaplitz",
         "Schaplitz",
         "Czapielska"
       ]
@@ -4020,7 +4018,6 @@
       "inne_nazwy": [
         "Gute-Hülfe",
         "Brandenstein",
-        "1940-1945 Brandenstein-Försterei",
         "Brandenstein-Försterei"
       ]
     },
@@ -4155,7 +4152,7 @@
       "nazwa": "Domaszków",
       "lokalizacja": "woj. dolnośląskie, pow. kłodzki",
       "inne_nazwy": [
-        "Ebersdorf (Kreis Habelschwerdt)"
+        "Ebersdorf"
       ]
     },
     {
@@ -4431,7 +4428,7 @@
       ]
     },
     {
-      "nazwa": "Dylewo (województwo warmińsko-mazurskie)",
+      "nazwa": "Dylewo",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. ostródzki",
       "inne_nazwy": [
         "Döhlau"
@@ -4776,13 +4773,6 @@
       "lokalizacja": "woj. warmińsko-mazurskie, pow. ełcki",
       "inne_nazwy": [
         "Lyck"
-      ]
-    },
-    {
-      "nazwa": "Ełk, Szyba",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Sybba (Walden)"
       ]
     },
     {
@@ -5442,7 +5432,7 @@
       "nazwa": "Gorzów Wielkopolski",
       "lokalizacja": "woj. lubuskie, pow. miasto Gorzów Wielkopolski",
       "inne_nazwy": [
-        "Landsberg (an der Warthe)"
+        "Landsberg"
       ]
     },
     {
@@ -5470,7 +5460,7 @@
       "nazwa": "Górzyca",
       "lokalizacja": "woj. lubuskie, pow. słubicki",
       "inne_nazwy": [
-        "Göritz (Oder)"
+        "Göritz"
       ]
     },
     {
@@ -6344,7 +6334,6 @@
       "lokalizacja": "woj. wielkopolskie, pow. gostyński",
       "inne_nazwy": [
         "Wittenburg",
-        "Wittenburg (Kreis Krotoschin",
         "Kreis",
         "Krotoschin"
       ]
@@ -6846,7 +6835,7 @@
       "nazwa": "Jankowo Gdańskie",
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
-        "Jenkau (bei Danzig)"
+        "Jenkau"
       ]
     },
     {
@@ -6893,7 +6882,7 @@
       ]
     },
     {
-      "nazwa": "Janowo (Janów)",
+      "nazwa": "Janowo",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. nidzicki",
       "inne_nazwy": [
         "Iwanken"
@@ -7014,10 +7003,11 @@
       ]
     },
     {
-      "nazwa": "Jasiowa Dolina (Januszowice)",
+      "nazwa": "Jasiowa Dolina",
       "lokalizacja": "woj. dolnośląskie, pow. karkonoski",
       "inne_nazwy": [
-        "Johannisthal"
+        "Johannisthal",
+        "Januszowice"
       ]
     },
     {
@@ -7362,7 +7352,8 @@
       "inne_nazwy": [
         "Kaczagorka",
         "Erpelbach",
-        "1941 Katscher (Kreis Krotoschin",
+        "Katscher",
+        "Kreis Krotoschin",
         "Katscher",
         "Kreis",
         "Krotoschin"
@@ -7401,7 +7392,7 @@
       "nazwa": "Kalisz",
       "lokalizacja": "woj. pomorskie, pow. kościerski",
       "inne_nazwy": [
-        "Kalisch (in Westpreußen)"
+        "Kalisch"
       ]
     },
     {
@@ -7514,7 +7505,7 @@
       "nazwa": "Kamieniec Ząbkowicki",
       "lokalizacja": "woj. dolnośląskie, pow. ząbkowicki",
       "inne_nazwy": [
-        "Kamenz (Kreis Frankenstein)"
+        "Kamenz"
       ]
     },
     {
@@ -7987,7 +7978,7 @@
       "nazwa": "Kisielice",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. iławski",
       "inne_nazwy": [
-        "Freystadt (in Westpreußen)",
+        "Freystadt",
         "Freystadt"
       ]
     },
@@ -8329,7 +8320,6 @@
       "inne_nazwy": [
         "Komornik",
         "Kummernick",
-        "1943–1945 Kömmernick",
         "Kömmernick"
       ]
     },
@@ -8721,7 +8711,8 @@
       "nazwa": "Kot",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. szczycieński",
       "inne_nazwy": [
-        "Omulefofen (Omulefoffen)"
+        "Omulefofen",
+        "Omulefoffen"
       ]
     },
     {
@@ -8918,7 +8909,7 @@
       "nazwa": "Kołatek",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. olsztyński",
       "inne_nazwy": [
-        "Schlagamühle (Schlaga-M)"
+        "Schlagamühle"
       ]
     },
     {
@@ -9173,7 +9164,7 @@
       "nazwa": "Kromolice",
       "lokalizacja": "woj. wielkopolskie, pow. gostyński",
       "inne_nazwy": [
-        "Kornfeld (Kreis Krotoschin)",
+        "Kornfeld)",
         "Kornland"
       ]
     },
@@ -9510,7 +9501,7 @@
       "nazwa": "Kunki",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. olsztyński",
       "inne_nazwy": [
-        "Kuchengut (Kunchengut)"
+        "Kuchengut"
       ]
     },
     {
@@ -9723,7 +9714,6 @@
       "inne_nazwy": [
         "Lassek",
         "Langenwalde",
-        "od 1954 r",
         "Lubonia"
       ]
     },
@@ -10328,7 +10318,7 @@
       "inne_nazwy": [
         "Luban",
         "Lobau",
-        "od 1954 r. miasto Luboń"
+        "Luboń"
       ]
     },
     {
@@ -10475,7 +10465,6 @@
       "nazwa": "Lwówek",
       "lokalizacja": "woj. wielkopolskie, pow. nowotomyski",
       "inne_nazwy": [
-        "Neustadt (bei Pinne)",
         "Kirschneustadt"
       ]
     },
@@ -10786,8 +10775,6 @@
       "inne_nazwy": [
         "Malgow",
         "Sonnenhof",
-        "1940-1941 Sonnenfeld",
-        "1941-1945 Sonnenfeld (Kreis Krotoschin",
         "Sonnenfeld",
         "Kreis",
         "Krotoschin"
@@ -12375,7 +12362,7 @@
       "nazwa": "Nowogród Bobrzański",
       "lokalizacja": "woj. lubuskie, pow. zielonogórski",
       "inne_nazwy": [
-        "Naumburg (an der Bober)"
+        "Naumburg"
       ]
     },
     {
@@ -12754,7 +12741,7 @@
       "inne_nazwy": [
         "Marggrabowa",
         "Treuburg",
-        "Oletzko (Treuburg)"
+        "Oletzko"
       ]
     },
     {
@@ -12840,7 +12827,7 @@
       "nazwa": "Olsztynek",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. olsztyński",
       "inne_nazwy": [
-        "Hohenstein (in Ostpreußen)",
+        "Hohenstein",
         "Hohenstein"
       ]
     },
@@ -13285,8 +13272,7 @@
       "lokalizacja": "woj. dolnośląskie, pow. miasto Wrocław",
       "inne_nazwy": [
         "Oltaschin",
-        "Herzogshufen",
-        "od 1951 r"
+        "Herzogshufen"
       ]
     },
     {
@@ -13333,7 +13319,6 @@
       "inne_nazwy": [
         "Peinstett",
         "Pfeilstett",
-        "1943–1945 Pfeilstädt",
         "Pfeilstädt"
       ]
     },
@@ -14674,7 +14659,7 @@
       "nazwa": "Pszczółki",
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
-        "Hohenstein (in Westpreußen)"
+        "Hohenstein"
       ]
     },
     {
@@ -14751,7 +14736,7 @@
       "nazwa": "Pyrzyce",
       "lokalizacja": "woj. zachodniopomorskie, pow. pyrzycki",
       "inne_nazwy": [
-        "Pyritz (in Pommern)"
+        "Pyritz"
       ]
     },
     {
@@ -15544,7 +15529,7 @@
       "nazwa": "Ruciane-Nida, -Ruciane",
       "lokalizacja": "lokalizacja do uzupełnienia",
       "inne_nazwy": [
-        "Rudczanny (Rudweiler)"
+        "Rudczanny"
       ]
     },
     {
@@ -16137,7 +16122,8 @@
       "nazwa": "Siechnice",
       "lokalizacja": "woj. dolnośląskie, pow. wrocławski",
       "inne_nazwy": [
-        "Tschechnitz, potem Kraftborn"
+        "Tschechnitz"
+        "Kraftborn"
       ]
     },
     {
@@ -16149,7 +16135,7 @@
     },
     {
       "nazwa": "Siedlce",
-      "lokalizacja": "woj. mazowieckie, pow. Siedlce (grodzkie)",
+      "lokalizacja": "woj. mazowieckie, pow. Siedlce",
       "inne_nazwy": [
         "Schedlitz"
       ]
@@ -16494,7 +16480,7 @@
       "nazwa": "Skwierzyna",
       "lokalizacja": "woj. lubuskie, pow. międzyrzecki",
       "inne_nazwy": [
-        "Schwerin (an der Warthe)"
+        "Schwerin"
       ]
     },
     {
@@ -17003,7 +16989,7 @@
       "nazwa": "Stargard",
       "lokalizacja": "woj. zachodniopomorskie, pow. stargardzki",
       "inne_nazwy": [
-        "Stargard (in Pommern)"
+        "Stargard"
       ]
     },
     {
@@ -17355,8 +17341,6 @@
       "lokalizacja": "woj. wielkopolskie, pow. chodzieski",
       "inne_nazwy": [
         "Strosewo",
-        "i 1939–1943 Kirchdorf",
-        "1943–1945 Freienkirchdorf",
         "Kirchdorf",
         "Freienkirchdorf"
       ]
@@ -18777,7 +18761,7 @@
       ]
     },
     {
-      "nazwa": "Tilsit(Rosja)",
+      "nazwa": "Tilsit",
       "lokalizacja": "kraj. Rosja, obw. kaliningradzki",
       "inne_nazwy": [
         "Splitter"
@@ -19016,7 +19000,7 @@
       "nazwa": "Trzebiatów",
       "lokalizacja": "woj. zachodniopomorskie, pow. gryficki",
       "inne_nazwy": [
-        "Treptow (an der Rega)"
+        "Treptow"
       ]
     },
     {
@@ -19066,7 +19050,7 @@
       "nazwa": "Trzebieszowice",
       "lokalizacja": "woj. dolnośląskie, pow. kłodzki",
       "inne_nazwy": [
-        "Kunzendorf (an der Biele)"
+        "Kunzendorf"
       ]
     },
     {
@@ -20407,8 +20391,7 @@
       "lokalizacja": "woj. dolnośląskie, pow. miasto Wrocław",
       "inne_nazwy": [
         "Woischwitz",
-        "Hoinstein",
-        "od 1951 r"
+        "Hoinstein"
       ]
     },
     {
@@ -20440,7 +20423,7 @@
       ]
     },
     {
-      "nazwa": "Wolin (miasto)",
+      "nazwa": "Wolin",
       "lokalizacja": "woj. zachodniopomorskie, pow. kamieński",
       "inne_nazwy": [
         "Wollin"
@@ -20890,16 +20873,14 @@
       "inne_nazwy": [
         "Zabelkau",
         "Schurgersdorf",
-        "od 1939 r. Ruderswald II",
-        "Ruderswald",
-        "II"
+        "Ruderswald"
       ]
     },
     {
       "nazwa": "Żabianka",
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
-        "Schabionken (bei Schwintsch)"
+        "Schabionken"
       ]
     },
     {
@@ -20921,8 +20902,6 @@
       "lokalizacja": "woj. wielkopolskie, pow. poznański",
       "inne_nazwy": [
         "Zabikowo",
-        "Poggenburg (z obozem karno-śledczym",
-        "od 1954 r",
         "Poggenburg",
         "Lubonia"
       ]
@@ -22045,7 +22024,7 @@
       ]
     },
     {
-      "nazwa": "Łąki (Łąkie)",
+      "nazwa": "Łąki",
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
         "Lonken"
