@@ -15,6 +15,13 @@
       ]
     },
     {
+      "nazwa": "Aksmanice",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Witoldów"
+      ]
+    },
+    {
       "nazwa": "Albigowa",
       "lokalizacja": "woj. podkarpackie, pow. łańcucki",
       "inne_nazwy": [
@@ -663,6 +670,20 @@
       ]
     },
     {
+      "nazwa": "Basznia Dolna",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Smolinka Dolna"
+      ]
+    },
+    {
+      "nazwa": "Basznia Górna",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Smolinka Górna"
+      ]
+    },
+    {
       "nazwa": "Batorówko",
       "lokalizacja": "woj. wielkopolskie, pow. złotowski",
       "inne_nazwy": [
@@ -681,6 +702,13 @@
       "lokalizacja": "woj. warmińsko-mazurskie, pow. olsztyński",
       "inne_nazwy": [
         "Ballingen"
+      ]
+    },
+    {
+      "nazwa": "Bałaje",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Lipówka"
       ]
     },
     {
@@ -732,6 +760,34 @@
       "lokalizacja": "woj. pomorskie, pow. chojnicki",
       "inne_nazwy": [
         "Schönberg"
+      ]
+    },
+    {
+      "nazwa": "Berezka",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Brzózka"
+      ]
+    },
+    {
+      "nazwa": "Bereżki",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Brzeżki"
+      ]
+    },
+    {
+      "nazwa": "Bereźnica Niżna",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Brzeźniczka"
+      ]
+    },
+    {
+      "nazwa": "Bereźnica Wyżna",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Brzezina"
       ]
     },
     {
@@ -1123,6 +1179,13 @@
       "lokalizacja": "woj. lubuskie, pow. krośnieński",
       "inne_nazwy": [
         "Groß Bösitz"
+      ]
+    },
+    {
+      "nazwa": "Bihale",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Zawodzie"
       ]
     },
     {
@@ -1786,6 +1849,13 @@
       ]
     },
     {
+      "nazwa": "Brylińce",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Tomczyków"
+      ]
+    },
+    {
       "nazwa": "Brynek",
       "lokalizacja": "woj. śląskie, pow. tarnogórski",
       "inne_nazwy": [
@@ -2000,6 +2070,13 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. goleniowski",
       "inne_nazwy": [
         "Buddendorf"
+      ]
+    },
+    {
+      "nazwa": "Budomierz",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Zawada"
       ]
     },
     {
@@ -2706,6 +2783,27 @@
       ]
     },
     {
+      "nazwa": "Chotylub",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Lubice"
+      ]
+    },
+    {
+      "nazwa": "Chołowice",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Nadbrzeżna"
+      ]
+    },
+    {
+      "nazwa": "Chrewt",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Przystań"
+      ]
+    },
+    {
       "nazwa": "Chromiec",
       "lokalizacja": "woj. dolnośląskie, pow. karkonoski",
       "inne_nazwy": [
@@ -2851,6 +2949,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. oławski",
       "inne_nazwy": [
         "Quallwitz"
+      ]
+    },
+    {
+      "nazwa": "Chyki-Dębiaki",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Dębiaki"
       ]
     },
     {
@@ -3040,6 +3145,13 @@
       "inne_nazwy": [
         "Schussenze",
         "Ostlinde"
+      ]
+    },
+    {
+      "nazwa": "Cisów-Las",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Cisów"
       ]
     },
     {
@@ -3350,6 +3462,13 @@
       ]
     },
     {
+      "nazwa": "Czerteż",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Przedmieście"
+      ]
+    },
+    {
       "nazwa": "Czertyń",
       "lokalizacja": "woj. zachodniopomorskie, pow. stargardzki",
       "inne_nazwy": [
@@ -3398,6 +3517,13 @@
       "inne_nazwy": [
         "Czimmanau",
         "Rauschendorf"
+      ]
+    },
+    {
+      "nazwa": "Czystogarb",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Górna Wieś"
       ]
     },
     {
@@ -3566,6 +3692,13 @@
       ]
     },
     {
+      "nazwa": "Dąbrówka Ruska",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Dąbrówka"
+      ]
+    },
+    {
       "nazwa": "Dąbrówka Tczewska",
       "lokalizacja": "woj. pomorskie, pow. tczewski",
       "inne_nazwy": [
@@ -3591,6 +3724,13 @@
       "lokalizacja": "woj. warmińsko-mazurskie, pow. ostródzki",
       "inne_nazwy": [
         "Gilgenburg"
+      ]
+    },
+    {
+      "nazwa": "Dachnów",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Jaworzyna"
       ]
     },
     {
@@ -3799,6 +3939,13 @@
       "lokalizacja": "woj. lubuskie, pow. gorzowski",
       "inne_nazwy": [
         "Dechsel"
+      ]
+    },
+    {
+      "nazwa": "Dmytrowice",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Olszynka"
       ]
     },
     {
@@ -4035,6 +4182,20 @@
       ]
     },
     {
+      "nazwa": "Dołżyca",
+      "lokalizacja": "woj. podkarpackie, gmina Cisna",
+      "inne_nazwy": [
+        "Zakole"
+      ]
+    },
+    {
+      "nazwa": "Dołżyca",
+      "lokalizacja": "woj. podkarpackie, gmina Komańcza",
+      "inne_nazwy": [
+        "Długopole"
+      ]
+    },
+    {
       "nazwa": "Drawno",
       "lokalizacja": "woj. zachodniopomorskie, pow. choszczeński",
       "inne_nazwy": [
@@ -4089,6 +4250,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. kłodzki",
       "inne_nazwy": [
         "Kunzendorf"
+      ]
+    },
+    {
+      "nazwa": "Drohobyczka",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Międzygórze"
       ]
     },
     {
@@ -4177,6 +4345,13 @@
       ]
     },
     {
+      "nazwa": "Dudyńce",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Szybistów"
+      ]
+    },
+    {
       "nazwa": "Durok",
       "lokalizacja": "woj. dolnośląskie, pow. wrocławski",
       "inne_nazwy": [
@@ -4191,10 +4366,38 @@
       ]
     },
     {
+      "nazwa": "Dusowce",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Niziny"
+      ]
+    },
+    {
       "nazwa": "Duszniki-Zdrój",
       "lokalizacja": "woj. dolnośląskie, pow. kłodzki",
       "inne_nazwy": [
         "Bad Reinerz"
+      ]
+    },
+    {
+      "nazwa": "Dwerniczek",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Jodłówka"
+      ]
+    },
+    {
+      "nazwa": "Dwernik",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Przełom"
+      ]
+    },
+    {
+      "nazwa": "Dydiowa",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Zacisze"
       ]
     },
     {
@@ -4655,6 +4858,13 @@
       ]
     },
     {
+      "nazwa": "Futory",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Sośnina"
+      ]
+    },
+    {
       "nazwa": "Gąbin",
       "lokalizacja": "woj. mazowieckie, pow. płocki",
       "inne_nazwy": [
@@ -5087,6 +5297,13 @@
         "Annaberg",
         "Sankt Annaberg",
         "choć ta nazwa pojawiała się nieoficjalnie również wcześniej"
+      ]
+    },
+    {
+      "nazwa": "Gorajec",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Dąbrowa"
       ]
     },
     {
@@ -5804,6 +6021,13 @@
       ]
     },
     {
+      "nazwa": "Gruszowa",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Jodłowa"
+      ]
+    },
+    {
       "nazwa": "Grybów",
       "lokalizacja": "woj. małopolskie, pow. nowosądecki",
       "inne_nazwy": [
@@ -6217,10 +6441,87 @@
       ]
     },
     {
+      "nazwa": "Hnatkowice",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Ignaców"
+      ]
+    },
+    {
+      "nazwa": "Horodek",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Gródek"
+      ]
+    },
+    {
       "nazwa": "Horyszów",
       "lokalizacja": "woj. lubelskie, pow. zamojski",
       "inne_nazwy": [
         "Pfingstdorf"
+      ]
+    },
+    {
+      "nazwa": "Hoszowczyk",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Stoczek"
+      ]
+    },
+    {
+      "nazwa": "Hołubla",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Podlasek"
+      ]
+    },
+    {
+      "nazwa": "Hołuczków",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Okrężna"
+      ]
+    },
+    {
+      "nazwa": "Hroszówka",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Groszówka"
+      ]
+    },
+    {
+      "nazwa": "Hruszowice",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Gruszowice"
+      ]
+    },
+    {
+      "nazwa": "Hulskie",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Stanisławów"
+      ]
+    },
+    {
+      "nazwa": "Hurcze",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Niwiska"
+      ]
+    },
+    {
+      "nazwa": "Hureczko",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Pograniczne"
+      ]
+    },
+    {
+      "nazwa": "Hurko",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Graniczne"
       ]
     },
     {
@@ -6252,10 +6553,25 @@
       ]
     },
     {
-      "nazwa": "Huta Pieniacka",
-      "lokalizacja": "dawne woj. tarnopolskie (II RP), dziś obw. lwowski, Ukraina",
-      "inne_nazwy": ["Гута Пеняцька"],
-      "notka": "Wieś całkowicie zniszczona 28 lutego 1944 r. Nigdy nie odbudowana"
+      "nazwa": "Huwniki",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Wiarska Wieś"
+      ]
+    },
+    {
+      "nazwa": "Huzele",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Podzamcze"
+      ]
+    },
+    {
+      "nazwa": "Hłudno",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Chłodnik"
+      ]
     },
     {
       "nazwa": "Idzików",
@@ -6298,6 +6614,13 @@
       "lokalizacja": "woj. małopolskie, pow. wadowickie",
       "inne_nazwy": [
         "Inwald"
+      ]
+    },
+    {
+      "nazwa": "Iskań",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Pogoń"
       ]
     },
     {
@@ -6348,6 +6671,13 @@
       "lokalizacja": "woj. opolskie, pow. kędzierzyńsko-kozielski",
       "inne_nazwy": [
         "Jaborowitz"
+      ]
+    },
+    {
+      "nazwa": "Jabłonica Ruska",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Jabłonica"
       ]
     },
     {
@@ -6412,6 +6742,20 @@
       "lokalizacja": "woj. dolnośląskie, pow. świdnicki",
       "inne_nazwy": [
         "Grunau"
+      ]
+    },
+    {
+      "nazwa": "Jahońka",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Jasień"
+      ]
+    },
+    {
+      "nazwa": "Jaksmanice",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Witoldówek"
       ]
     },
     {
@@ -6732,6 +7076,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. jaworski",
       "inne_nazwy": [
         "Jauer"
+      ]
+    },
+    {
+      "nazwa": "Jawornik Ruski",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Jaworowice"
       ]
     },
     {
@@ -7742,6 +8093,13 @@
       ]
     },
     {
+      "nazwa": "Kniażyce",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Podlesie"
+      ]
+    },
+    {
       "nazwa": "Kniewo",
       "lokalizacja": "woj. pomorskie, pow. wejherowski",
       "inne_nazwy": [
@@ -7789,6 +8147,20 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. stargardzki",
       "inne_nazwy": [
         "Kublank"
+      ]
+    },
+    {
+      "nazwa": "Kobylnica Ruska",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Kopytów Dolny"
+      ]
+    },
+    {
+      "nazwa": "Kobylnica Wołoska",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Kopytów Górny"
       ]
     },
     {
@@ -7982,6 +8354,13 @@
       ]
     },
     {
+      "nazwa": "Koniusza",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Zagórze"
+      ]
+    },
+    {
       "nazwa": "Konotop",
       "lokalizacja": "woj. lubuskie, pow. nowosolski",
       "inne_nazwy": [
@@ -8072,6 +8451,13 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
         "Köpnitz"
+      ]
+    },
+    {
+      "nazwa": "Kopysno",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Kopystno"
       ]
     },
     {
@@ -8645,6 +9031,13 @@
       ]
     },
     {
+      "nazwa": "Kreców",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Sady"
+      ]
+    },
+    {
       "nazwa": "Krempachy",
       "lokalizacja": "woj. małopolskie, pow. nowotarski",
       "inne_nazwy": [
@@ -8815,6 +9208,13 @@
       "lokalizacja": "woj. śląskie, pow. raciborski",
       "inne_nazwy": [
         "Krawarn"
+      ]
+    },
+    {
+      "nazwa": "Krowica Hołodowska",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Krowica Lubaczowska"
       ]
     },
     {
@@ -9033,6 +9433,13 @@
       ]
     },
     {
+      "nazwa": "Kulaszne",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Międzygórze"
+      ]
+    },
+    {
       "nazwa": "Kulice",
       "lokalizacja": "woj. pomorskie, pow. tczewski",
       "inne_nazwy": [
@@ -9243,6 +9650,13 @@
       ]
     },
     {
+      "nazwa": "Lachawa",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Miodowa"
+      ]
+    },
+    {
       "nazwa": "Lądek-Zdrój",
       "lokalizacja": "woj. dolnośląskie, pow. kłodzki",
       "inne_nazwy": [
@@ -9426,6 +9840,13 @@
       "lokalizacja": "woj. warmińsko-mazurskie, pow. ostródzki",
       "inne_nazwy": [
         "Heeselicht"
+      ]
+    },
+    {
+      "nazwa": "Leszczowate",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Zalesie"
       ]
     },
     {
@@ -9713,6 +10134,13 @@
       "lokalizacja": "woj. kujawsko-pomorskie, pow. bydgoski",
       "inne_nazwy": [
         "Fuchsschwanz"
+      ]
+    },
+    {
+      "nazwa": "Liskowate",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Lisówek"
       ]
     },
     {
@@ -10109,6 +10537,13 @@
       "lokalizacja": "woj. warmińsko-mazurskie, pow. kętrzyński",
       "inne_nazwy": [
         "Mauerwald"
+      ]
+    },
+    {
+      "nazwa": "Manasterz",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Osetkowo"
       ]
     },
     {
@@ -10940,6 +11375,20 @@
       ]
     },
     {
+      "nazwa": "Mordownia",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Spokojna"
+      ]
+    },
+    {
+      "nazwa": "Morochów",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Mroczków"
+      ]
+    },
+    {
       "nazwa": "Mortęgi",
       "lokalizacja": "lokalizacja do uzupełnienia",
       "inne_nazwy": [
@@ -11018,6 +11467,13 @@
       ]
     },
     {
+      "nazwa": "Mołodycz",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Młodzice"
+      ]
+    },
+    {
       "nazwa": "Mołtowo",
       "lokalizacja": "woj. zachodniopomorskie, pow. kołobrzeski",
       "inne_nazwy": [
@@ -11072,6 +11528,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. jaworski",
       "inne_nazwy": [
         "Profen"
+      ]
+    },
+    {
+      "nazwa": "Muczne",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Kazimierzowo"
       ]
     },
     {
@@ -11146,6 +11609,13 @@
       "lokalizacja": "woj. mazowieckie, pow. mławski",
       "inne_nazwy": [
         "Mielau"
+      ]
+    },
+    {
+      "nazwa": "Młodowice",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Walterów"
       ]
     },
     {
@@ -11268,6 +11738,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. lubański",
       "inne_nazwy": [
         "Sächsisch Haugdorf"
+      ]
+    },
+    {
+      "nazwa": "Nehrybka",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Podgrodzie"
       ]
     },
     {
@@ -11417,6 +11894,13 @@
       ]
     },
     {
+      "nazwa": "Niemstów",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Chmielowice"
+      ]
+    },
+    {
       "nazwa": "Niemysłowice",
       "lokalizacja": "woj. opolskie, pow. prudnicki",
       "inne_nazwy": [
@@ -11474,6 +11958,13 @@
       "inne_nazwy": [
         "Niewiesche",
         "Grünwiese"
+      ]
+    },
+    {
+      "nazwa": "Niewistka",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Podrzecze"
       ]
     },
     {
@@ -11786,6 +12277,13 @@
       "inne_nazwy": [
         "Nowina",
         "Neufeld"
+      ]
+    },
+    {
+      "nazwa": "Nowiny Horynieckie",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Nowiny"
       ]
     },
     {
@@ -12334,6 +12832,13 @@
       ]
     },
     {
+      "nazwa": "Orelec",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Orle"
+      ]
+    },
+    {
       "nazwa": "Orliniec",
       "lokalizacja": "woj. pomorskie, pow. nowodworski",
       "inne_nazwy": [
@@ -12787,6 +13292,13 @@
       "lokalizacja": "woj. lubuskie, pow. słubicki",
       "inne_nazwy": [
         "Frauendorf"
+      ]
+    },
+    {
+      "nazwa": "Paniszczów",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Ustroń"
       ]
     },
     {
@@ -13463,6 +13975,13 @@
     },
     {
       "nazwa": "Polanka Horyniecka",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Polanka"
+      ]
+    },
+    {
+      "nazwa": "Polanka Horyniecka",
       "lokalizacja": "woj. podkarpackie, pow. przemyski",
       "inne_nazwy": [
         "Deutschbach"
@@ -13643,6 +14162,13 @@
       ]
     },
     {
+      "nazwa": "Poździacz",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Leszno"
+      ]
+    },
+    {
       "nazwa": "Pozezdrze",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. węgorzewski",
       "inne_nazwy": [
@@ -13695,6 +14221,13 @@
       ]
     },
     {
+      "nazwa": "Prałkowce",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Nadsanie"
+      ]
+    },
+    {
       "nazwa": "Prędzieszyn",
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
@@ -13724,6 +14257,13 @@
       ]
     },
     {
+      "nazwa": "Prełuki",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Przełęcz"
+      ]
+    },
+    {
       "nazwa": "Proboszczowice",
       "lokalizacja": "woj. śląskie, pow. gliwicki",
       "inne_nazwy": [
@@ -13736,6 +14276,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. legnicki",
       "inne_nazwy": [
         "Parchwitz"
+      ]
+    },
+    {
+      "nazwa": "Procisne",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Przesmyk"
       ]
     },
     {
@@ -13930,6 +14477,13 @@
       "lokalizacja": "woj. wielkopolskie, pow. słupecki",
       "inne_nazwy": [
         "Imsee"
+      ]
+    },
+    {
+      "nazwa": "Przychojec",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Jodłówka"
       ]
     },
     {
@@ -14248,6 +14802,13 @@
       ]
     },
     {
+      "nazwa": "Rabe",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Podgórze"
+      ]
+    },
+    {
       "nazwa": "Rąbiń",
       "lokalizacja": "woj. wielkopolskie, pow. kościański",
       "inne_nazwy": [
@@ -14421,6 +14982,13 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. łobeski",
       "inne_nazwy": [
         "Klein Raddow"
+      ]
+    },
+    {
+      "nazwa": "Radruż",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Rozdroże"
       ]
     },
     {
@@ -14783,6 +15351,13 @@
       ]
     },
     {
+      "nazwa": "Rosochate",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Olszyna"
+      ]
+    },
+    {
       "nazwa": "Rostarzewo",
       "lokalizacja": "woj. wielkopolskie, pow. grodziski",
       "inne_nazwy": [
@@ -14832,6 +15407,13 @@
       ]
     },
     {
+      "nazwa": "Rozpucie",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Tkaczowa"
+      ]
+    },
+    {
       "nazwa": "Roztoka",
       "lokalizacja": "woj. dolnośląskie, pow. świdnicki",
       "inne_nazwy": [
@@ -14843,6 +15425,13 @@
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
         "Tiefenthal"
+      ]
+    },
+    {
+      "nazwa": "Rożubowice",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Podgórze"
       ]
     },
     {
@@ -15423,6 +16012,20 @@
       ]
     },
     {
+      "nazwa": "Serednica",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Średnia Wieś"
+      ]
+    },
+    {
+      "nazwa": "Sianki",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Sanniki"
+      ]
+    },
+    {
       "nazwa": "Sianów",
       "lokalizacja": "woj. zachodniopomorskie, pow. koszaliński",
       "inne_nazwy": [
@@ -15564,6 +16167,13 @@
       "inne_nazwy": [
         "Sieradsch",
         "Schieratz"
+      ]
+    },
+    {
+      "nazwa": "Sierakośce",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Kalinowice"
       ]
     },
     {
@@ -15737,6 +16347,13 @@
       ]
     },
     {
+      "nazwa": "Skorodne",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Ostra"
+      ]
+    },
+    {
       "nazwa": "Skórzewo",
       "lokalizacja": "woj. pomorskie, pow. człuchowski",
       "inne_nazwy": [
@@ -15794,6 +16411,13 @@
       ]
     },
     {
+      "nazwa": "Skwirtne",
+      "lokalizacja": "woj. małopolskie",
+      "inne_nazwy": [
+        "Skwierzyn"
+      ]
+    },
+    {
       "nazwa": "Skłudzewo",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. toruński",
       "inne_nazwy": [
@@ -15820,6 +16444,20 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
         "Schmarsow"
+      ]
+    },
+    {
+      "nazwa": "Smereczne",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Świerkowa"
+      ]
+    },
+    {
+      "nazwa": "Smerek",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Świerków"
       ]
     },
     {
@@ -16080,6 +16718,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. karkonoski",
       "inne_nazwy": [
         "Stonsdorf"
+      ]
+    },
+    {
+      "nazwa": "Stańkowa",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Rzeczki"
       ]
     },
     {
@@ -16413,6 +17058,13 @@
       ]
     },
     {
+      "nazwa": "Starzawa",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Stawiska"
+      ]
+    },
+    {
       "nazwa": "Starzyce",
       "lokalizacja": "woj. zachodniopomorskie, pow. choszczeński",
       "inne_nazwy": [
@@ -16727,10 +17379,24 @@
       ]
     },
     {
+      "nazwa": "Studenne",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Studzienne"
+      ]
+    },
+    {
       "nazwa": "Studzienno",
       "lokalizacja": "woj. dolnośląskie, pow. kłodzki",
       "inne_nazwy": [
         "Kaltenbrunn"
+      ]
+    },
+    {
+      "nazwa": "Stuposiany",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Łukasiewicze"
       ]
     },
     {
@@ -16790,6 +17456,13 @@
       "lokalizacja": "woj. pomorskie, pow. starogardzki",
       "inne_nazwy": [
         "Suzemin"
+      ]
+    },
+    {
+      "nazwa": "Sukowate",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Sękówka"
       ]
     },
     {
@@ -17058,6 +17731,13 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. kamieński",
       "inne_nazwy": [
         "Schwirsen"
+      ]
+    },
+    {
+      "nazwa": "Świerzowa Ruska",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Świerzowa"
       ]
     },
     {
@@ -18464,6 +19144,13 @@
       ]
     },
     {
+      "nazwa": "Tworylne",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Słoneczna"
+      ]
+    },
+    {
       "nazwa": "Tychowo",
       "lokalizacja": "woj. zachodniopomorskie, pow. białogardzki",
       "inne_nazwy": [
@@ -18539,6 +19226,13 @@
       ]
     },
     {
+      "nazwa": "Uherce Mineralne",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Nowa Wieś"
+      ]
+    },
+    {
       "nazwa": "Ujazd",
       "lokalizacja": "woj. opolskie, pow. strzelecki",
       "inne_nazwy": [
@@ -18572,6 +19266,13 @@
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
         "Thärshöhe"
+      ]
+    },
+    {
+      "nazwa": "Ulucz",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Łąka"
       ]
     },
     {
@@ -18638,6 +19339,13 @@
       ]
     },
     {
+      "nazwa": "Ułazów",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Łominy"
+      ]
+    },
+    {
       "nazwa": "Wąbrzeźno",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. wąbrzeski",
       "inne_nazwy": [
@@ -18701,6 +19409,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. kłodzki",
       "inne_nazwy": [
         "Albendorf"
+      ]
+    },
+    {
+      "nazwa": "Wańkowa",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Jankowa"
       ]
     },
     {
@@ -18963,6 +19678,27 @@
       "lokalizacja": "woj. pomorskie, pow. pucki",
       "inne_nazwy": [
         "Werblin"
+      ]
+    },
+    {
+      "nazwa": "Werchrata",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Boguszów"
+      ]
+    },
+    {
+      "nazwa": "Weremień",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Podegrodzie"
+      ]
+    },
+    {
+      "nazwa": "Werlas",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Międzylesie"
       ]
     },
     {
@@ -19331,6 +20067,13 @@
       ]
     },
     {
+      "nazwa": "Wilsznia",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Olszanka"
+      ]
+    },
+    {
       "nazwa": "Winnica",
       "lokalizacja": "woj. lubuskie, pow. międzyrzecki",
       "inne_nazwy": [
@@ -19445,10 +20188,24 @@
       ]
     },
     {
+      "nazwa": "Witoszyńce",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Podgórzyska"
+      ]
+    },
+    {
       "nazwa": "Witramowo",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. olsztyński",
       "inne_nazwy": [
         "Wittmannsdorf"
+      ]
+    },
+    {
+      "nazwa": "Witryłów",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Wietrzna"
       ]
     },
     {
@@ -19553,6 +20310,20 @@
       ]
     },
     {
+      "nazwa": "Wola Krecowa",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Wola Sadowska"
+      ]
+    },
+    {
+      "nazwa": "Wola Matiaszowa",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Wola"
+      ]
+    },
+    {
       "nazwa": "Wolany",
       "lokalizacja": "woj. dolnośląskie, pow. kłodzki",
       "inne_nazwy": [
@@ -19599,6 +20370,20 @@
       "lokalizacja": "woj. opolskie, pow. kluczborski",
       "inne_nazwy": [
         "Kunzestadt, Konstadt"
+      ]
+    },
+    {
+      "nazwa": "Wołodź",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Czechów"
+      ]
+    },
+    {
+      "nazwa": "Wołosate",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Roztoka"
       ]
     },
     {
@@ -20355,6 +21140,13 @@
       ]
     },
     {
+      "nazwa": "Zawadka Morochowska",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Zawadka"
+      ]
+    },
+    {
       "nazwa": "Zawadzkie",
       "lokalizacja": "woj. opolskie, pow. strzelecki",
       "inne_nazwy": [
@@ -20396,6 +21188,13 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. wałecki",
       "inne_nazwy": [
         "Zatten"
+      ]
+    },
+    {
+      "nazwa": "Załuże",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Załęże"
       ]
     },
     {
@@ -20566,6 +21365,13 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. choszczeński",
       "inne_nazwy": [
         "Schönfeld"
+      ]
+    },
+    {
+      "nazwa": "Żerdenka",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Zawadówka"
       ]
     },
     {
@@ -20742,6 +21548,13 @@
       ]
     },
     {
+      "nazwa": "Żohatyn",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Międzylesie"
+      ]
+    },
+    {
       "nazwa": "Żórawie",
       "lokalizacja": "woj. zachodniopomorskie, pow. gryfiński",
       "inne_nazwy": [
@@ -20789,6 +21602,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. średzki",
       "inne_nazwy": [
         "Borne"
+      ]
+    },
+    {
+      "nazwa": "Zubeńsko",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Zębieńsko"
       ]
     },
     {
@@ -21301,6 +22121,13 @@
       ]
     },
     {
+      "nazwa": "Łodyna",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Łęgi"
+      ]
+    },
+    {
       "nazwa": "Łódź",
       "lokalizacja": "woj. łódzkie, pow. miasto Łódź",
       "inne_nazwy": [
@@ -21335,6 +22162,13 @@
       "lokalizacja": "woj. podlaskie, pow. łomżyński",
       "inne_nazwy": [
         "Lomscha"
+      ]
+    },
+    {
+      "nazwa": "Łopienka",
+      "lokalizacja": "woj. podkarpackie",
+      "inne_nazwy": [
+        "Owczary"
       ]
     },
     {
