@@ -3009,8 +3009,9 @@
       "lokalizacja": "woj. pomorskie, pow. miasto Gdynia",
       "inne_nazwy": [
         "Kielau",
-        "Gdyni"
-      ]
+        "Gdynia"
+      ],
+      "notka": "Obecnie część Gdyni"
     },
     {
       "nazwa": "Chynowie",
@@ -3198,7 +3199,8 @@
       "lokalizacja": "woj. pomorskie, pow. miasto Gdynia",
       "inne_nazwy": [
         "Ziessau"
-      ]
+      ],
+      "Notka": "Obecnie część Gdyni"
     },
     {
       "nazwa": "Cisowo",
@@ -5014,7 +5016,6 @@
       "lokalizacja": "woj. pomorskie, pow. miasto Gdynia",
       "inne_nazwy": [
         "Gdingen",
-        "II",
         "Gotenhafen"
       ]
     },
@@ -12812,7 +12813,8 @@
       "lokalizacja": "woj. pomorskie, pow. miasto Gdynia",
       "inne_nazwy": [
         "Oxhöft"
-      ]
+      ],
+      "Notka": "Obecnie część Gdyni"
     },
     {
       "nazwa": "Okunino",
