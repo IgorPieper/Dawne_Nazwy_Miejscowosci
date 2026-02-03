@@ -1729,6 +1729,14 @@
       ]
     },
     {
+      "nazwa": "Birże",
+      "lokalizacja": "Litwa, rej. birżański",
+      "inne_nazwy": [
+        "Biržai",
+        "Birsen"
+      ]
+    },
+    {
       "nazwa": "Biskupice",
       "lokalizacja": "woj. opolskie, pow. oleski",
       "inne_nazwy": [
@@ -2853,7 +2861,7 @@
     },
     {
       "nazwa": "Brześć Litewski",
-      "lokalizacja": " Białoruś, obw. brzeski",
+      "lokalizacja": "Białoruś, obw. brzeski",
       "inne_nazwy": [
         "Bieraście",
         "Брест",
@@ -4885,7 +4893,7 @@
     },
     {
       "nazwa": "Cynty",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Zinten",
         "Kornewo",
@@ -5955,7 +5963,7 @@
     },
     {
       "nazwa": "Darkiejmy",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Darkehmen",
         "Oziorsk",
@@ -6656,7 +6664,7 @@
     },
     {
       "nazwa": "Domnowo",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Domnau",
         "Domnovo",
@@ -6860,6 +6868,14 @@
       "lokalizacja": "woj. wielkopolskie, pow. złotowski",
       "inne_nazwy": [
         "Gross-Friedrichsberg"
+      ]
+    },
+    {
+      "nazwa": "Druskieniki",
+      "lokalizacja": "Litwa, rej. druskienicki",
+      "inne_nazwy": [
+        "Druskininkai",
+        "Druskienniki"
       ]
     },
     {
@@ -7076,7 +7092,7 @@
     },
     {
       "nazwa": "Dyneburg",
-      "lokalizacja": " Łotwa, Łatgalia",
+      "lokalizacja": "Łotwa, Łatgalia",
       "inne_nazwy": [
         "Daugavpils",
         "Двинск"
@@ -7226,17 +7242,17 @@
       ]
     },
     {
-      "nazwa": "Dzierżążno Wielkie",
-      "lokalizacja": "woj. wielkopolskie, pow. czarnkowsko-trzcianecki",
-      "inne_nazwy": [
-        "Gross-Drensen"
-      ]
-    },
-    {
       "nazwa": "Dzierżążno-Leśnictwo",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
         "Forstwirtschaft Seeresen"
+      ]
+    },
+    {
+      "nazwa": "Dzierżążno Wielkie",
+      "lokalizacja": "woj. wielkopolskie, pow. czarnkowsko-trzcianecki",
+      "inne_nazwy": [
+        "Gross-Drensen"
       ]
     },
     {
@@ -7483,6 +7499,13 @@
       ]
     },
     {
+      "nazwa": "Ejragola",
+      "lokalizacja": "Litwa, rej. kowieński",
+      "inne_nazwy": [
+        "Ežerėlis"
+      ]
+    },
+    {
       "nazwa": "Elbląg",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. miasto Elbląg",
       "inne_nazwy": [
@@ -7641,7 +7664,7 @@
     },
     {
       "nazwa": "Frydland",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Friedland",
         "Prawdinsk",
@@ -7852,6 +7875,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. pyrzycki",
       "inne_nazwy": [
         "Gartz"
+      ]
+    },
+    {
+      "nazwa": "Gargżdy",
+      "lokalizacja": "Litwa, rej. kłajpedzki",
+      "inne_nazwy": [
+        "Gargždai",
+        "Garsden"
       ]
     },
     {
@@ -9344,7 +9375,7 @@
     },
     {
       "nazwa": "Grodno",
-      "lokalizacja": " Białoruś, obw. grodzieński",
+      "lokalizacja": "Białoruś, obw. grodzieński",
       "inne_nazwy": [
         "Hrodna",
         "Гродно"
@@ -9746,7 +9777,7 @@
     },
     {
       "nazwa": "Gusiew",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Gumbinnen",
         "Gussew",
@@ -10666,6 +10697,14 @@
       ]
     },
     {
+      "nazwa": "Janów",
+      "lokalizacja": "Litwa, rej. janowski",
+      "inne_nazwy": [
+        "Jonava",
+        "Janów Litewski"
+      ]
+    },
+    {
       "nazwa": "Janowa Góra",
       "lokalizacja": "woj. dolnośląskie, pow. kłodzki",
       "inne_nazwy": [
@@ -10965,7 +11004,7 @@
     },
     {
       "nazwa": "Jasnoje",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Kaukehmen",
         "Ясное"
@@ -11447,6 +11486,22 @@
       ]
     },
     {
+      "nazwa": "Jurborg",
+      "lokalizacja": "Litwa, rej. jurborski",
+      "inne_nazwy": [
+        "Jurbarkas",
+        "Georgenburg"
+      ]
+    },
+    {
+      "nazwa": "Jurbork",
+      "lokalizacja": "Litwa, rej. jurborski",
+      "inne_nazwy": [
+        "Jurbarkas",
+        "Georgenburg"
+      ]
+    },
+    {
       "nazwa": "Juszki",
       "lokalizacja": "woj. pomorskie, pow. kościerski",
       "inne_nazwy": [
@@ -11624,6 +11679,14 @@
     },
     {
       "nazwa": "Kalwaria",
+      "lokalizacja": "Litwa, rej. kalwaryjski",
+      "inne_nazwy": [
+        "Kalvarija",
+        "Kalwary"
+      ]
+    },
+    {
+      "nazwa": "Kalwaria",
       "lokalizacja": "woj. pomorskie, pow. kościerski",
       "inne_nazwy": [
         "Kalwariô"
@@ -11747,7 +11810,7 @@
     },
     {
       "nazwa": "Kamieniec Podolski",
-      "lokalizacja": " Ukraina, obw. chmielnicki",
+      "lokalizacja": "Ukraina, obw. chmielnicki",
       "inne_nazwy": [
         "Kamianets-Podilskyi",
         "Каменец-Подольский"
@@ -12552,6 +12615,14 @@
       "lokalizacja": "woj. pomorskie, pow. bytowski",
       "inne_nazwy": [
         "Czedrowice"
+      ]
+    },
+    {
+      "nazwa": "Kiejdany",
+      "lokalizacja": "Litwa, rej. kiejdański",
+      "inne_nazwy": [
+        "Kėdainiai",
+        "Keidany"
       ]
     },
     {
@@ -13960,6 +14031,14 @@
       ]
     },
     {
+      "nazwa": "Koszedary",
+      "lokalizacja": "Litwa, rej. koszedarski",
+      "inne_nazwy": [
+        "Kaišiadorys",
+        "Koszedary"
+      ]
+    },
+    {
       "nazwa": "Koszele",
       "lokalizacja": "woj. podlaskie, pow. bielski",
       "inne_nazwy": [
@@ -14157,10 +14236,27 @@
     },
     {
       "nazwa": "Kowno",
-      "lokalizacja": " Litwa, okr. kowieński",
+      "lokalizacja": "Litwa, okr. kowieński",
       "inne_nazwy": [
         "Kaunas",
         "Ковно"
+      ]
+    },
+    {
+      "nazwa": "Kowno",
+      "lokalizacja": "Litwa, rej. kowieński",
+      "inne_nazwy": [
+        "Kaunas",
+        "Kauen",
+        "קאָװנע"
+      ]
+    },
+    {
+      "nazwa": "Kowno Nowe",
+      "lokalizacja": "Litwa, rej. kowieński",
+      "inne_nazwy": [
+        "Naujamiestis",
+        "Neustadt"
       ]
     },
     {
@@ -14685,6 +14781,14 @@
       ]
     },
     {
+      "nazwa": "Kretynga",
+      "lokalizacja": "Litwa, rej. kretyński",
+      "inne_nazwy": [
+        "Kretinga",
+        "Krettingen"
+      ]
+    },
+    {
       "nazwa": "Krobielowice",
       "lokalizacja": "woj. dolnośląskie, pow. wrocławski",
       "inne_nazwy": [
@@ -14723,13 +14827,13 @@
     },
     {
       "nazwa": "Królewiec",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Konigsberg",
         "Kaliningrad",
         "Калининград",
         "Königsberg",
-	"Karaliaučius",
+        "Karaliaučius",
         "Twangste"
       ]
     },
@@ -15393,6 +15497,14 @@
       ]
     },
     {
+      "nazwa": "Kurszany",
+      "lokalizacja": "Litwa, rej. kurszeński",
+      "inne_nazwy": [
+        "Kuršėnai",
+        "Kurschenen"
+      ]
+    },
+    {
       "nazwa": "Kurznie",
       "lokalizacja": "woj. opolski, pow. brzeg",
       "inne_nazwy": [
@@ -15471,11 +15583,20 @@
     },
     {
       "nazwa": "Kłajpeda",
-      "lokalizacja": " Litwa, okr. kłajpedzki",
+      "lokalizacja": "Litwa, okr. kłajpedzki",
       "inne_nazwy": [
         "Memel",
         "Klaipėda",
         "Klaipeda"
+      ]
+    },
+    {
+      "nazwa": "Kłajpeda",
+      "lokalizacja": "Litwa, rej. kłajpedzki",
+      "inne_nazwy": [
+        "Klaipėda",
+        "Memel",
+        "Memelburg"
       ]
     },
     {
@@ -15644,7 +15765,7 @@
     },
     {
       "nazwa": "Labiawa",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Labiau",
         "Polessk",
@@ -17070,7 +17191,7 @@
     },
     {
       "nazwa": "Lwów",
-      "lokalizacja": " Ukraina, obw. lwowski",
+      "lokalizacja": "Ukraina, obw. lwowski",
       "inne_nazwy": [
         "Lviv",
         "Львов",
@@ -17338,6 +17459,15 @@
       "lokalizacja": "woj. dolnośląskie, pow. karkonoski",
       "inne_nazwy": [
         "Märzdorf"
+      ]
+    },
+    {
+      "nazwa": "Mariampol",
+      "lokalizacja": "Litwa, rej. mariampolski",
+      "inne_nazwy": [
+        "Marijampolė",
+        "Mariampole",
+        "Starapol"
       ]
     },
     {
@@ -18286,7 +18416,7 @@
     },
     {
       "nazwa": "Mińsk",
-      "lokalizacja": " Białoruś, obw. miński",
+      "lokalizacja": "Białoruś, obw. miński",
       "inne_nazwy": [
         "Miensk",
         "Минск"
@@ -18899,6 +19029,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. stargardzki",
       "inne_nazwy": [
         "Spaldingsfelde"
+      ]
+    },
+    {
+      "nazwa": "Możejki",
+      "lokalizacja": "Litwa, rej. możejkowski",
+      "inne_nazwy": [
+        "Mažeikiai",
+        "Moscheiken"
       ]
     },
     {
@@ -19687,7 +19825,7 @@
     },
     {
       "nazwa": "Nieman",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Ragnit",
         "Njeman",
@@ -19797,7 +19935,7 @@
     },
     {
       "nazwa": "Niestierow",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Stalluponen",
         "Nesterow",
@@ -20495,7 +20633,7 @@
     },
     {
       "nazwa": "Nowogródek",
-      "lokalizacja": " Białoruś, obw. grodzieński",
+      "lokalizacja": "Białoruś, obw. grodzieński",
       "inne_nazwy": [
         "Navahrudak",
         "Новогрудок"
@@ -21134,6 +21272,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. drawski",
       "inne_nazwy": [
         "Welschenburg"
+      ]
+    },
+    {
+      "nazwa": "Olita",
+      "lokalizacja": "Litwa, rej. olicki",
+      "inne_nazwy": [
+        "Alytus",
+        "Aliten"
       ]
     },
     {
@@ -22821,7 +22967,7 @@
     },
     {
       "nazwa": "Pilkały",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Pillkalen",
         "Dobrowolsk",
@@ -23501,6 +23647,13 @@
       ]
     },
     {
+      "nazwa": "Ponemunek",
+      "lokalizacja": "Litwa, rej. ponemunelski",
+      "inne_nazwy": [
+        "Panemunėlis"
+      ]
+    },
+    {
       "nazwa": "Poniatów",
       "lokalizacja": "woj. dolnośląskie, pow. wałbrzyski",
       "inne_nazwy": [
@@ -23512,6 +23665,15 @@
       "lokalizacja": "woj. wielkopolskie, pow. gostyński",
       "inne_nazwy": [
         "Punitz"
+      ]
+    },
+    {
+      "nazwa": "Poniewież",
+      "lokalizacja": "Litwa, rej. poniewieski",
+      "inne_nazwy": [
+        "Panevėžys",
+        "Ponewesch",
+        "פּאָנעװעזש"
       ]
     },
     {
@@ -23747,6 +23909,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. drawski",
       "inne_nazwy": [
         "Groß Spiegel"
+      ]
+    },
+    {
+      "nazwa": "Połąga",
+      "lokalizacja": "Litwa, rej. połagowski",
+      "inne_nazwy": [
+        "Palanga",
+        "Polangen"
       ]
     },
     {
@@ -24001,7 +24171,7 @@
     },
     {
       "nazwa": "Pruska Iławka",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Preussisch Eylau",
         "Bagrationowsk",
@@ -25285,6 +25455,14 @@
       ]
     },
     {
+      "nazwa": "Radziwiliszki",
+      "lokalizacja": "Litwa, rej. radziwiliski",
+      "inne_nazwy": [
+        "Radviliškis",
+        "Radvilischken"
+      ]
+    },
+    {
       "nazwa": "Radzyń Chełmiński",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. grudziądzki",
       "inne_nazwy": [
@@ -25865,6 +26043,14 @@
       ]
     },
     {
+      "nazwa": "Rokiszki",
+      "lokalizacja": "Litwa, rej. rokiškiński",
+      "inne_nazwy": [
+        "Rokiškis",
+        "Rakischken"
+      ]
+    },
+    {
       "nazwa": "Rokita",
       "lokalizacja": "woj. zachodniopomorskie, pow. goleniowski",
       "inne_nazwy": [
@@ -25989,6 +26175,14 @@
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
         "Groß Roschau"
+      ]
+    },
+    {
+      "nazwa": "Rosienie",
+      "lokalizacja": "Litwa, rej. rosieński",
+      "inne_nazwy": [
+        "Raseiniai",
+        "Raseinen"
       ]
     },
     {
@@ -26255,17 +26449,17 @@
       ]
     },
     {
-      "nazwa": "Ruciane-Nida, -Ruciane",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Rudczanny (Rudweiler)"
-      ]
-    },
-    {
       "nazwa": "Ruciane-Nida, Nida",
       "lokalizacja": "lokalizacja do uzupełnienia",
       "inne_nazwy": [
         "Nieden"
+      ]
+    },
+    {
+      "nazwa": "Ruciane-Nida, -Ruciane",
+      "lokalizacja": "lokalizacja do uzupełnienia",
+      "inne_nazwy": [
+        "Rudczanny (Rudweiler)"
       ]
     },
     {
@@ -26385,7 +26579,7 @@
     },
     {
       "nazwa": "Ruś",
-      "lokalizacja": " Litwa, okr. kłajpedzki",
+      "lokalizacja": "Litwa, okr. kłajpedzki",
       "inne_nazwy": [
         "Russ",
         "Rusnė",
@@ -30558,7 +30752,7 @@
     },
     {
       "nazwa": "Swietłogorsk",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Rauschen",
         "Swetlogorsk",
@@ -30702,6 +30896,14 @@
       ]
     },
     {
+      "nazwa": "Szaki",
+      "lokalizacja": "Litwa, rej. szacki",
+      "inne_nazwy": [
+        "Šakiai",
+        "Schaken"
+      ]
+    },
+    {
       "nazwa": "Szalejów Dolny",
       "lokalizacja": "woj. dolnośląskie, pow. kłodzki",
       "inne_nazwy": [
@@ -30756,6 +30958,31 @@
       "lokalizacja": "woj. pomorskie, pow. kościerski",
       "inne_nazwy": [
         "Schatarpi"
+      ]
+    },
+    {
+      "nazwa": "Szate",
+      "lokalizacja": "Litwa, rej. szyłelski",
+      "inne_nazwy": [
+        "Šate",
+        "Schate"
+      ]
+    },
+    {
+      "nazwa": "Szaty",
+      "lokalizacja": "Litwa, rej. szyłelski",
+      "inne_nazwy": [
+        "Šate",
+        "Schaten"
+      ]
+    },
+    {
+      "nazwa": "Szawle",
+      "lokalizacja": "Litwa, rej. szawelski",
+      "inne_nazwy": [
+        "Šiauliai",
+        "Schaulen",
+        "שאָװל"
       ]
     },
     {
@@ -31293,10 +31520,25 @@
       ]
     },
     {
+      "nazwa": "Szylany",
+      "lokalizacja": "Litwa, rej. szylański",
+      "inne_nazwy": [
+        "Šilainiai"
+      ]
+    },
+    {
       "nazwa": "Szyldbark",
       "lokalizacja": "woj. małopolskie, pow. gorlicki",
       "inne_nazwy": [
         "Schiltberg"
+      ]
+    },
+    {
+      "nazwa": "Szylokarczma",
+      "lokalizacja": "Litwa, rej. szyłokarczemski",
+      "inne_nazwy": [
+        "Šilutė",
+        "Heydekrug"
       ]
     },
     {
@@ -31364,7 +31606,7 @@
     },
     {
       "nazwa": "Szyłokarczma",
-      "lokalizacja": " Litwa, okr. kłajpedzki",
+      "lokalizacja": "Litwa, okr. kłajpedzki",
       "inne_nazwy": [
         "Heydekrug",
         "Šilutė",
@@ -31785,6 +32027,14 @@
       ]
     },
     {
+      "nazwa": "Taurogi",
+      "lokalizacja": "Litwa, rej. tauroski",
+      "inne_nazwy": [
+        "Tauragė",
+        "Tauroggen"
+      ]
+    },
+    {
       "nazwa": "Tauroszyszki",
       "lokalizacja": "woj. podlaskie, pow. sejneński",
       "inne_nazwy": [
@@ -31810,6 +32060,15 @@
       "lokalizacja": "woj. pomorskie, pow. bytowski",
       "inne_nazwy": [
         "Tebòwizna"
+      ]
+    },
+    {
+      "nazwa": "Telsze",
+      "lokalizacja": "Litwa, rej. telszański",
+      "inne_nazwy": [
+        "Telšiai",
+        "Telsche",
+        "טלז"
       ]
     },
     {
@@ -31849,7 +32108,7 @@
     },
     {
       "nazwa": "Tilsit",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Splitter"
       ]
@@ -32042,10 +32301,18 @@
     },
     {
       "nazwa": "Troki",
-      "lokalizacja": " Litwa, okr. wileński",
+      "lokalizacja": "Litwa, okr. wileński",
       "inne_nazwy": [
         "Trakai",
         "Троки"
+      ]
+    },
+    {
+      "nazwa": "Troki",
+      "lokalizacja": "Litwa, rej. trocki",
+      "inne_nazwy": [
+        "Trakai",
+        "Trok"
       ]
     },
     {
@@ -32687,7 +32954,7 @@
     },
     {
       "nazwa": "Tylża",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Tilsit",
         "Sowieck",
@@ -33002,6 +33269,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. kołobrzeski",
       "inne_nazwy": [
         "Henkenhagen"
+      ]
+    },
+    {
+      "nazwa": "Utena",
+      "lokalizacja": "Litwa, rej. uteński",
+      "inne_nazwy": [
+        "Utena",
+        "Uthena"
       ]
     },
     {
@@ -34351,10 +34626,20 @@
     },
     {
       "nazwa": "Wilno",
-      "lokalizacja": " Litwa, okr. wileński",
+      "lokalizacja": "Litwa, okr. wileński",
       "inne_nazwy": [
         "Vilnius",
         "Вильнюс"
+      ]
+    },
+    {
+      "nazwa": "Wilno",
+      "lokalizacja": "Litwa, rej. wileński",
+      "inne_nazwy": [
+        "Vilnius",
+        "Wilna",
+        "Vilna",
+        "ווילנע"
       ]
     },
     {
@@ -35283,7 +35568,7 @@
     },
     {
       "nazwa": "Wystruć",
-      "lokalizacja": " Rosja, obw. królewiecki",
+      "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
         "Insterburg",
         "Czerniachowsk",
@@ -35946,6 +36231,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. gryficki",
       "inne_nazwy": [
         "Vockenhagen"
+      ]
+    },
+    {
+      "nazwa": "Zarasy",
+      "lokalizacja": "Litwa, rej. zaraski",
+      "inne_nazwy": [
+        "Zarasai",
+        "Novo-Aleksandrovsk"
       ]
     },
     {
@@ -38042,7 +38335,7 @@
     },
     {
       "nazwa": "Łuck",
-      "lokalizacja": " Ukraina, obw. wołyński",
+      "lokalizacja": "Ukraina, obw. wołyński",
       "inne_nazwy": [
         "Luck",
         "Луцк"
