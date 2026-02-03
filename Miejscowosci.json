@@ -326,7 +326,7 @@
     },
     {
       "nazwa": "Babin",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Cavelwisch"
       ]
@@ -1112,7 +1112,7 @@
     },
     {
       "nazwa": "Bezrzecze",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Brunn"
       ]
@@ -2129,7 +2129,7 @@
     },
     {
       "nazwa": "Bolinko",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Grünhof",
         "niecka niebuszewska"
@@ -3328,7 +3328,7 @@
     },
     {
       "nazwa": "Bukowo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Buchholz"
       ]
@@ -3952,7 +3952,7 @@
     },
     {
       "nazwa": "Chełmoniewo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Koszalin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Koszalin",
       "inne_nazwy": [
         "Gollendorf"
       ]
@@ -5555,7 +5555,7 @@
     },
     {
       "nazwa": "Dąbie",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Altdamm"
       ]
@@ -6882,7 +6882,7 @@
     },
     {
       "nazwa": "Drzetowo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Bredow"
       ]
@@ -27749,7 +27749,7 @@
     },
     {
       "nazwa": "Skolwin",
-      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Scholwin",
         "Odermünde"
@@ -29447,7 +29447,7 @@
     },
     {
       "nazwa": "Stołczyn",
-      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Stolzenhagen"
       ],
@@ -29579,7 +29579,7 @@
     },
     {
       "nazwa": "Struga",
-      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Hohenkrug"
       ],
@@ -30279,7 +30279,7 @@
     },
     {
       "nazwa": "Świerczewo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Schwarzow"
       ],
@@ -31357,7 +31357,7 @@
     },
     {
       "nazwa": "Sławociesze",
-      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Franzhausen"
       ],
@@ -32449,7 +32449,7 @@
     },
     {
       "nazwa": "Turzyn",
-      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Torney"
       ],
@@ -33169,7 +33169,7 @@
     },
     {
       "nazwa": "Warszewo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Warsow"
       ],
@@ -33779,7 +33779,7 @@
     },
     {
       "nazwa": "Wielgowo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Augustwalde"
       ],
@@ -36096,7 +36096,7 @@
     },
     {
       "nazwa": "Załom",
-      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Arnimswalde"
       ],
@@ -36205,9 +36205,9 @@
     },
     {
       "nazwa": "Zdunowo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
-        "Hohenkrug (bei Augustwalde)"
+        "Hohenkrug"
       ],
       "notka": "osiedle w Szczecinie"
     },
@@ -36318,7 +36318,7 @@
     },
     {
       "nazwa": "Żelechowa",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Züllchow"
       ],
@@ -37025,7 +37025,7 @@
     },
     {
       "nazwa": "Żydowce",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Sydowsaue"
       ],
@@ -37695,7 +37695,7 @@
     },
     {
       "nazwa": "Łekno (Łękno)",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Westend",
         "Neu Westend"
