@@ -2732,6 +2732,14 @@
     },
     {
       "nazwa": "Brody",
+      "lokalizacja": "Ukraina, obw. lwowski",
+      "inne_nazwy": [
+        "Броди",
+        "Brody"
+      ]
+    },
+    {
+      "nazwa": "Brody",
       "lokalizacja": "woj. lubuskie, pow. żarski",
       "inne_nazwy": [
         "Pförten"
@@ -2933,6 +2941,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. pyrzycki",
       "inne_nazwy": [
         "Brietzig"
+      ]
+    },
+    {
+      "nazwa": "Brzeżany",
+      "lokalizacja": "Ukraina, obw. tarnopolski",
+      "inne_nazwy": [
+        "Бережани",
+        "Berezhany"
       ]
     },
     {
@@ -3175,6 +3191,14 @@
       "lokalizacja": "woj. lubuskie, pow. międzyrzecki",
       "inne_nazwy": [
         "Johanneshof"
+      ]
+    },
+    {
+      "nazwa": "Buczacz",
+      "lokalizacja": "Ukraina, obw. tarnopolski",
+      "inne_nazwy": [
+        "Бучач",
+        "Buchach"
       ]
     },
     {
@@ -3933,6 +3957,15 @@
       ]
     },
     {
+      "nazwa": "Charków",
+      "lokalizacja": "Ukraina, obw. charkowski",
+      "inne_nazwy": [
+        "Харків",
+        "Харьков",
+        "Kharkiv"
+      ]
+    },
+    {
       "nazwa": "Charnowo",
       "lokalizacja": "woj. zachodniopomorskie, pow. gryficki",
       "inne_nazwy": [
@@ -4111,6 +4144,14 @@
       "inne_nazwy": [
         "Steinberg",
         "Trauensteinberg"
+      ]
+    },
+    {
+      "nazwa": "Chmielnicki",
+      "lokalizacja": "Ukraina, obw. chmielnicki",
+      "inne_nazwy": [
+        "Хмельницький",
+        "Хмельницкий"
       ]
     },
     {
@@ -5349,6 +5390,14 @@
       ]
     },
     {
+      "nazwa": "Czerkasy",
+      "lokalizacja": "Ukraina, obw. czerkaski",
+      "inne_nazwy": [
+        "Черкаси",
+        "Cherkasy"
+      ]
+    },
+    {
       "nazwa": "Czermna",
       "lokalizacja": "woj. dolnośląskie, pow. kłodzki",
       "inne_nazwy": [
@@ -5444,6 +5493,15 @@
       ]
     },
     {
+      "nazwa": "Czerniowce",
+      "lokalizacja": "Ukraina, obw. czerniowiecki",
+      "inne_nazwy": [
+        "Чернівці",
+        "Черновцы",
+        "Czernowitz"
+      ]
+    },
+    {
       "nazwa": "Czersk",
       "lokalizacja": "woj. pomorskie, pow. chojnicki",
       "inne_nazwy": [
@@ -5513,6 +5571,14 @@
       "lokalizacja": "woj. małopolskie, pow. nowotarski",
       "inne_nazwy": [
         "Schornstein"
+      ]
+    },
+    {
+      "nazwa": "Czortków",
+      "lokalizacja": "Ukraina, obw. tarnopolski",
+      "inne_nazwy": [
+        "Чортків",
+        "Chortkiv"
       ]
     },
     {
@@ -6350,6 +6416,15 @@
       ]
     },
     {
+      "nazwa": "Dniepr",
+      "lokalizacja": "Ukraina, obw. dniepropietrowski",
+      "inne_nazwy": [
+        "Дніпро",
+        "Днепр",
+        "Dnipro"
+      ]
+    },
+    {
       "nazwa": "Dobiegniew",
       "lokalizacja": "woj. lubuskie, pow. strzelecko-drezdenecki",
       "inne_nazwy": [
@@ -6726,6 +6801,15 @@
       ]
     },
     {
+      "nazwa": "Donieck",
+      "lokalizacja": "Ukraina, obw. doniecki",
+      "inne_nazwy": [
+        "Донецьк",
+        "Донецк",
+        "Donetsk"
+      ]
+    },
+    {
       "nazwa": "Donimierz",
       "lokalizacja": "woj. pomorskie, pow. wejherowski",
       "inne_nazwy": [
@@ -6851,6 +6935,14 @@
       "lokalizacja": "woj. dolnośląskie, pow. kłodzki",
       "inne_nazwy": [
         "Kunzendorf"
+      ]
+    },
+    {
+      "nazwa": "Drohobycz",
+      "lokalizacja": "Ukraina, obw. lwowski",
+      "inne_nazwy": [
+        "Дрогобич",
+        "Drohobych"
       ]
     },
     {
@@ -10108,6 +10200,14 @@
       ]
     },
     {
+      "nazwa": "Halicz",
+      "lokalizacja": "Ukraina, obw. iwanofrankiwski",
+      "inne_nazwy": [
+        "Галич",
+        "Halych"
+      ]
+    },
+    {
       "nazwa": "Hamer-Młyn",
       "lokalizacja": "woj. pomorskie, pow. bytowski",
       "inne_nazwy": [
@@ -11183,6 +11283,14 @@
       ]
     },
     {
+      "nazwa": "Jaworów",
+      "lokalizacja": "Ukraina, obw. lwowski",
+      "inne_nazwy": [
+        "Яворів",
+        "Yavoriv"
+      ]
+    },
+    {
       "nazwa": "Jaworze",
       "lokalizacja": "woj. śląskie, pow. bielski",
       "inne_nazwy": [
@@ -11886,7 +11994,9 @@
       "lokalizacja": "Ukraina, obw. chmielnicki",
       "inne_nazwy": [
         "Kamianets-Podilskyi",
-        "Каменец-Подольский"
+        "Каменец-Подольский",
+        "Кам’янець-Подільський",
+        "Kamenz"
       ]
     },
     {
@@ -12814,6 +12924,17 @@
       "lokalizacja": "woj. pomorskie, pow. człuchowski",
       "inne_nazwy": [
         "Marienhof"
+      ]
+    },
+    {
+      "nazwa": "Kijów",
+      "lokalizacja": "Ukraina, obw. kijowski",
+      "inne_nazwy": [
+        "Київ",
+        "Киев",
+        "Kyiv",
+        "Kiew",
+        "קיִעוו"
       ]
     },
     {
@@ -14316,6 +14437,15 @@
       ]
     },
     {
+      "nazwa": "Kowel",
+      "lokalizacja": "Ukraina, obw. wołyński",
+      "inne_nazwy": [
+        "Ковель",
+        "Kovel",
+        "קאָװעל"
+      ]
+    },
+    {
       "nazwa": "Kowno",
       "lokalizacja": "Litwa, okr. kowieński",
       "inne_nazwy": [
@@ -14581,6 +14711,15 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. gryficki",
       "inne_nazwy": [
         "Koldemanz"
+      ]
+    },
+    {
+      "nazwa": "Kołomyja",
+      "lokalizacja": "Ukraina, obw. iwanofrankiwski",
+      "inne_nazwy": [
+        "Коломия",
+        "Kolomyja",
+        "קאָלאָמײַ"
       ]
     },
     {
@@ -15202,6 +15341,14 @@
       ]
     },
     {
+      "nazwa": "Krzemieniec",
+      "lokalizacja": "Ukraina, obw. tarnopolski",
+      "inne_nazwy": [
+        "Кременець",
+        "Kremenets"
+      ]
+    },
+    {
       "nazwa": "Krzemieniewo",
       "lokalizacja": "woj. pomorskie, pow. człuchowski",
       "inne_nazwy": [
@@ -15338,6 +15485,15 @@
       "lokalizacja": "woj. wielkopolskie, pow. nowotomyski",
       "inne_nazwy": [
         "Krummwalde"
+      ]
+    },
+    {
+      "nazwa": "Krzywy Róg",
+      "lokalizacja": "Ukraina, obw. dniepropietrowski",
+      "inne_nazwy": [
+        "Кривий Ріг",
+        "Кривой Рог",
+        "Kryvyi Rih"
       ]
     },
     {
@@ -17285,7 +17441,10 @@
       "inne_nazwy": [
         "Lviv",
         "Львов",
-        "Lemberg"
+        "Lemberg",
+        "Львів",
+        "Leopolis",
+        "לעמבערג"
       ]
     },
     {
@@ -17565,6 +17724,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. stargardzki",
       "inne_nazwy": [
         "Marienfließ"
+      ]
+    },
+    {
+      "nazwa": "Mariupol",
+      "lokalizacja": "Ukraina, obw. doniecki",
+      "inne_nazwy": [
+        "Маріуполь",
+        "Мариуполь"
       ]
     },
     {
@@ -19297,6 +19464,14 @@
       "lokalizacja": "woj. podkarpackie",
       "inne_nazwy": [
         "Kazimierzowo"
+      ]
+    },
+    {
+      "nazwa": "Mukaczewo",
+      "lokalizacja": "Ukraina, obw. zakarpacki",
+      "inne_nazwy": [
+        "Мукачево",
+        "Munkács"
       ]
     },
     {
@@ -21203,6 +21378,15 @@
       ]
     },
     {
+      "nazwa": "Odessa",
+      "lokalizacja": "Ukraina, obw. odeski",
+      "inne_nazwy": [
+        "Одеса",
+        "Одесса",
+        "Odesa"
+      ]
+    },
+    {
       "nazwa": "Odolanów",
       "lokalizacja": "woj. wielkopolskie, pow. ostrowski",
       "inne_nazwy": [
@@ -21918,6 +22102,14 @@
       "lokalizacja": "woj. warmińsko-mazurskie, pow. ostródzki",
       "inne_nazwy": [
         "Osterode"
+      ]
+    },
+    {
+      "nazwa": "Ostróg",
+      "lokalizacja": "Ukraina, obw. rówieński",
+      "inne_nazwy": [
+        "Острог",
+        "Ostroh"
       ]
     },
     {
@@ -24126,6 +24318,14 @@
       ]
     },
     {
+      "nazwa": "Połtawa",
+      "lokalizacja": "Ukraina, obw. połtawski",
+      "inne_nazwy": [
+        "Полтава",
+        "Poltava"
+      ]
+    },
+    {
       "nazwa": "Połupino",
       "lokalizacja": "woj. pomorskie, pow. bytowski",
       "inne_nazwy": [
@@ -24488,6 +24688,14 @@
       "lokalizacja": "woj. podkarpackie, pow. przemyski",
       "inne_nazwy": [
         "Premissel"
+      ]
+    },
+    {
+      "nazwa": "Przemyślany",
+      "lokalizacja": "Ukraina, obw. lwowski",
+      "inne_nazwy": [
+        "Перемишляни",
+        "Peremyshlyany"
       ]
     },
     {
@@ -26471,6 +26679,16 @@
     },
     {
       "nazwa": "Równe",
+      "lokalizacja": "Ukraina, obw. rówieński",
+      "inne_nazwy": [
+        "Рівне",
+        "Ровно",
+        "Rivne",
+        "ראָװנע"
+      ]
+    },
+    {
+      "nazwa": "Równe",
       "lokalizacja": "woj. zachodniopomorskie, pow. szczecinecki",
       "inne_nazwy": [
         "Raffenberg"
@@ -27334,6 +27552,14 @@
       "lokalizacja": "woj. pomorskie, pow. wejherowski",
       "inne_nazwy": [
         "Saulin"
+      ]
+    },
+    {
+      "nazwa": "Sambor",
+      "lokalizacja": "Ukraina, obw. lwowski",
+      "inne_nazwy": [
+        "Самбір",
+        "Sambir"
       ]
     },
     {
@@ -29072,6 +29298,15 @@
       ]
     },
     {
+      "nazwa": "Stanisławów",
+      "lokalizacja": "Ukraina, obw. iwanofrankiwski",
+      "inne_nazwy": [
+        "Івано-Франківськ",
+        "Ивано-Франковск",
+        "Ivano-Frankivsk"
+      ]
+    },
+    {
       "nazwa": "Stanisławy",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
@@ -30091,6 +30326,14 @@
       "lokalizacja": "woj. dolnośląskie, pow. karkonoski",
       "inne_nazwy": [
         "Neu Fischbach"
+      ]
+    },
+    {
+      "nazwa": "Stryj",
+      "lokalizacja": "Ukraina, obw. lwowski",
+      "inne_nazwy": [
+        "Стрий",
+        "Stryi"
       ]
     },
     {
@@ -32169,6 +32412,15 @@
       ]
     },
     {
+      "nazwa": "Tarnopol",
+      "lokalizacja": "Ukraina, obw. tarnopolski",
+      "inne_nazwy": [
+        "Тернопіль",
+        "Тернополь",
+        "Ternopil"
+      ]
+    },
+    {
       "nazwa": "Tarnów",
       "lokalizacja": "woj. małopolskie, pow. miasto Tarnów",
       "inne_nazwy": [
@@ -33503,6 +33755,14 @@
       "lokalizacja": "woj. warmińsko-mazurskie, pow. działdowski",
       "inne_nazwy": [
         "Usdau"
+      ]
+    },
+    {
+      "nazwa": "Użhorod",
+      "lokalizacja": "Ukraina, obw. zakarpacki",
+      "inne_nazwy": [
+        "Ужгород",
+        "Ungvár"
       ]
     },
     {
@@ -34870,6 +35130,14 @@
     },
     {
       "nazwa": "Winnica",
+      "lokalizacja": "Ukraina, obw. winnicki",
+      "inne_nazwy": [
+        "Вінниця",
+        "Винница"
+      ]
+    },
+    {
+      "nazwa": "Winnica",
       "lokalizacja": "woj. lubuskie, pow. międzyrzecki",
       "inne_nazwy": [
         "Winitze"
@@ -35919,6 +36187,14 @@
       ]
     },
     {
+      "nazwa": "Włodzimierz",
+      "lokalizacja": "Ukraina, obw. wołyński",
+      "inne_nazwy": [
+        "Володимир",
+        "Volodymyr"
+      ]
+    },
+    {
       "nazwa": "Włodzisław",
       "lokalizacja": "woj. zachodniopomorskie, pow. goleniowski",
       "inne_nazwy": [
@@ -36464,6 +36740,15 @@
       ]
     },
     {
+      "nazwa": "Zaporoże",
+      "lokalizacja": "Ukraina, obw. zaporoski",
+      "inne_nazwy": [
+        "Запоріжжя",
+        "Запорожье",
+        "Zaporizhzhia"
+      ]
+    },
+    {
       "nazwa": "Zarasy",
       "lokalizacja": "Litwa, rej. zaraski",
       "inne_nazwy": [
@@ -36760,6 +37045,14 @@
       "lokalizacja": "woj. podkarpackie",
       "inne_nazwy": [
         "Załęże"
+      ]
+    },
+    {
+      "nazwa": "Zbaraż",
+      "lokalizacja": "Ukraina, obw. tarnopolski",
+      "inne_nazwy": [
+        "Збараж",
+        "Zbarazh"
       ]
     },
     {
@@ -37464,6 +37757,14 @@
       ]
     },
     {
+      "nazwa": "Żółkiew",
+      "lokalizacja": "Ukraina, obw. lwowski",
+      "inne_nazwy": [
+        "Жовква",
+        "Zhovkva"
+      ]
+    },
+    {
       "nazwa": "Żółkiewka",
       "lokalizacja": "woj. dolnośląskie, pow. świdnicki",
       "inne_nazwy": [
@@ -37730,6 +38031,15 @@
       ]
     },
     {
+      "nazwa": "Żytomierz",
+      "lokalizacja": "Ukraina, obw. żytomierski",
+      "inne_nazwy": [
+        "Житомир",
+        "Żytomir",
+        "זשיטאָמיר"
+      ]
+    },
+    {
       "nazwa": "Żywiec",
       "lokalizacja": "woj. śląskie, pow. żywiecki",
       "inne_nazwy": [
@@ -37791,6 +38101,14 @@
       "lokalizacja": "woj. łódzkie, pow. sieradzki",
       "inne_nazwy": [
         "Schlötzau"
+      ]
+    },
+    {
+      "nazwa": "Złoczów",
+      "lokalizacja": "Ukraina, obw. lwowski",
+      "inne_nazwy": [
+        "Золочів",
+        "Zolochiv"
       ]
     },
     {
@@ -38576,7 +38894,19 @@
       "lokalizacja": "Ukraina, obw. wołyński",
       "inne_nazwy": [
         "Luck",
-        "Луцк"
+        "Луцк",
+        "Луцьк",
+        "Lutsk",
+        "לוצק"
+      ]
+    },
+    {
+      "nazwa": "Ługańsk",
+      "lokalizacja": "Ukraina, obw. ługański",
+      "inne_nazwy": [
+        "Луганськ",
+        "Луганск",
+        "Luhansk"
       ]
     },
     {
