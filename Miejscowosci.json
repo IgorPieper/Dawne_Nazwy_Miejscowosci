@@ -11984,7 +11984,7 @@
     },
     {
       "nazwa": "Karsibór",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Świnoujście (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Świnoujście",
       "inne_nazwy": [
         "Kaseburg"
       ],
@@ -24070,8 +24070,7 @@
       "nazwa": "Przemyśl",
       "lokalizacja": "woj. podkarpackie, pow. przemyski",
       "inne_nazwy": [
-        "Premissel",
-        "Deutsch-Przemysl"
+        "Premissel"
       ]
     },
     {
@@ -24358,7 +24357,7 @@
     },
     {
       "nazwa": "Przytór",
-      "lokalizacja": "woj. zachodniopomorskie, pow. m. Świnoujście",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Świnoujście",
       "inne_nazwy": [
         "Pritter"
       ],
@@ -24717,10 +24716,11 @@
     },
     {
       "nazwa": "Płonia",
-      "lokalizacja": "woj. zachodniopomorskie, pow. m. Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Buchholz"
-      ]
+      ],
+      "notka": "Obecnie część Szczecina"
     },
     {
       "nazwa": "Płonica",
@@ -26740,7 +26740,7 @@
     },
     {
       "nazwa": "Rzeszów",
-      "lokalizacja": "woj. podkarpackie, pow. rzeszowski",
+      "lokalizacja": "woj. podkarpackie, pow. miasto Rzeszów",
       "inne_nazwy": [
         "Resche",
         "Reichshof"
@@ -27749,7 +27749,7 @@
     },
     {
       "nazwa": "Skolwin",
-      "lokalizacja": "woj. zachodniopomorskie, pow. m. Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
       "inne_nazwy": [
         "Scholwin",
         "Odermünde"
@@ -28051,7 +28051,7 @@
     },
     {
       "nazwa": "Śmierdnica",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
       "inne_nazwy": [
         "Mühlenbeck"
       ],
@@ -29447,7 +29447,7 @@
     },
     {
       "nazwa": "Stołczyn",
-      "lokalizacja": "woj. zachodniopomorskie, pow. m. Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
       "inne_nazwy": [
         "Stolzenhagen"
       ],
@@ -29579,11 +29579,11 @@
     },
     {
       "nazwa": "Struga",
-      "lokalizacja": "woj. zachodniopomorskie, pow. m. Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
       "inne_nazwy": [
-        "Hohenkrug (bei Buchholz)"
+        "Hohenkrug"
       ],
-      "notka": "osiedle w Szczecinie"
+      "notka": "Część Szczecina"
     },
     {
       "nazwa": "Strumień",
@@ -30279,7 +30279,7 @@
     },
     {
       "nazwa": "Świerczewo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
       "inne_nazwy": [
         "Schwarzow"
       ],
@@ -30505,13 +30505,6 @@
       ]
     },
     {
-      "nazwa": "Świnoujście",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Świnoujście (gr.)",
-      "inne_nazwy": [
-        "Swinemünde"
-      ]
-    },
-    {
       "nazwa": "Swobnica",
       "lokalizacja": "woj. zachodniopomorskie, pow. gryfiński",
       "inne_nazwy": [
@@ -30686,13 +30679,6 @@
       "lokalizacja": "woj. pomorskie, pow. kościerski",
       "inne_nazwy": [
         "Szczeblewò"
-      ]
-    },
-    {
-      "nazwa": "Szczecin",
-      "lokalizacja": "woj. zachodniopomorskie, pow. m. Szczecin",
-      "inne_nazwy": [
-        "Stettin"
       ]
     },
     {
@@ -31371,7 +31357,7 @@
     },
     {
       "nazwa": "Sławociesze",
-      "lokalizacja": "woj. zachodniopomorskie, pow. m. Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
       "inne_nazwy": [
         "Franzhausen"
       ],
@@ -31866,13 +31852,6 @@
       "lokalizacja": "woj. kujawsko-pomorskie, pow. miasto Toruń",
       "inne_nazwy": [
         "Thorn"
-      ]
-    },
-    {
-      "nazwa": "Toruń, -?",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Mocker"
       ]
     },
     {
@@ -32470,7 +32449,7 @@
     },
     {
       "nazwa": "Turzyn",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
       "inne_nazwy": [
         "Torney"
       ],
@@ -33189,15 +33168,8 @@
       ]
     },
     {
-      "nazwa": "Warszawa",
-      "lokalizacja": "woj. pomorskie, pow. bytowski",
-      "inne_nazwy": [
-        "Warszawa"
-      ]
-    },
-    {
       "nazwa": "Warszewo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
       "inne_nazwy": [
         "Warsow"
       ],
@@ -33807,7 +33779,7 @@
     },
     {
       "nazwa": "Wielgowo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
       "inne_nazwy": [
         "Augustwalde"
       ],
@@ -36124,7 +36096,7 @@
     },
     {
       "nazwa": "Załom",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasta Szczecin",
       "inne_nazwy": [
         "Arnimswalde"
       ],
@@ -36221,15 +36193,8 @@
       "inne_nazwy": [
         "Finkenwalde",
         "Szczecina"
-      ]
-    },
-    {
-      "nazwa": "Zdroje",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
-      "inne_nazwy": [
-        "Finkenwalde"
       ],
-      "notka": "dzielnica Szczecina"
+     "notka": "dzielnica Szczecina"
     },
     {
       "nazwa": "Zdunowice",
@@ -37696,8 +37661,7 @@
       "nazwa": "Łęgnowo",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. miasto Bydgoszcz",
       "inne_nazwy": [
-        "Langenau",
-        "Bydgoszczy"
+        "Langenau"
       ]
     },
     {
