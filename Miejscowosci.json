@@ -649,6 +649,15 @@
       ]
     },
     {
+      "nazwa": "Baranowicze",
+      "lokalizacja": "Białoruś, obw. brzeski",
+      "inne_nazwy": [
+        "Баранавічы",
+        "Барановичи",
+        "Baranavičy"
+      ]
+    },
+    {
       "nazwa": "Baranowo",
       "lokalizacja": "woj. pomorskie, pow. bytowski",
       "inne_nazwy": [
@@ -1375,6 +1384,14 @@
       ]
     },
     {
+      "nazwa": "Białystok (historycznie związany z regionem)",
+      "lokalizacja": "Białoruś, obw. grodzieński",
+      "inne_nazwy": [
+        "Беласток",
+        "Белосток"
+      ]
+    },
+    {
       "nazwa": "Biecz",
       "lokalizacja": "woj. małopolskie, pow. gorlicki",
       "inne_nazwy": [
@@ -1897,6 +1914,16 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. drawski",
       "inne_nazwy": [
         "Dietersdorf"
+      ]
+    },
+    {
+      "nazwa": "Bobrujsk",
+      "lokalizacja": "Białoruś, obw. mohylewski",
+      "inne_nazwy": [
+        "Бабруйск",
+        "Бобруйск",
+        "Babrujsk",
+        "באָברויסק"
       ]
     },
     {
@@ -2464,6 +2491,15 @@
       ]
     },
     {
+      "nazwa": "Borysów",
+      "lokalizacja": "Białoruś, obw. miński",
+      "inne_nazwy": [
+        "Барысаў",
+        "Борисов",
+        "Barysau"
+      ]
+    },
+    {
       "nazwa": "Boryszewo",
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
@@ -2850,6 +2886,16 @@
       "inne_nazwy": [
         "Siegenthal",
         "Dolina"
+      ]
+    },
+    {
+      "nazwa": "Brześć",
+      "lokalizacja": "Białoruś, obw. brzeski",
+      "inne_nazwy": [
+        "Брэст",
+        "Брест",
+        "Brest",
+        "בריסק"
       ]
     },
     {
@@ -9378,7 +9424,9 @@
       "lokalizacja": "Białoruś, obw. grodzieński",
       "inne_nazwy": [
         "Hrodna",
-        "Гродно"
+        "Гродно",
+        "Гродна",
+        "גראָדנע"
       ]
     },
     {
@@ -10186,6 +10234,15 @@
       ]
     },
     {
+      "nazwa": "Homel",
+      "lokalizacja": "Białoruś, obw. homelski",
+      "inne_nazwy": [
+        "Гомель",
+        "Gomel",
+        "האָמעל"
+      ]
+    },
+    {
       "nazwa": "Hopowo",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
@@ -10431,6 +10488,14 @@
       "lokalizacja": "woj. podkarpackie",
       "inne_nazwy": [
         "Pogoń"
+      ]
+    },
+    {
+      "nazwa": "Iwie",
+      "lokalizacja": "Białoruś, obw. grodzieński",
+      "inne_nazwy": [
+        "Іўе",
+        "Ивье"
       ]
     },
     {
@@ -11610,6 +11675,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. świdwiński",
       "inne_nazwy": [
         "Meierei"
+      ]
+    },
+    {
+      "nazwa": "Kalinkowicze",
+      "lokalizacja": "Białoruś, obw. homelski",
+      "inne_nazwy": [
+        "Калінкавічы",
+        "Калинковичи"
       ]
     },
     {
@@ -13087,6 +13160,14 @@
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
         "Kobierschin"
+      ]
+    },
+    {
+      "nazwa": "Kobryń",
+      "lokalizacja": "Białoruś, obw. brzeski",
+      "inne_nazwy": [
+        "Кобрынь",
+        "Кобрин"
       ]
     },
     {
@@ -16346,6 +16427,15 @@
       ]
     },
     {
+      "nazwa": "Lida",
+      "lokalizacja": "Białoruś, obw. grodzieński",
+      "inne_nazwy": [
+        "Ліда",
+        "Лида",
+        "לידע"
+      ]
+    },
+    {
       "nazwa": "Lidzbark",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. działdowski",
       "inne_nazwy": [
@@ -18419,7 +18509,10 @@
       "lokalizacja": "Białoruś, obw. miński",
       "inne_nazwy": [
         "Miensk",
-        "Минск"
+        "Минск",
+        "Мінск",
+        "Minsk",
+        "מינסק"
       ]
     },
     {
@@ -18759,6 +18852,16 @@
       ]
     },
     {
+      "nazwa": "Mohylew",
+      "lokalizacja": "Białoruś, obw. mohylewski",
+      "inne_nazwy": [
+        "Магілёў",
+        "Могилёв",
+        "Mahiloŭ",
+        "מאָהילעוו"
+      ]
+    },
+    {
       "nazwa": "Mojusz",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
@@ -19051,6 +19154,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. łobeski",
       "inne_nazwy": [
         "Neu Maldewin"
+      ]
+    },
+    {
+      "nazwa": "Mołodeczno",
+      "lokalizacja": "Białoruś, obw. miński",
+      "inne_nazwy": [
+        "Маладзечна",
+        "Молодечно"
       ]
     },
     {
@@ -19944,6 +20055,14 @@
       ]
     },
     {
+      "nazwa": "Nieśwież",
+      "lokalizacja": "Białoruś, obw. miński",
+      "inne_nazwy": [
+        "Нясвіж",
+        "Несвиж"
+      ]
+    },
+    {
       "nazwa": "Nieszawa",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. aleksandrowski",
       "inne_nazwy": [
@@ -20636,7 +20755,8 @@
       "lokalizacja": "Białoruś, obw. grodzieński",
       "inne_nazwy": [
         "Navahrudak",
-        "Новогрудок"
+        "Новогрудок",
+        "Навагрудак"
       ]
     },
     {
@@ -20658,6 +20778,14 @@
       "lokalizacja": "woj. dolnośląskie, pow. wrocławski",
       "inne_nazwy": [
         "Haltauf"
+      ]
+    },
+    {
+      "nazwa": "Nowopołock",
+      "lokalizacja": "Białoruś, obw. witebski",
+      "inne_nazwy": [
+        "Наваполацк",
+        "Новополоцк"
       ]
     },
     {
@@ -21468,6 +21596,15 @@
       "lokalizacja": "woj. warmińsko-mazurskie, pow. lidzbarski",
       "inne_nazwy": [
         "Wormditt"
+      ]
+    },
+    {
+      "nazwa": "Orsza",
+      "lokalizacja": "Białoruś, obw. witebski",
+      "inne_nazwy": [
+        "Орша",
+        "Orša",
+        "Orsha"
       ]
     },
     {
@@ -22979,6 +23116,16 @@
       ]
     },
     {
+      "nazwa": "Pińsk",
+      "lokalizacja": "Białoruś, obw. brzeski",
+      "inne_nazwy": [
+        "Пінск",
+        "Пинск",
+        "Pinsk",
+        "פינסק"
+      ]
+    },
+    {
       "nazwa": "Pioniersk",
       "lokalizacja": "Rosja, obw. królewiecki",
       "inne_nazwy": [
@@ -23956,6 +24103,15 @@
       ]
     },
     {
+      "nazwa": "Połock",
+      "lokalizacja": "Białoruś, obw. witebski",
+      "inne_nazwy": [
+        "Полацк",
+        "Полоцк",
+        "Polack"
+      ]
+    },
+    {
       "nazwa": "Połomino",
       "lokalizacja": "woj. zachodniopomorskie, pow. kołobrzeski",
       "inne_nazwy": [
@@ -24220,6 +24376,13 @@
       "lokalizacja": "woj. kujawsko-pomorskie, pow. świecki",
       "inne_nazwy": [
         "Prust"
+      ]
+    },
+    {
+      "nazwa": "Prużana",
+      "lokalizacja": "Białoruś, obw. brzeski",
+      "inne_nazwy": [
+        "Пружаны"
       ]
     },
     {
@@ -26022,6 +26185,14 @@
       ]
     },
     {
+      "nazwa": "Rohaczów",
+      "lokalizacja": "Białoruś, obw. homelski",
+      "inne_nazwy": [
+        "Рагачоў",
+        "Рогачёв"
+      ]
+    },
+    {
       "nazwa": "Rojewice",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. inowrocławski",
       "inne_nazwy": [
@@ -26891,6 +27062,14 @@
       "lokalizacja": "woj. kujawsko-pomorskie, pow. toruński",
       "inne_nazwy": [
         "Rentschkau"
+      ]
+    },
+    {
+      "nazwa": "Rzeczyca",
+      "lokalizacja": "Białoruś, obw. homelski",
+      "inne_nazwy": [
+        "Рэчыца",
+        "Речица"
       ]
     },
     {
@@ -28458,6 +28637,14 @@
       ]
     },
     {
+      "nazwa": "Smorgonie",
+      "lokalizacja": "Białoruś, obw. grodzieński",
+      "inne_nazwy": [
+        "Смаргонь",
+        "Сморгонь"
+      ]
+    },
+    {
       "nazwa": "Smołdzino",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
@@ -29744,6 +29931,14 @@
         "Stolzenhagen"
       ],
       "notka": "dzielnica Szczecina"
+    },
+    {
+      "nazwa": "Stołpce",
+      "lokalizacja": "Białoruś, obw. miński",
+      "inne_nazwy": [
+        "Стоўбцы",
+        "Столбцы"
+      ]
     },
     {
       "nazwa": "Stołuń",
@@ -31772,6 +31967,15 @@
       ]
     },
     {
+      "nazwa": "Słonim",
+      "lokalizacja": "Białoruś, obw. grodzieński",
+      "inne_nazwy": [
+        "Слонім",
+        "Слоним",
+        "סלאָנים"
+      ]
+    },
+    {
       "nazwa": "Słońsk",
       "lokalizacja": "woj. lubuskie, pow. sulęciński",
       "inne_nazwy": [
@@ -31852,6 +32056,14 @@
       "inne_nazwy": [
         "Dammvorstadt",
         "Frankfurtu"
+      ]
+    },
+    {
+      "nazwa": "Słuck",
+      "lokalizacja": "Białoruś, obw. miński",
+      "inne_nazwy": [
+        "Слуцк",
+        "Sluck"
       ]
     },
     {
@@ -34773,6 +34985,16 @@
       "notka": "Obecnie część Gdańska"
     },
     {
+      "nazwa": "Witebsk",
+      "lokalizacja": "Białoruś, obw. witebski",
+      "inne_nazwy": [
+        "Віцебск",
+        "Витебск",
+        "Vitebsk",
+        "וויטעבסק"
+      ]
+    },
+    {
       "nazwa": "Witków",
       "lokalizacja": "woj. dolnośląskie, pow. świdnicki",
       "inne_nazwy": [
@@ -35141,6 +35363,14 @@
       "lokalizacja": "woj. opolskie, pow. kluczborski",
       "inne_nazwy": [
         "Kunzestadt, Konstadt"
+      ]
+    },
+    {
+      "nazwa": "Wołkowysk",
+      "lokalizacja": "Białoruś, obw. grodzieński",
+      "inne_nazwy": [
+        "Ваўкавыск",
+        "Волковыск"
       ]
     },
     {
@@ -37539,6 +37769,14 @@
       "lokalizacja": "woj. pomorskie, pow. chojnicki",
       "inne_nazwy": [
         "Bösenfleisch"
+      ]
+    },
+    {
+      "nazwa": "Żłobin",
+      "lokalizacja": "Białoruś, obw. homelski",
+      "inne_nazwy": [
+        "Жлобін",
+        "Жлобин"
       ]
     },
     {
