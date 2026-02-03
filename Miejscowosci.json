@@ -6038,7 +6038,7 @@
     },
     {
       "nazwa": "Grudziądz",
-      "lokalizacja": "woj. kujawsko-pomorskie, pow. m. Grudziądz",
+      "lokalizacja": "woj. kujawsko-pomorskie, pow. miasto Grudziądz",
       "inne_nazwy": [
         "Graudenz"
       ]
@@ -12899,7 +12899,7 @@
     },
     {
       "nazwa": "Olsztyn",
-      "lokalizacja": "woj. warmińsko-mazurskie, pow. m. Olsztyn",
+      "lokalizacja": "woj. warmińsko-mazurskie, pow. miasto Olsztyn",
       "inne_nazwy": [
         "Allestein"
       ]
@@ -16807,7 +16807,7 @@
     },
     {
       "nazwa": "Sopot",
-      "lokalizacja": "woj. pomorskie, pow. m. Sopot",
+      "lokalizacja": "woj. pomorskie, pow. miasto Sopot",
       "inne_nazwy": [
         "Zoppot"
       ]
@@ -18953,7 +18953,7 @@
     },
     {
       "nazwa": "Toruń",
-      "lokalizacja": "woj. kujawsko-pomorskie, pow. m. Toruń",
+      "lokalizacja": "woj. kujawsko-pomorskie, pow. miasto Toruń",
       "inne_nazwy": [
         "Thorn"
       ]
@@ -20613,7 +20613,7 @@
     },
     {
       "nazwa": "Wrocław",
-      "lokalizacja": "woj. dolnośląskie, pow. m. Wrocław",
+      "lokalizacja": "woj. dolnośląskie, pow. miasto Wrocław",
       "inne_nazwy": [
         "Breslau",
         "Vratislavia"
