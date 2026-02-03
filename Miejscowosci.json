@@ -319,16 +319,16 @@
     },
     {
       "nazwa": "Babin",
-      "lokalizacja": "woj. zachodniopomorskie, pow. pyrzycki",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
-        "Babbin"
+        "Cavelwisch"
       ]
     },
     {
       "nazwa": "Babin",
-      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. pyrzycki",
       "inne_nazwy": [
-        "Cavelwisch"
+        "Babbin"
       ]
     },
     {
@@ -1105,14 +1105,14 @@
     },
     {
       "nazwa": "Bezrzecze",
-      "lokalizacja": "woj. zachodniopomorskie, pow. policki",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Brunn"
       ]
     },
     {
       "nazwa": "Bezrzecze",
-      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. policki",
       "inne_nazwy": [
         "Brunn"
       ]
@@ -3493,7 +3493,8 @@
       "nazwa": "Bydgoszcz",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. miasto Bydgoszcz",
       "inne_nazwy": [
-        "Bromberg"
+        "Bromberg",
+        "Bidgostia"
       ]
     },
     {
@@ -5554,13 +5555,6 @@
       ]
     },
     {
-      "nazwa": "Dąbie",
-      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
-      "inne_nazwy": [
-        "Altdamm"
-      ]
-    },
-    {
       "nazwa": "Dąbki",
       "lokalizacja": "woj. lubuskie, pow. krośnieński",
       "inne_nazwy": [
@@ -7238,7 +7232,7 @@
     },
     {
       "nazwa": "Dzierżęcino",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Koszalin ",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Koszalin",
       "inne_nazwy": [
         "Dörsenthin"
       ]
@@ -7579,6 +7573,15 @@
       ]
     },
     {
+      "nazwa": "Fordon",
+      "lokalizacja": "woj. kujawsko-pomorskie, pow. miasto Bydgoszcz",
+      "inne_nazwy": [
+        "Forduni",
+        "Fordonum"
+      ],
+      "notka": "Obecnie część Bydgoszczy"
+    },
+    {
       "nazwa": "Frąca",
       "lokalizacja": "woj. pomorskie, pow. starogardzki",
       "inne_nazwy": [
@@ -7874,7 +7877,19 @@
       "nazwa": "Gdańsk",
       "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
       "inne_nazwy": [
-        "Danzig"
+        "Danzig",
+        "Gduńsk",
+        "Gedania",
+        "Gedanum",
+        "Dantiscum",
+        "Danswĳk",
+        "Gyddanyzc",
+        "Castrum Kdanzc",
+        "Kdanzc",
+        "Danzc",
+        "Danzer",
+        "Wolne Miasto Gdańsk",
+        "Freie Stadt Danzig"
       ]
     },
     {
@@ -7882,7 +7897,9 @@
       "lokalizacja": "woj. pomorskie, pow. miasto Gdynia",
       "inne_nazwy": [
         "Gdingen",
-        "Gotenhafen"
+        "Gotenhafen",
+        "Gdinam",
+        "Gdina"
       ]
     },
     {
@@ -8068,7 +8085,7 @@
     },
     {
       "nazwa": "Glinki",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
       "inne_nazwy": [
         "Glienken"
       ],
@@ -8225,7 +8242,7 @@
     },
     {
       "nazwa": "Gocław",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
       "inne_nazwy": [
         "Gotzlow"
       ],
@@ -8331,7 +8348,7 @@
     },
     {
       "nazwa": "Golęcino",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
       "inne_nazwy": [
         "Frauendorf"
       ],
@@ -9104,7 +9121,7 @@
     },
     {
       "nazwa": "Grabowo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
       "inne_nazwy": [
         "Grabow"
       ],
@@ -9675,7 +9692,7 @@
     },
     {
       "nazwa": "Gumieńce",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
       "inne_nazwy": [
         "Scheune"
       ],
@@ -9814,7 +9831,7 @@
     },
     {
       "nazwa": "Głębokie",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
       "inne_nazwy": [
         "Glambeck"
       ],
@@ -11283,7 +11300,7 @@
     },
     {
       "nazwa": "Jezierzyce",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
       "inne_nazwy": [
         "Jeseritz"
       ],
@@ -12211,7 +12228,8 @@
       "nazwa": "Katowice",
       "lokalizacja": "woj. śląskie, pow. miasto Katowice",
       "inne_nazwy": [
-        "Kattowitz"
+        "Kattowitz",
+        "Stalinogród"
       ]
     },
     {
@@ -12617,7 +12635,7 @@
     },
     {
       "nazwa": "Kijewo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
       "inne_nazwy": [
         "Rosengarten"
       ],
@@ -12754,7 +12772,7 @@
     },
     {
       "nazwa": "Klęskowo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
       "inne_nazwy": [
         "Hökendorf"
       ],
@@ -12889,7 +12907,7 @@
     },
     {
       "nazwa": "Klucz",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
       "inne_nazwy": [
         "Klütz"
       ],
@@ -13901,16 +13919,13 @@
     },
     {
       "nazwa": "Koszalin",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Koszalin ",
-      "inne_nazwy": [
-        "Köslin"
-      ]
-    },
-    {
-      "nazwa": "Koszalin",
       "lokalizacja": "woj. zachodniopomorskie, pow. miasto Koszalin",
       "inne_nazwy": [
-        "Köslin"
+        "Köslin",
+        "Cossalitz",
+        "Cussalitz",
+        "Koszalice",
+        "Cöslin"
       ]
     },
     {
@@ -14429,7 +14444,9 @@
       "nazwa": "Kraków",
       "lokalizacja": "woj. małopolskie, pow. miasto Kraków",
       "inne_nazwy": [
-        "Krakau"
+        "Krakau",
+        "Cracovia",
+        "Krak"
       ]
     },
     {
@@ -14477,7 +14494,7 @@
     },
     {
       "nazwa": "Kraśnica",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
       "inne_nazwy": [
         "Kratzwieck"
       ],
@@ -14959,7 +14976,7 @@
     },
     {
       "nazwa": "Krzekowo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
       "inne_nazwy": [
         "Kreckow"
       ],
@@ -15772,7 +15789,11 @@
       "nazwa": "Lębork",
       "lokalizacja": "woj. pomorskie, pow. lęborski",
       "inne_nazwy": [
-        "Lauenburg"
+        "Lauenburg",
+        "Lewino",
+        "Łebno",
+        "Lãbórg",
+        "Lãbórch"
       ]
     },
     {
@@ -16610,7 +16631,7 @@
     },
     {
       "nazwa": "Lubiatowo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Koszalin ",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Koszalin",
       "inne_nazwy": [
         "Lüptow"
       ]
@@ -21151,7 +21172,12 @@
       "lokalizacja": "woj. warmińsko-mazurskie, pow. miasto Olsztyn",
       "inne_nazwy": [
         "Allestein",
-        "Allenstein"
+        "Allenstein",
+        "Holsten",
+        "Olszten",
+        "Olsthin",
+        "Olstyn",
+        "Allenstenium"
       ]
     },
     {
@@ -21217,7 +21243,9 @@
       "nazwa": "Opole",
       "lokalizacja": "woj. opolskie, pow. miasto Opole",
       "inne_nazwy": [
-        "Oppeln"
+        "Oppeln",
+        "Opolí",
+        "Opolia"
       ]
     },
     {
@@ -23647,7 +23675,11 @@
       "nazwa": "Poznań",
       "lokalizacja": "woj. wielkopolskie, pow. miasto Poznań",
       "inne_nazwy": [
-        "Posen"
+        "Posen",
+        "Posnania",
+        "civitatis Poznaniensis",
+        "de Posnan",
+        "Poyzn"
       ]
     },
     {
@@ -26743,7 +26775,10 @@
       "lokalizacja": "woj. podkarpackie, pow. miasto Rzeszów",
       "inne_nazwy": [
         "Resche",
-        "Reichshof"
+        "Reichshof",
+        "Riasziw",
+        "Riaszów",
+        "Ряшів"
       ]
     },
     {
@@ -28343,7 +28378,9 @@
       "nazwa": "Sopot",
       "lokalizacja": "woj. pomorskie, pow. miasto Sopot",
       "inne_nazwy": [
-        "Zoppot"
+        "Zoppot",
+        "Copot",
+        "Sopoth"
       ]
     },
     {
@@ -30501,7 +30538,8 @@
       "nazwa": "Świnoujście",
       "lokalizacja": "woj. zachodniopomorskie, pow. miasto Świnoujście",
       "inne_nazwy": [
-        "Swinemünde"
+        "Swinemünde",
+        "Szvvine"
       ]
     },
     {
@@ -30685,7 +30723,10 @@
       "nazwa": "Szczecin",
       "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
-        "Stettin"
+        "Stettin",
+        "Sasin",
+        "Sedinum",
+        "Stetinum"
       ]
     },
     {
@@ -33164,7 +33205,14 @@
       "nazwa": "Warszawa",
       "lokalizacja": "woj. mazowieckie, pow. miasto Warszawa",
       "inne_nazwy": [
-        "Warschau"
+        "Warschau",
+        "Warszewa",
+        "Warszowa",
+        "Worszewa",
+        "Werszewa",
+        "Osada Warsza",
+        "Paryż Północy",
+        "Miasto Feniks"
       ]
     },
     {
@@ -34796,7 +34844,10 @@
       "lokalizacja": "woj. dolnośląskie, pow. miasto Wrocław",
       "inne_nazwy": [
         "Breslau",
-        "Vratislavia"
+        "Vratislavia",
+        "Vratislav",
+        "Wratislavia",
+        "Wrocisław"
       ],
       "notka": "Test"
     },
@@ -34876,9 +34927,13 @@
       "nazwa": "Wrzeszcz",
       "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
       "inne_nazwy": [
-        "Langfuhr"
+        "Langfuhr",
+        "Vriest",
+        "Vriezst",
+        "Wrest",
+        "Wrzost"
       ],
-      "notka": "Obecnie dzielnica Gdańska"
+      "notka": "Obecnie dzielnica Gdańska / Obecnie część Gdańska"
     },
     {
       "nazwa": "Wrzeszczyn",
@@ -37764,7 +37819,8 @@
       "inne_nazwy": [
         "Lodz",
         "Litzmannstadt",
-        "Lodsch"
+        "Lodsch",
+        "Łodzia"
       ]
     },
     {
