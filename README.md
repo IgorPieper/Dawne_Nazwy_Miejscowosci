@@ -43,7 +43,7 @@ Format jest celowo **prosty i jednoznaczny**:
   "miejscowosci": [
     {
       "nazwa": "Wrocław",
-      "lokalizacja": "woj. dolnośląskie, pow. m. Wrocław",
+      "lokalizacja": "woj. dolnośląskie, pow. miasto Wrocław",
       "inne_nazwy": ["Breslau", "Vratislavia"],
       "notka":
     }
