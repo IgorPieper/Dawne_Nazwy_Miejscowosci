@@ -7238,7 +7238,7 @@
     },
     {
       "nazwa": "Dzierżęcino",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Koszalin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Koszalin ",
       "inne_nazwy": [
         "Dörsenthin"
       ]
@@ -8068,7 +8068,7 @@
     },
     {
       "nazwa": "Glinki",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
       "inne_nazwy": [
         "Glienken"
       ],
@@ -8225,7 +8225,7 @@
     },
     {
       "nazwa": "Gocław",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
       "inne_nazwy": [
         "Gotzlow"
       ],
@@ -8331,7 +8331,7 @@
     },
     {
       "nazwa": "Golęcino",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
       "inne_nazwy": [
         "Frauendorf"
       ],
@@ -9104,7 +9104,7 @@
     },
     {
       "nazwa": "Grabowo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
       "inne_nazwy": [
         "Grabow"
       ],
@@ -9675,7 +9675,7 @@
     },
     {
       "nazwa": "Gumieńce",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
       "inne_nazwy": [
         "Scheune"
       ],
@@ -9814,7 +9814,7 @@
     },
     {
       "nazwa": "Głębokie",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
       "inne_nazwy": [
         "Glambeck"
       ],
@@ -11283,7 +11283,7 @@
     },
     {
       "nazwa": "Jezierzyce",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
       "inne_nazwy": [
         "Jeseritz"
       ],
@@ -12617,7 +12617,7 @@
     },
     {
       "nazwa": "Kijewo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
       "inne_nazwy": [
         "Rosengarten"
       ],
@@ -12754,7 +12754,7 @@
     },
     {
       "nazwa": "Klęskowo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
       "inne_nazwy": [
         "Hökendorf"
       ],
@@ -12889,7 +12889,7 @@
     },
     {
       "nazwa": "Klucz",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
       "inne_nazwy": [
         "Klütz"
       ],
@@ -13901,7 +13901,7 @@
     },
     {
       "nazwa": "Koszalin",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Koszalin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Koszalin ",
       "inne_nazwy": [
         "Köslin"
       ]
@@ -14477,7 +14477,7 @@
     },
     {
       "nazwa": "Kraśnica",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
       "inne_nazwy": [
         "Kratzwieck"
       ],
@@ -14959,7 +14959,7 @@
     },
     {
       "nazwa": "Krzekowo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin ",
       "inne_nazwy": [
         "Kreckow"
       ],
@@ -16610,7 +16610,7 @@
     },
     {
       "nazwa": "Lubiatowo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Koszalin (gr.)",
+      "lokalizacja": "woj. zachodniopomorskie, pow. Koszalin ",
       "inne_nazwy": [
         "Lüptow"
       ]
@@ -36194,7 +36194,7 @@
         "Finkenwalde",
         "Szczecina"
       ],
-     "notka": "dzielnica Szczecina"
+      "notka": "dzielnica Szczecina"
     },
     {
       "nazwa": "Zdunowice",
