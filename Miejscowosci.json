@@ -7279,6 +7279,16 @@
       ]
     },
     {
+      "nazwa": "Dziechlino",
+      "lokalizacja": "woj. pomorskie, pow. lęborski",
+      "inne_nazwy": [
+        "Dzechlëno",
+        "Dzechlin",
+        "Ober-Lischnitz",
+        "OberLischnitz Gut"
+      ]
+    },
+    {
       "nazwa": "Dziechno",
       "lokalizacja": "woj. pomorskie, pow. lęborski",
       "inne_nazwy": [
@@ -7957,6 +7967,17 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. koszaliński",
       "inne_nazwy": [
         "Gerbin"
+      ]
+    },
+    {
+      "nazwa": "Garcegorze",
+      "lokalizacja": "woj. pomorskie, pow. lęborski",
+      "inne_nazwy": [
+        "Garczegòrze",
+        "Garczigôrz",
+        "Garzigar",
+        "Garczygórz",
+        "Garcigórz"
       ]
     },
     {
@@ -12636,7 +12657,9 @@
       "nazwa": "Kębłowo Nowowiejskie",
       "lokalizacja": "woj. pomorskie, pow. lęborski",
       "inne_nazwy": [
-        "Kamelow"
+        "Kamelow",
+        "Kãbłowò",
+        "Kãbòła"
       ]
     },
     {
@@ -12956,6 +12979,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. myśliborski",
       "inne_nazwy": [
         "Kienitz"
+      ]
+    },
+    {
+      "nazwa": "Kisewo",
+      "lokalizacja": "woj. pomorskie, pow. wejherowski",
+      "inne_nazwy": [
+        "Kisewò",
+        "Küssow"
       ]
     },
     {
@@ -23713,6 +23744,15 @@
       "notka": "dzielnica Szczecina, część: ¹wsch., ²środk., ³zach."
     },
     {
+      "nazwa": "Pogorszewo",
+      "lokalizacja": "woj. pomorskie, pow. lęborski",
+      "inne_nazwy": [
+        "Pògòrzewò",
+        "Pògòrszewò",
+        "Puggerschow"
+      ]
+    },
+    {
       "nazwa": "Pogorzała",
       "lokalizacja": "woj. dolnośląskie, pow. świdnicki",
       "inne_nazwy": [
@@ -27072,6 +27112,15 @@
       "inne_nazwy": [
         "Reibnitz"
       ]
+    },
+    {
+      "nazwa": "Rybnik",
+      "lokalizacja": "woj. pomorskie, pow. lęborski",
+      "inne_nazwy": [
+        "Rëbnik",
+        "Rybnick"
+      ],
+      "notka": "Część Wsi Lubowidz"
     },
     {
       "nazwa": "Rybno",
@@ -34274,6 +34323,14 @@
       ]
     },
     {
+      "nazwa": "Węgornia",
+      "lokalizacja": "woj. pomorskie, pow. wejherowski",
+      "inne_nazwy": [
+        "Wãgòrniô",
+        "Aalbeck"
+      ]
+    },
+    {
       "nazwa": "Węgorzewo",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. węgorzewski",
       "inne_nazwy": [
@@ -35093,7 +35150,9 @@
       "nazwa": "Wilkowo Nowowiejskie",
       "lokalizacja": "woj. pomorskie, pow. lęborski",
       "inne_nazwy": [
-        "Villkow"
+        "Villkow",
+        "Wôłkòwò",
+        "Wilkòwò"
       ]
     },
     {
