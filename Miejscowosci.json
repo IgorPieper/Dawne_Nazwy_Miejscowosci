@@ -377,7 +377,10 @@
       "nazwa": "Bącz",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Bącz"
+        "Bącz",
+        "Bãccz",
+        "Bontsch",
+        "Bonsch"
       ]
     },
     {
@@ -2422,7 +2425,9 @@
       "nazwa": "Borowo",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Bòrowò"
+        "Bòrowò",
+        "Bòrowô",
+        "Borowo"
       ]
     },
     {
@@ -2720,14 +2725,18 @@
       "nazwa": "Brodnica Dolna",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Dólnô Brodnica"
+        "Dólnô Brodnica",
+        "Nieder Brodnitz",
+        "Niederbrodnitz"
       ]
     },
     {
       "nazwa": "Brodnica Górna",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Górnô Brodnica"
+        "Górnô Brodnica",
+        "Ober Brodnitz",
+        "Oberbrodnitz"
       ]
     },
     {
@@ -7372,7 +7381,8 @@
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
         "Seeresen",
-        "Dzérzążno"
+        "Dzérzążno",
+        "Dzérżãżno"
       ]
     },
     {
@@ -8686,7 +8696,15 @@
       "nazwa": "Goręczyno",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Gòrãczëno"
+        "Gòrãczëno",
+        "Gorrenschin",
+        "Goranchino",
+        "Goruchino",
+        "Goranczin",
+        "Gorenczino",
+        "Gorenschin",
+        "Gorrenschyn",
+        "Görren"
       ]
     },
     {
@@ -9830,7 +9848,9 @@
       "nazwa": "Grzybno",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Grzëbno"
+        "Grzëbno",
+        "Gribno",
+        "Grüben"
       ]
     },
     {
@@ -10203,7 +10223,10 @@
       "nazwa": "Głusino",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Głëszëno"
+        "Głëszëno",
+        "Głusëno",
+        "Glusino",
+        "Glüsen"
       ]
     },
     {
@@ -11833,7 +11856,8 @@
       "nazwa": "Kaliska",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Kalëska"
+        "Kalëska",
+        "Kaliska"
       ]
     },
     {
@@ -12867,7 +12891,8 @@
         "Calgon",
         "Kölln am Walde",
         "Kolno",
-        "Czelno"
+        "Czelno",
+        "Köln"
       ]
     },
     {
@@ -12910,7 +12935,8 @@
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
         "Kelpin",
-        "Kôłpino"
+        "Kôłpino",
+        "Kelpsee"
       ]
     },
     {
@@ -13531,7 +13557,9 @@
       "nazwa": "Kolonia",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Kòloniô"
+        "Kòloniô",
+        "Kòlonijô",
+        "Wilhelmshuld"
       ]
     },
     {
@@ -14242,7 +14270,10 @@
       "nazwa": "Kosy",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Kòsë"
+        "Kòsë",
+        "Kosë",
+        "Kossi",
+        "Kössen"
       ]
     },
     {
@@ -18731,7 +18762,8 @@
       "nazwa": "Mirachowo",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Mirochòwò"
+        "Mirochòwò",
+        "Mirchau"
       ]
     },
     {
@@ -20448,7 +20480,9 @@
       "nazwa": "Nowa Huta",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Nowô Hëta"
+        "Nowô Hëta",
+        "Nowahutta",
+        "Neuhütte"
       ]
     },
     {
@@ -23958,14 +23992,21 @@
       "nazwa": "Pomieczyno",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Pòmieczëno"
+        "Pòmieczëno",
+        "Pomietschin",
+        "Pommersdorf",
+        "Pomieczyno Szlacheckie",
+        "Pomieczyno Królewskie"
       ]
     },
     {
       "nazwa": "Pomieczyńska Huta",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Pòmieczińskô Hëta"
+        "Pòmieczińskô Hëta",
+        "Pòmiéczëńskô Hëta",
+        "Pomietschinerhütte",
+        "Pommershütte"
       ]
     },
     {
@@ -24485,7 +24526,8 @@
       "nazwa": "Prokowo",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Prokòwò"
+        "Prokòwò",
+        "Prockau"
       ]
     },
     {
@@ -24805,7 +24847,9 @@
       "nazwa": "Przodkowo",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Przedkòwò"
+        "Przedkòwò",
+        "Seefeld",
+        "Przedkowo"
       ]
     },
     {
@@ -26054,7 +26098,9 @@
       "nazwa": "Ręboszewo",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Rãbòszewò"
+        "Rãbòszewò",
+        "Remboschewo",
+        "Broddenfurt"
       ]
     },
     {
@@ -27916,14 +27962,20 @@
       "nazwa": "Sianowo",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Swiónowò"
+        "Swiónowò",
+        "Sjónowò",
+        "Sianowo",
+        "Schwanau"
       ]
     },
     {
       "nazwa": "Sianowska Huta",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Swiónowskô Hëta"
+        "Swiónowskô Hëta",
+        "Sjónowò Hëta",
+        "Sianowerhütte",
+        "Schwanauerhütte"
       ]
     },
     {
@@ -28345,7 +28397,8 @@
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
         "Zittno",
-        "Sëtno"
+        "Sëtno",
+        "Schütthof"
       ]
     },
     {
@@ -28736,7 +28789,10 @@
       "nazwa": "Smętowo Chmieleńskie",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Chmieleńsczé Smãtowò"
+        "Chmieleńsczé Smãtowò",
+        "Smãtowò",
+        "Smentau",
+        "Schmentau"
       ]
     },
     {
@@ -29336,7 +29392,9 @@
       "nazwa": "Staniszewo",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Stajszewò"
+        "Stajszewò",
+        "Stanischewo",
+        "Stahns"
       ]
     },
     {
@@ -29439,7 +29497,9 @@
       "nazwa": "Stara Huta",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Stôrô Hëta"
+        "Stôrô Hëta",
+        "Starahutta",
+        "Althütte"
       ]
     },
     {
@@ -37074,7 +37134,11 @@
       "nazwa": "Załęże",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Zôłãżé"
+        "Zôłãżé",
+        "Zalensee",
+        "Załęskie Piaski",
+        "Nowe Kosowo",
+        "Zalansze"
       ]
     },
     {
@@ -38474,7 +38538,9 @@
       "nazwa": "Łapalice",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Łapalëce"
+        "Łapalëce",
+        "Lappalitz",
+        "Garchendorf"
       ]
     },
     {
