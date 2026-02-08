@@ -4008,7 +4008,8 @@
       "inne_nazwy": [
         "Ceynowa",
         "Ziegenhagen",
-        "Chalëpë"
+        "Chalëpë",
+        "Budziszewo"
       ]
     },
     {
@@ -11220,6 +11221,15 @@
       ]
     },
     {
+      "nazwa": "Jastarnia",
+      "lokalizacja": "woj. pomorskie, pow. pucki",
+      "inne_nazwy": [
+        "Jastarniô",
+        "Putziger Heisternest",
+        "Osternäs"
+      ]
+    },
+    {
       "nazwa": "Jastrowie",
       "lokalizacja": "woj. wielkopolskie, pow. złotowski",
       "inne_nazwy": [
@@ -11693,6 +11703,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. wałbrzyski",
       "inne_nazwy": [
         "Hausdorf"
+      ]
+    },
+    {
+      "nazwa": "Junoszyno",
+      "lokalizacja": "woj. pomorskie, pow. nowodworski",
+      "inne_nazwy": [
+        "Junkeracker"
       ]
     },
     {
@@ -13508,8 +13525,7 @@
       "inne_nazwy": [
         "Kolletzkau",
         "Kollendorf",
-        "Kòleczkòwò",
-        "Koczeczkau"
+        "Kòleczkòwò"
       ]
     },
     {
@@ -15328,7 +15344,10 @@
       "nazwa": "Krynica Morska",
       "lokalizacja": "woj. pomorskie, pow. nowodworski",
       "inne_nazwy": [
-        "Kahlberg"
+        "Kahlberg",
+        "Łysica",
+        "Lipa",
+        "Liep"
       ]
     },
     {
@@ -15830,6 +15849,16 @@
       "lokalizacja": "woj. śląskie, pow. raciborski",
       "inne_nazwy": [
         "Ratiborhammer"
+      ]
+    },
+    {
+      "nazwa": "Kuźnica",
+      "lokalizacja": "woj. pomorskie, pow. pucki",
+      "inne_nazwy": [
+        "Kùsfeld",
+        "Kusfeld",
+        "Kussfeld",
+        "Kuschfeldt"
       ]
     },
     {
@@ -18117,6 +18146,21 @@
       "lokalizacja": "woj. pomorskie, pow. kościerski",
       "inne_nazwy": [
         "Môłi Pòdles"
+      ]
+    },
+    {
+      "nazwa": "Mechelinki",
+      "lokalizacja": "woj. pomorskie, pow. pucki",
+      "inne_nazwy": [
+        "Mechelinka",
+        "Mechelinga",
+        "Mechelinczi",
+        "Mechlinken",
+        "Michalenska",
+        "Mechlinie",
+        "Mechlinko",
+        "Mecholinke",
+        "Mechina"
       ]
     },
     {
@@ -21921,6 +21965,15 @@
       "lokalizacja": "woj. opolskie, pow. oleski",
       "inne_nazwy": [
         "Marienfeld"
+      ]
+    },
+    {
+      "nazwa": "Osetnik",
+      "lokalizacja": "woj. pomorskie, pow. wejherowski",
+      "inne_nazwy": [
+        "Stilo",
+        "Osétnëk",
+        "Stilo-Kathen"
       ]
     },
     {
@@ -30122,7 +30175,9 @@
       "nazwa": "Stegna Gdańska",
       "lokalizacja": "woj. pomorskie, pow. nowodworski",
       "inne_nazwy": [
-        "Steegen"
+        "Steegen",
+        "Stegna",
+        "Kobbelgrube"
       ]
     },
     {
