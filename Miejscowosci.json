@@ -2690,8 +2690,14 @@
       "nazwa": "Brochów",
       "lokalizacja": "woj. dolnośląskie, pow. miasto Wrocław",
       "inne_nazwy": [
-        "Brockau"
-      ]
+        "Brockau",
+        "Bracke",
+        "Prochów",
+        "Prochowo",
+        "Brochowo",
+        "Procov"
+      ],
+      "notka": "Obecnie część Wrocławia"
     },
     {
       "nazwa": "Broczyna",
@@ -7922,8 +7928,16 @@
       "nazwa": "Gądów Mały",
       "lokalizacja": "woj. dolnośląskie, pow. miasto Wrocław",
       "inne_nazwy": [
-        "Klein Gondau"
-      ]
+        "Klein Gondau",
+        "Klein Gandau",
+        "Gandow",
+        "Gundaw",
+        "Gandaw",
+        "Gandau",
+        "Mała Gądawa",
+        "Wrocław-Gądów Mały"
+      ],
+      "notka": "Obecnie część Wrocławia"
     },
     {
       "nazwa": "Gajków",
@@ -13106,8 +13120,10 @@
       "lokalizacja": "woj. dolnośląskie, pow. miasto Wrocław",
       "inne_nazwy": [
         "Klettendorf",
-        "cześć Wrocławia"
-      ]
+        "cześć Wrocławia",
+        "Kłotno"
+      ],
+      "notka": "Obecnie część Wrocławia"
     },
     {
       "nazwa": "Klekotna",
@@ -15496,8 +15512,10 @@
       "lokalizacja": "woj. dolnośląskie, pow. miasto Wrocław",
       "inne_nazwy": [
         "Kritern",
-        "cześć Wrocławia"
-      ]
+        "cześć Wrocławia",
+        "Krietern"
+      ],
+      "notka": "Obecnie część Wrocławia"
     },
     {
       "nazwa": "Krzynki",
@@ -23869,7 +23887,7 @@
         "Braunsfelde",
         "Schönau"
       ],
-      "notka": "dzielnica Szczecina, część: ¹wsch., ²środk., ³zach."
+      "notka": "Obecnie część Szczecina"
     },
     {
       "nazwa": "Pogorszewo",
@@ -30515,7 +30533,7 @@
       "inne_nazwy": [
         "Hohenkrug"
       ],
-      "notka": "Część Szczecina"
+      "notka": "Obecnie część Szczecina"
     },
     {
       "nazwa": "Strumień",
@@ -35241,6 +35259,18 @@
       ]
     },
     {
+      "nazwa": "Wilanów",
+      "lokalizacja": "woj. mazowieckie, pow. miasto Warszawa",
+      "inne_nazwy": [
+        "Milanów",
+        "Milanowo",
+        "Mylynow",
+        "Milonów",
+        "Milonowo"
+      ],
+      "notka": "Obecnie część Warszawy"
+    },
+    {
       "nazwa": "Wilanowo",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
@@ -36394,6 +36424,15 @@
       "inne_nazwy": [
         "Neufeld"
       ]
+    },
+    {
+      "nazwa": "Włochy",
+      "lokalizacja": "woj. mazowieckie, pow. miasto Warszawa",
+      "inne_nazwy": [
+        "Sopęchy",
+        "Porzucewo"
+      ],
+      "notka": "Obecnie część Warszawy"
     },
     {
       "nazwa": "Włóczno",
