@@ -8417,7 +8417,10 @@
       "nazwa": "Gniewowo",
       "lokalizacja": "woj. pomorskie, pow. wejherowski",
       "inne_nazwy": [
-        "Gniewòwò"
+        "Gniewòwò",
+        "Gnewau",
+        "Zornwalde",
+        "Newau"
       ]
     },
     {
@@ -12684,7 +12687,8 @@
       "nazwa": "Kębłowo",
       "lokalizacja": "woj. pomorskie, pow. wejherowski",
       "inne_nazwy": [
-        "Kãbłowò"
+        "Kãbłowò",
+        "Kamlau"
       ]
     },
     {
@@ -13036,7 +13040,6 @@
       "nazwa": "Kisielice",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. iławski",
       "inne_nazwy": [
-        "Freystadt",
         "Freystadt"
       ]
     },
@@ -24873,7 +24876,9 @@
       "nazwa": "Przetoczyno",
       "lokalizacja": "woj. pomorskie, pow. wejherowski",
       "inne_nazwy": [
-        "Przetoczëno"
+        "Przetoczëno",
+        "Pretoschin",
+        "Breitenfelde"
       ]
     },
     {
@@ -27069,7 +27074,8 @@
       "nazwa": "Rumia",
       "lokalizacja": "woj. pomorskie, pow. wejherowski",
       "inne_nazwy": [
-        "Rahmel"
+        "Rahmel",
+        "Rëmiô"
       ]
     },
     {
@@ -36650,8 +36656,12 @@
         "Sagorsch",
         "Schmelztal",
         "Obecnie",
-        "Rumi"
-      ]
+        "Rumi",
+        "Rëmiô Zagòrzé",
+        "Rahmel-Sagorsch",
+        "Rumia-Zagórze"
+      ],
+      "notka": "Obecnie dzielnica Rumii"
     },
     {
       "nazwa": "Zagórze",
