@@ -1226,9 +1226,9 @@
       "nazwa": "Biała Rzeka",
       "lokalizacja": "woj. pomorskie, pow. wejherowski",
       "inne_nazwy": [
-        "Weißfluß",
-        "Rumi"
-      ]
+        "Weißfluß"
+      ],
+      "notka": "Obecnie część Rumii"
     },
     {
       "nazwa": "Biała Wola",
@@ -3092,7 +3092,9 @@
       "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
       "inne_nazwy": [
         "Brösen",
-        "Brosen"
+        "Brosen",
+        "Brzézno",
+        "Brzezno"
       ],
       "notka": "Obecnie część Gdańska"
     },
@@ -10970,7 +10972,7 @@
       "nazwa": "Janowo",
       "lokalizacja": "woj. pomorskie, pow. kwidzyński",
       "inne_nazwy": [
-        "Johannisdorf",
+        "Johannisdorf"
       ]
     },
     {
@@ -18130,6 +18132,15 @@
       ]
     },
     {
+      "nazwa": "Mały Kack",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdynia",
+      "inne_nazwy": [
+        "Môłi Kack",
+        "Klein Katz"
+      ],
+      "notka": "Obecnie część Gdyni"
+    },
+    {
       "nazwa": "Mały Klincz",
       "lokalizacja": "woj. pomorskie, pow. kościerski",
       "inne_nazwy": [
@@ -21263,6 +21274,17 @@
       ]
     },
     {
+      "nazwa": "Nowy Port",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
+      "inne_nazwy": [
+        "Fôrwôter",
+        "Nowi Pòrt",
+        "Neufahrwasser",
+        "Danzig-Neufahrwasser"
+      ],
+      "notka": "Obecnie część Gdańska"
+    },
+    {
       "nazwa": "Nowy Przylep",
       "lokalizacja": "woj. zachodniopomorskie, pow. pyrzycki",
       "inne_nazwy": [
@@ -21615,8 +21637,19 @@
       "nazwa": "Oksywie",
       "lokalizacja": "woj. pomorskie, pow. miasto Gdynia",
       "inne_nazwy": [
-        "Oxhöft"
-      ]
+        "Oxhöft",
+        "Òksëwié",
+        "Oxsiua",
+        "Oxive",
+        "Okciua",
+        "Oxue",
+        "Oxivia",
+        "Oxiuia",
+        "Oxiwia",
+        "Oxiew",
+        "Oxivija"
+      ],
+      "notka": "Obecnie część Gdyni"
     },
     {
       "nazwa": "Okunica",
@@ -21914,7 +21947,12 @@
       "nazwa": "Orunia",
       "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
       "inne_nazwy": [
-        "Ohra"
+        "Ohra",
+        "Òruniô",
+        "Oruń",
+        "Orania",
+        "Orana",
+        "Ore"
       ],
       "notka": "Obecnie część Gdańska"
     },
@@ -29615,7 +29653,8 @@
       "nazwa": "Stara Piła",
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
-        "Altemühle"
+        "Altemühle",
+        "Starô Piła"
       ]
     },
     {
@@ -29623,9 +29662,9 @@
       "lokalizacja": "woj. pomorskie, pow. wejherowski",
       "inne_nazwy": [
         "Starapilla",
-        "Sägenhof",
-        "Rumi"
-      ]
+        "Sägenhof"
+      ],
+      "notka": "Obecnie część Rumii"
     },
     {
       "nazwa": "Stara Rudnica",
@@ -31948,9 +31987,9 @@
       "nazwa": "Szmelta",
       "lokalizacja": "woj. pomorskie, pow. wejherowski",
       "inne_nazwy": [
-        "Schmelz",
-        "Rumi"
-      ]
+        "Schmelz"
+      ],
+      "notka": "Obecnie część Rumii"
     },
     {
       "nazwa": "Sznurki",
@@ -34872,6 +34911,15 @@
         "Piasnitz",
         "Wielgô Piôsznica"
       ]
+    },
+    {
+      "nazwa": "Wielki Kack",
+      "lokalizacja": "woj. pomorskie, pow. miasto Gdynia",
+      "inne_nazwy": [
+        "Wiôldżi Kack",
+        "Groß Katz"
+      ],
+      "notka": "Obecnie część Gdyni"
     },
     {
       "nazwa": "Wielki Klincz",
