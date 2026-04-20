@@ -2915,26 +2915,27 @@
       "nazwa": "Brześć",
       "lokalizacja": "Białoruś, obw. brzeski",
       "inne_nazwy": [
+        "Brześć Litewski",
+        "Brześć nad Bugiem",
         "Брэст",
-        "Брест",
+        "Берасьць",
+        "Берасьце",
         "Brest",
-        "בריסק"
+        "Bieraść",
+        "Bieraście",
+        "Брест",
+        "Берестье",
+        "Bieriestje",
+        "Brestas",
+        "בּריסק‎",
+        "‏ברסט ליטובסק‎"
       ]
     },
     {
       "nazwa": "Brześć Kujawski",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. włocławski",
       "inne_nazwy": [
-        "Brest (in Wartheland)"
-      ]
-    },
-    {
-      "nazwa": "Brześć Litewski",
-      "lokalizacja": "Białoruś, obw. brzeski",
-      "inne_nazwy": [
-        "Bieraście",
-        "Брест",
-        "Brest-Litowsk"
+        "Brest"
       ]
     },
     {
@@ -17551,7 +17552,7 @@
     },
     {
       "nazwa": "Lwów",
-      "lokalizacja": "Ukraina, obw. lwowski",
+      "lokalizacja": "Ukraina, obw. lwowski, miasto Lwów",
       "inne_nazwy": [
         "Lviv",
         "Львов",
@@ -17842,10 +17843,11 @@
     },
     {
       "nazwa": "Mariupol",
-      "lokalizacja": "Ukraina, obw. doniecki",
+      "lokalizacja": "Ukraina, obw. doniecki, miasto Mariupol",
       "inne_nazwy": [
+        "Żdanow",
         "Маріуполь",
-        "Мариуполь"
+        "Mариуполь"
       ]
     },
     {
@@ -20370,7 +20372,7 @@
     },
     {
       "nazwa": "Nieśwież",
-      "lokalizacja": "Białoruś, obw. miński",
+      "lokalizacja": "Białoruś, obw. miński, rej. nieświeski",
       "inne_nazwy": [
         "Нясвіж",
         "Несвиж"
@@ -23486,7 +23488,7 @@
     },
     {
       "nazwa": "Pińsk",
-      "lokalizacja": "Białoruś, obw. brzeski",
+      "lokalizacja": "Białoruś, obw. brzeski, rej. piński",
       "inne_nazwy": [
         "Пінск",
         "Пинск",
@@ -35359,20 +35361,24 @@
     },
     {
       "nazwa": "Wilno",
-      "lokalizacja": "Litwa, okr. wileński",
+      "lokalizacja": "Litwa, okr. wileński, rej. wileński",
       "inne_nazwy": [
         "Vilnius",
-        "Вильнюс"
-      ]
-    },
-    {
-      "nazwa": "Wilno",
-      "lokalizacja": "Litwa, rej. wileński",
-      "inne_nazwy": [
-        "Vilnius",
+        "Вільня",
+        "Вильнюс",
+        "Вильна",
+        "Viļņa",
+        "‏ווילנע‎",
+        "Wilne",
+        "וילנה",
         "Wilna",
         "Vilna",
-        "ווילנע"
+        "Vilnam",
+        "Vilnensi",
+        "Vilne",
+        "Wille",
+        "Vilni",
+        "Wylno"
       ]
     },
     {
@@ -39169,7 +39175,7 @@
     },
     {
       "nazwa": "Łuck",
-      "lokalizacja": "Ukraina, obw. wołyński",
+      "lokalizacja": "Ukraina, obw. wołyński, rej. łucki",
       "inne_nazwy": [
         "Luck",
         "Луцк",
