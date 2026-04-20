@@ -403,7 +403,6 @@
       "inne_nazwy": [
         "Bondecz",
         "Collin",
-        "1939–1945 Kollin",
         "Kollin"
       ]
     },
@@ -699,7 +698,6 @@
       "nazwa": "Barczewo",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. olsztyński",
       "inne_nazwy": [
-        "Wartenburg (in Ostpreußen)",
         "Wartenburg"
       ]
     },
@@ -1383,15 +1381,15 @@
       "lokalizacja": "woj. podlaskie, pow. miasto Białystok",
       "inne_nazwy": [
         "Belostok",
-        "Bielostok"
-      ]
-    },
-    {
-      "nazwa": "Białystok (historycznie związany z regionem)",
-      "lokalizacja": "Białoruś, obw. grodzieński",
-      "inne_nazwy": [
-        "Беласток",
-        "Белосток"
+        "Bielostok",
+	"Беласток",
+	"Белосток",
+	"Bielszczany Stok",
+	"Bialystok",
+	"Bjalistok",
+	"Byalistok",
+	"Biełostok",
+	"Byalistok"
       ]
     },
     {
@@ -3713,14 +3711,18 @@
       "nazwa": "Bytom",
       "lokalizacja": "woj. śląskie, pow. miasto Bytom",
       "inne_nazwy": [
-        "Beuthen O.S."
+        "Beuthen",
+	"Bithom",
+	"Bitom",
+	"Bythom",
+	"Бытом"
       ]
     },
     {
       "nazwa": "Bytom Odrzański",
       "lokalizacja": "woj. lubuskie, pow. nowosolski",
       "inne_nazwy": [
-        "Beuthen (an der Oder)"
+        "Beuthen"
       ]
     },
     {
@@ -5035,7 +5037,6 @@
       "inne_nazwy": [
         "Klein Czapielken",
         "Klein Schaplitz",
-        "1930–1945 Schaplitz",
         "Schaplitz",
         "Czapielska"
       ]
@@ -5466,7 +5467,8 @@
       "nazwa": "Czernice",
       "lokalizacja": "woj. zachodniopomorskie, pow. pyrzycki",
       "inne_nazwy": [
-        "Semsdorf (Sehmsdorf)"
+        "Semsdorf",
+	"Sehmsdorf"
       ]
     },
     {
@@ -6527,7 +6529,6 @@
       "inne_nazwy": [
         "Gute-Hülfe",
         "Brandenstein",
-        "1940-1945 Brandenstein-Försterei",
         "Brandenstein-Försterei"
       ]
     },
@@ -6757,7 +6758,7 @@
       "nazwa": "Domaszków",
       "lokalizacja": "woj. dolnośląskie, pow. kłodzki",
       "inne_nazwy": [
-        "Ebersdorf (Kreis Habelschwerdt)"
+        "Ebersdorf"
       ]
     },
     {
@@ -7243,18 +7244,10 @@
       ]
     },
     {
-      "nazwa": "Dylewo (województwo warmińsko-mazurskie)",
+      "nazwa": "Dylewo",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. ostródzki",
       "inne_nazwy": [
         "Döhlau"
-      ]
-    },
-    {
-      "nazwa": "Dyneburg",
-      "lokalizacja": "Łotwa, Łatgalia",
-      "inne_nazwy": [
-        "Daugavpils",
-        "Двинск"
       ]
     },
     {
@@ -7726,13 +7719,6 @@
       ]
     },
     {
-      "nazwa": "Ełk, Szyba",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Sybba (Walden)"
-      ]
-    },
-    {
       "nazwa": "Falęcin",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. chełmiński",
       "inne_nazwy": [
@@ -7855,13 +7841,6 @@
       "lokalizacja": "woj. pomorskie, pow. bytowski",
       "inne_nazwy": [
         "Fridrichòwò"
-      ]
-    },
-    {
-      "nazwa": "Frygnowo",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Frogenau"
       ]
     },
     {
@@ -8287,8 +8266,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
         "Alt Steinort"
-      ],
-      "notka": "wcześniej: Steinort"
+      ]
     },
     {
       "nazwa": "Glicko",
@@ -8575,7 +8553,7 @@
       "nazwa": "Golczewo",
       "lokalizacja": "woj. zachodniopomorskie, pow. stargardzki",
       "inne_nazwy": [
-        "Goltzow (Vorwerk)"
+        "Goltzow"
       ]
     },
     {
@@ -8675,8 +8653,7 @@
       "lokalizacja": "woj. opolskie, pow. strzelecki",
       "inne_nazwy": [
         "Annaberg",
-        "Sankt Annaberg",
-        "choć ta nazwa pojawiała się nieoficjalnie również wcześniej"
+        "Sankt Annaberg"
       ]
     },
     {
@@ -8864,7 +8841,7 @@
       "nazwa": "Gorzów Wielkopolski",
       "lokalizacja": "woj. lubuskie, pow. miasto Gorzów Wielkopolski",
       "inne_nazwy": [
-        "Landsberg (an der Warthe)"
+        "Landsberg"
       ]
     },
     {
@@ -8892,7 +8869,7 @@
       "nazwa": "Górzyca",
       "lokalizacja": "woj. lubuskie, pow. słubicki",
       "inne_nazwy": [
-        "Göritz (Oder)"
+        "Göritz"
       ]
     },
     {
@@ -9379,8 +9356,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
         "Alt Martinshagen"
-      ],
-      "notka": "wcześniej: Martinshagen"
+      ]
     },
     {
       "nazwa": "Grabowo",
@@ -9421,9 +9397,9 @@
       "nazwa": "Granica",
       "lokalizacja": "woj. zachodniopomorskie, pow. stargardzki",
       "inne_nazwy": [
-        "Karlsthal"
-      ],
-      "notka": "wcześniej: Carlsthal"
+        "Karlsthal",
+	"Carlsthal"
+      ]
     },
     {
       "nazwa": "Graniczna",
@@ -10208,10 +10184,7 @@
       "nazwa": "Głuchów",
       "lokalizacja": "woj. wielkopolskie, pow. gostyński",
       "inne_nazwy": [
-        "Wittenburg",
-        "Wittenburg (Kreis Krotoschin",
-        "Kreis",
-        "Krotoschin"
+        "Wittenburg"
       ]
     },
     {
@@ -10382,7 +10355,6 @@
       "inne_nazwy": [
         "Ziethen-Hennersdorf",
         "Hennersdorf",
-        "wcześniej Katholisch Hennersdorf",
         "Katholisch"
       ]
     },
@@ -10669,9 +10641,9 @@
       "nazwa": "Iwięcino",
       "lokalizacja": "woj. zachodniopomorskie, pow. koszaliński",
       "inne_nazwy": [
-        "Eventhin"
-      ],
-      "notka": "wcześniej: Eventin"
+        "Eventhin",
+	"Eventin"
+      ]
     },
     {
       "nazwa": "Iwiny",
@@ -10749,13 +10721,6 @@
       "lokalizacja": "woj. wielkopolskie, pow. nowotomyski",
       "inne_nazwy": [
         "Jablonke"
-      ]
-    },
-    {
-      "nazwa": "Jabłonków",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Jablonken"
       ]
     },
     {
@@ -10925,7 +10890,7 @@
       "nazwa": "Jankowo Gdańskie",
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
-        "Jenkau (bei Danzig)"
+        "Jenkau"
       ]
     },
     {
@@ -10993,7 +10958,7 @@
       ]
     },
     {
-      "nazwa": "Janowo (Janów)",
+      "nazwa": "Janowo",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. nidzicki",
       "inne_nazwy": [
         "Iwanken"
@@ -11192,7 +11157,7 @@
       ]
     },
     {
-      "nazwa": "Jasiowa Dolina (Januszowice)",
+      "nazwa": "Jasiowa Dolina",
       "lokalizacja": "woj. dolnośląskie, pow. karkonoski",
       "inne_nazwy": [
         "Johannisthal"
@@ -11391,8 +11356,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. kołobrzeski",
       "inne_nazwy": [
         "Jaasderkathen"
-      ],
-      "notka": "wcześniej: Jaasder Katen"
+      ]
     },
     {
       "nazwa": "Jazy",
@@ -11783,9 +11747,7 @@
       "inne_nazwy": [
         "Kaczagorka",
         "Erpelbach",
-        "1941 Katscher (Kreis Krotoschin",
         "Katscher",
-        "Kreis",
         "Krotoschin"
       ]
     },
@@ -11856,9 +11818,9 @@
       "nazwa": "Kaleńsko",
       "lokalizacja": "woj. zachodniopomorskie, pow. myśliborski",
       "inne_nazwy": [
-        "Kalenzig"
-      ],
-      "notka": "wcześniej: Calenzig"
+        "Kalenzig",
+	"Calenzig"
+      ]
     },
     {
       "nazwa": "Kalina",
@@ -12093,7 +12055,7 @@
       "nazwa": "Kamieniec Ząbkowicki",
       "lokalizacja": "woj. dolnośląskie, pow. ząbkowicki",
       "inne_nazwy": [
-        "Kamenz (Kreis Frankenstein)"
+        "Kamenz"
       ]
     },
     {
@@ -12451,17 +12413,17 @@
       "nazwa": "Karwice",
       "lokalizacja": "woj. zachodniopomorskie, pow. drawski",
       "inne_nazwy": [
-        "Karwitz"
-      ],
-      "notka": "wcześniej: Carwitz"
+        "Karwitz",
+	"Carwitz"
+      ]
     },
     {
       "nazwa": "Karwice",
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
-        "Karwitz"
-      ],
-      "notka": "wcześniej: Carwitz"
+        "Karwitz",
+	"Carwitz"
+      ]
     },
     {
       "nazwa": "Karwiczki",
@@ -12661,9 +12623,9 @@
       "nazwa": "Kazimierz Pomorski",
       "lokalizacja": "woj. zachodniopomorskie, pow. koszaliński",
       "inne_nazwy": [
-        "Kasimirsburg"
-      ],
-      "notka": "wcześniej: Casimirsburg"
+        "Kasimirsburg",
+	"Casimirsburg"
+      ]
     },
     {
       "nazwa": "Kaława",
@@ -13302,7 +13264,7 @@
       "nazwa": "Kluczbork",
       "lokalizacja": "woj. opolskie, pow. kluczborski",
       "inne_nazwy": [
-        "Kreuzburg O.S."
+        "Kreuzburg"
       ]
     },
     {
@@ -13667,13 +13629,6 @@
       ]
     },
     {
-      "nazwa": "Komierowo",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Komierowo"
-      ]
-    },
-    {
       "nazwa": "Komorniki",
       "lokalizacja": "woj. opolskie, pow. krapkowicki",
       "inne_nazwy": [
@@ -13687,7 +13642,6 @@
       "inne_nazwy": [
         "Komornik",
         "Kummernick",
-        "1943–1945 Kömmernick",
         "Kömmernick"
       ]
     },
@@ -14394,7 +14348,8 @@
       "nazwa": "Kot",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. szczycieński",
       "inne_nazwy": [
-        "Omulefofen (Omulefoffen)"
+        "Omulefofen",
+	"Omulefoffen"
       ]
     },
     {
@@ -14729,7 +14684,7 @@
       "nazwa": "Kołatek",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. olsztyński",
       "inne_nazwy": [
-        "Schlagamühle (Schlaga-M)"
+        "Schlagamühle"
       ]
     },
     {
@@ -14752,11 +14707,8 @@
       "inne_nazwy": [
         "Colbitzow",
         "Stettin Süd",
-        "Stettin",
-        "Süd",
         "Kolbitzow"
-      ],
-      "notka": "wcześniej: Colbitzow"
+      ]
     },
     {
       "nazwa": "Kołczewo",
@@ -14870,16 +14822,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. gryfiński",
       "inne_nazwy": [
         "Niederkränig"
-      ],
-      "notka": "wcześniej: Nieder Kränig"
+      ]
     },
     {
       "nazwa": "Krajnik Górny",
       "lokalizacja": "woj. zachodniopomorskie, pow. gryfiński",
       "inne_nazwy": [
         "Hohenkränig"
-      ],
-      "notka": "wcześniej: Hohen Kränig"
+      ]
     },
     {
       "nazwa": "Kraków",
@@ -14953,16 +14903,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. koszaliński",
       "inne_nazwy": [
         "Kratzig"
-      ],
-      "notka": "wcześniej: Cratzig"
+      ]
     },
     {
       "nazwa": "Kraśnik Łobeski",
       "lokalizacja": "woj. zachodniopomorskie, pow. łobeski",
       "inne_nazwy": [
         "Kratzig"
-      ],
-      "notka": "wcześniej: Crazig"
+      ]
     },
     {
       "nazwa": "Krasnoznamieńsk",
@@ -15143,8 +15091,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
         "Krolowstrand"
-      ],
-      "notka": "wcześniej: Krolowsche Strand"
+      ]
     },
     {
       "nazwa": "Królewiec",
@@ -15176,7 +15123,7 @@
       "nazwa": "Kromolice",
       "lokalizacja": "woj. wielkopolskie, pow. gostyński",
       "inne_nazwy": [
-        "Kornfeld (Kreis Krotoschin)",
+        "Kornfeld",
         "Kornland"
       ]
     },
@@ -15329,13 +15276,6 @@
     },
     {
       "nazwa": "Kruszyn",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Kruschin"
-      ]
-    },
-    {
-      "nazwa": "Kruszyn",
       "lokalizacja": "woj. dolnośląskie, pow. bolesławiecki",
       "inne_nazwy": [
         "Groß Krauschen"
@@ -15376,9 +15316,9 @@
       "nazwa": "Krytno",
       "lokalizacja": "woj. zachodniopomorskie, pow. koszaliński",
       "inne_nazwy": [
-        "Kritten"
-      ],
-      "notka": "wcześniej: Karlshof (?)"
+        "Kritten",
+	"Karlshof"
+      ]
     },
     {
       "nazwa": "Krywiatycze",
@@ -15700,8 +15640,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. kołobrzeski",
       "inne_nazwy": [
         "Alt Quetzin"
-      ],
-      "notka": "wcześniej: Quetzin"
+      ]
     },
     {
       "nazwa": "Kukinka",
@@ -15779,7 +15718,8 @@
       "nazwa": "Kunki",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. olsztyński",
       "inne_nazwy": [
-        "Kuchengut (Kunchengut)"
+        "Kuchengut",
+	"Kunchengut"
       ]
     },
     {
@@ -15896,13 +15836,6 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
         "Quatzow"
-      ]
-    },
-    {
-      "nazwa": "Kwiatuszki",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Blumenau"
       ]
     },
     {
@@ -16182,7 +16115,6 @@
       "inne_nazwy": [
         "Lassek",
         "Langenwalde",
-        "od 1954 r",
         "Lubonia"
       ]
     },
@@ -16862,13 +16794,6 @@
       ]
     },
     {
-      "nazwa": "Lipinki",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Lippinken"
-      ]
-    },
-    {
       "nazwa": "Lipinki Szlacheckie",
       "lokalizacja": "woj. pomorskie, pow. starogardzki",
       "inne_nazwy": [
@@ -17185,16 +17110,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. gryfiński",
       "inne_nazwy": [
         "Niederlübbichow"
-      ],
-      "notka": "wcześniej: Nieder Lübbichow"
+      ]
     },
     {
       "nazwa": "Lubiechów Górny",
       "lokalizacja": "woj. zachodniopomorskie, pow. gryfiński",
       "inne_nazwy": [
         "Hohenlübbichow"
-      ],
-      "notka": "wcześniej: Hohen Lübbichow"
+      ]
     },
     {
       "nazwa": "Lubiechowo",
@@ -17371,8 +17294,7 @@
       "lokalizacja": "woj. wielkopolskie, pow. poznański",
       "inne_nazwy": [
         "Luban",
-        "Lobau",
-        "od 1954 r. miasto Luboń"
+        "Lobau"
       ]
     },
     {
@@ -17432,14 +17354,6 @@
       ]
     },
     {
-      "nazwa": "Lubuchów",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Lubuchow b",
-        "Stargard"
-      ]
-    },
-    {
       "nazwa": "Ludów Śląski",
       "lokalizacja": "woj. dolnośląskie, pow. strzeliński",
       "inne_nazwy": [
@@ -17465,16 +17379,14 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. białogardzki",
       "inne_nazwy": [
         "Alt Lülfitz"
-      ],
-      "notka": "wcześniej: Alt Lüllfitz"
+      ]
     },
     {
       "nazwa": "Lulewiczki",
       "lokalizacja": "woj. zachodniopomorskie, pow. białogardzki",
       "inne_nazwy": [
         "Neu Lülfitz"
-      ],
-      "notka": "wcześniej: Neu Lüllfitz"
+      ]
     },
     {
       "nazwa": "Lulkowo",
@@ -17519,13 +17431,6 @@
       ]
     },
     {
-      "nazwa": "Lutry",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Lautern"
-      ]
-    },
-    {
       "nazwa": "Lutynia",
       "lokalizacja": "woj. dolnośląskie, pow. średzki",
       "inne_nazwy": [
@@ -17566,7 +17471,7 @@
       "nazwa": "Lwówek",
       "lokalizacja": "woj. wielkopolskie, pow. nowotomyski",
       "inne_nazwy": [
-        "Neustadt (bei Pinne)",
+        "Neustadt",
         "Kirschneustadt"
       ]
     },
@@ -17701,8 +17606,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
         "Neumalchow"
-      ],
-      "notka": "wcześniej: Neu Malchow"
+      ]
     },
     {
       "nazwa": "Malechowo",
@@ -18094,8 +17998,6 @@
       "inne_nazwy": [
         "Malgow",
         "Sonnenhof",
-        "1940-1941 Sonnenfeld",
-        "1941-1945 Sonnenfeld (Kreis Krotoschin",
         "Sonnenfeld",
         "Kreis",
         "Krotoschin"
@@ -18507,8 +18409,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. koszaliński",
       "inne_nazwy": [
         "Kleinmöllen"
-      ],
-      "notka": "wcześniej: Klein Möllen"
+      ]
     },
     {
       "nazwa": "Mielenko Drawskie",
@@ -18537,8 +18438,7 @@
       "inne_nazwy": [
         "Groß Möllen",
         "Großmöllen"
-      ],
-      "notka": "wcześniej: Groß Möllen"
+      ]
     },
     {
       "nazwa": "Mielno",
@@ -18671,13 +18571,6 @@
       "lokalizacja": "woj. pomorskie, pow. kartuski",
       "inne_nazwy": [
         "Mëdżi"
-      ]
-    },
-    {
-      "nazwa": "Mikolajki, Dybowo",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Diebau"
       ]
     },
     {
@@ -19304,13 +19197,6 @@
       "lokalizacja": "woj. podkarpackie",
       "inne_nazwy": [
         "Mroczków"
-      ]
-    },
-    {
-      "nazwa": "Mortęgi",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Mortung"
       ]
     },
     {
@@ -20118,8 +20004,7 @@
       "inne_nazwy": [
         "Horst",
         "Horst Seebad"
-      ],
-      "notka": "wcześniej: Horst, podzielone na Groß Horst i Klein Horst"
+      ]
     },
     {
       "nazwa": "Niedalino",
@@ -20247,8 +20132,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. koszaliński",
       "inne_nazwy": [
         "Neuklenz"
-      ],
-      "notka": "wcześniej: Neu Klenz"
+      ]
     },
     {
       "nazwa": "Nieman",
@@ -21065,7 +20949,7 @@
       "nazwa": "Nowogród Bobrzański",
       "lokalizacja": "woj. lubuskie, pow. zielonogórski",
       "inne_nazwy": [
-        "Naumburg (an der Bober)"
+        "Naumburg"
       ]
     },
     {
@@ -21127,8 +21011,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. kołobrzeski",
       "inne_nazwy": [
         "Neubork"
-      ],
-      "notka": "wcześniej: Neu Bork"
+      ]
     },
     {
       "nazwa": "Nowy Bud",
@@ -21705,7 +21588,7 @@
       "inne_nazwy": [
         "Marggrabowa",
         "Treuburg",
-        "Oletzko (Treuburg)"
+        "Oletzko"
       ]
     },
     {
@@ -21834,15 +21717,7 @@
       "nazwa": "Olsztynek",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. olsztyński",
       "inne_nazwy": [
-        "Hohenstein (in Ostpreußen)",
         "Hohenstein"
-      ]
-    },
-    {
-      "nazwa": "Olsztynek, Sudawa",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Sauden"
       ]
     },
     {
@@ -22646,8 +22521,7 @@
       "lokalizacja": "woj. dolnośląskie, pow. miasto Wrocław",
       "inne_nazwy": [
         "Oltaschin",
-        "Herzogshufen",
-        "od 1951 r"
+        "Herzogshufen"
       ]
     },
     {
@@ -22708,7 +22582,6 @@
       "inne_nazwy": [
         "Peinstett",
         "Pfeilstett",
-        "1943–1945 Pfeilstädt",
         "Pfeilstädt"
       ]
     },
@@ -22717,13 +22590,6 @@
       "lokalizacja": "woj. dolnośląskie, pow. karkonoski",
       "inne_nazwy": [
         "Wernersdorf"
-      ]
-    },
-    {
-      "nazwa": "Palczew",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Palschau"
       ]
     },
     {
@@ -23033,8 +22899,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
         "Alt Paalow"
-      ],
-      "notka": "wcześniej: Palow"
+      ]
     },
     {
       "nazwa": "Pałubice",
@@ -23708,8 +23573,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. białogardzki",
       "inne_nazwy": [
         "Groß Pobloth"
-      ],
-      "notka": "wcześniej: Pobloth"
+      ]
     },
     {
       "nazwa": "Pociękarb",
@@ -24702,13 +24566,6 @@
     },
     {
       "nazwa": "Prusinowo",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Prutzenwalde"
-      ]
-    },
-    {
-      "nazwa": "Prusinowo",
       "lokalizacja": "woj. pomorskie, pow. człuchowski",
       "inne_nazwy": [
         "Prützenwalde"
@@ -25177,8 +25034,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. łobeski",
       "inne_nazwy": [
         "Klaushagen"
-      ],
-      "notka": "wcześniej: Claushagen"
+      ]
     },
     {
       "nazwa": "Przytór",
@@ -25426,7 +25282,6 @@
       "nazwa": "Pyrzyce",
       "lokalizacja": "woj. zachodniopomorskie, pow. pyrzycki",
       "inne_nazwy": [
-        "Pyritz (in Pommern)",
         "Pyritz"
       ]
     },
@@ -25880,8 +25735,7 @@
       "inne_nazwy": [
         "Coccejendorf",
         "Koccejendorf"
-      ],
-      "notka": "wcześniej: Coccejendorf"
+      ]
     },
     {
       "nazwa": "Radówek",
@@ -26540,13 +26394,6 @@
       ]
     },
     {
-      "nazwa": "Rogóż",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Roggenhausen"
-      ]
-    },
-    {
       "nazwa": "Rogozina",
       "lokalizacja": "woj. zachodniopomorskie, pow. gryficki",
       "inne_nazwy": [
@@ -27041,17 +26888,13 @@
       ]
     },
     {
-      "nazwa": "Ruciane-Nida, Nida",
-      "lokalizacja": "lokalizacja do uzupełnienia",
+      "nazwa": "Ruciane-Nida",
+      "lokalizacja": " woj. warmińsko-mazurskie, pow. piski",
       "inne_nazwy": [
-        "Nieden"
-      ]
-    },
-    {
-      "nazwa": "Ruciane-Nida, -Ruciane",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Rudczanny (Rudweiler)"
+        "Rudczanny",
+	"Niedersee",
+	"Ruciane",
+	"Nida"
       ]
     },
     {
@@ -27313,13 +27156,6 @@
       "lokalizacja": "woj. podkarpackie, pow. przemyski",
       "inne_nazwy": [
         "Honoffry"
-      ]
-    },
-    {
-      "nazwa": "Rychliki",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Reichenbach"
       ]
     },
     {
@@ -27649,8 +27485,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. kamieński",
       "inne_nazwy": [
         "Groß Revenow"
-      ],
-      "notka": "wcześniej: Revenow"
+      ]
     },
     {
       "nazwa": "Rzgów",
@@ -27743,7 +27578,7 @@
       "nazwa": "Sądówko",
       "lokalizacja": "woj. zachodniopomorskie, pow. stargardzki",
       "inne_nazwy": [
-        "Neu Sandow (Vorwerk)"
+        "Neu Sandow"
       ]
     },
     {
@@ -27795,8 +27630,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
         "Finnkaten"
-      ],
-      "notka": "wcześniej: Finnkathen"
+      ]
     },
     {
       "nazwa": "Samlino",
@@ -28147,24 +27981,46 @@
     },
     {
       "nazwa": "Siedlce",
-      "lokalizacja": "woj. mazowieckie, pow. Siedlce (grodzkie)",
+      "lokalizacja": "woj. mazowieckie, pow. miasto Siedlce",
       "inne_nazwy": [
-        "Schedlitz"
+        "Siedlecz",
+	"Szedlecz",
+	"Syedlecz",
+	"Siedletz",
+	"Sedletz",
+	"Седлец",
+	"Sedlec",
+	"Sedlits",
+	"Shedlits"
       ]
     },
     {
       "nazwa": "Siedlce",
       "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
       "inne_nazwy": [
-        "Schedlitz",
-        "Danzig-Schidlitz"
-      ]
+        "Szydlice",
+	"Siedlice",
+        "Danzig-Schidlitz",
+	"Schedelicz",
+	"Szëdlëce",
+	"Schidlitz",
+	"Siedlece"
+      ],
+	"notka": "Obecnie część Gdańska"
     },
     {
       "nazwa": "Siedlec",
       "lokalizacja": "woj. opolskie, pow. strzelecki",
       "inne_nazwy": [
-        "Schedlitz"
+        "Schedlitz",
+	"Siedlce"
+      ]
+    },
+    {
+      "nazwa": "Siedlec",
+      "lokalizacja": "woj. opolskie, pow. nyski",
+      "inne_nazwy": [
+	"Siedlce"
       ]
     },
     {
@@ -28294,8 +28150,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. drawski",
       "inne_nazwy": [
         "Jakobsdorf"
-      ],
-      "notka": "wcześniej: Jacobsdorf"
+      ]
     },
     {
       "nazwa": "Sienna",
@@ -28808,7 +28663,7 @@
       "nazwa": "Skwierzyna",
       "lokalizacja": "woj. lubuskie, pow. międzyrzecki",
       "inne_nazwy": [
-        "Schwerin (an der Warthe)"
+        "Schwerin"
       ]
     },
     {
@@ -29601,8 +29456,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. łobeski",
       "inne_nazwy": [
         "Alt Döberitz"
-      ],
-      "notka": "wcześniej: Döberitz"
+      ]
     },
     {
       "nazwa": "Stara Huta",
@@ -29909,17 +29763,11 @@
     },
     {
       "nazwa": "Stargard",
-      "lokalizacja": "woj. zachodniopomorskie, pow. stargardzki",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Stargard",
       "inne_nazwy": [
-        "Stargard (in Pommern)",
-        "Stargard in Pommern"
-      ]
-    },
-    {
-      "nazwa": "Stargard Gdański",
-      "lokalizacja": "woj. pomorskie, pow. starogardzki",
-      "inne_nazwy": [
-        "Preussisch Stargard"
+        "Stargard Szczecińsk",
+        "Stargard in Pommern",
+	"Stargard an der Ihna"
       ]
     },
     {
@@ -29941,14 +29789,17 @@
       "nazwa": "Starogard",
       "lokalizacja": "woj. zachodniopomorskie, pow. łobeski",
       "inne_nazwy": [
-        "Stargordt"
+        "Starogard Łobeski",
+	"Stargordt",
+	"Stargord"
       ]
     },
     {
       "nazwa": "Starogard Gdański",
       "lokalizacja": "woj. pomorskie, pow. starogardzki",
       "inne_nazwy": [
-        "Preußisch Stargard"
+        "Preußisch Stargard",
+	"Starogard"
       ]
     },
     {
@@ -29977,8 +29828,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. kołobrzeski",
       "inne_nazwy": [
         "Altbork"
-      ],
-      "notka": "wcześniej: Alt Bork"
+      ]
     },
     {
       "nazwa": "Stary Błeszyn",
@@ -30041,8 +29891,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. gryfiński",
       "inne_nazwy": [
         "Altküstrinchen"
-      ],
-      "notka": "wcześniej: Alt Küstrinchen"
+      ]
     },
     {
       "nazwa": "Stary Kraków",
@@ -30264,8 +30113,7 @@
       "inne_nazwy": [
         "Stepenitz",
         "Groß Stepenitz"
-      ],
-      "notka": "wcześniej: Stepenitz"
+      ]
     },
     {
       "nazwa": "Stepniczka",
@@ -30336,8 +30184,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. kołobrzeski",
       "inne_nazwy": [
         "Neu Stöckow"
-      ],
-      "notka": "wcześniej: Stöckow"
+      ]
     },
     {
       "nazwa": "Stolec",
@@ -30365,8 +30212,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. stargardzki",
       "inne_nazwy": [
         "Alt Storckow"
-      ],
-      "notka": "wcześniej: Storckow"
+      ]
     },
     {
       "nazwa": "Stołąż",
@@ -30509,8 +30355,6 @@
       "lokalizacja": "woj. wielkopolskie, pow. chodzieski",
       "inne_nazwy": [
         "Strosewo",
-        "i 1939–1943 Kirchdorf",
-        "1943–1945 Freienkirchdorf",
         "Kirchdorf",
         "Freienkirchdorf"
       ]
@@ -30884,8 +30728,7 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
         "Groß Soltikow"
-      ],
-      "notka": "wcześniej: Soltikow"
+      ]
     },
     {
       "nazwa": "Sulęcin",
@@ -31149,8 +30992,7 @@
       "inne_nazwy": [
         "Wiesenthal",
         "Schwenzendorf"
-      ],
-      "notka": "wcześniej: Schwenzendorf"
+      ]
     },
     {
       "nazwa": "Świecie",
@@ -32519,8 +32361,6 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
         "Alt Schlawin",
-        "r",
-        "wcześniej Scloutn",
         "Slouin",
         "Scloutn"
       ]
@@ -33163,7 +33003,6 @@
       "nazwa": "Trzebiatów",
       "lokalizacja": "woj. zachodniopomorskie, pow. gryficki",
       "inne_nazwy": [
-        "Treptow (an der Rega)",
         "Treptow"
       ]
     },
@@ -33235,7 +33074,7 @@
       "nazwa": "Trzebieszowice",
       "lokalizacja": "woj. dolnośląskie, pow. kłodzki",
       "inne_nazwy": [
-        "Kunzendorf (an der Biele)"
+        "Kunzendorf"
       ]
     },
     {
@@ -33492,13 +33331,6 @@
       ]
     },
     {
-      "nazwa": "Turza Mała",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Klein Tauersee"
-      ]
-    },
-    {
       "nazwa": "Turze",
       "lokalizacja": "woj. zachodniopomorskie, pow. pyrzycki",
       "inne_nazwy": [
@@ -33624,8 +33456,7 @@
       "inne_nazwy": [
         "Tychow",
         "Wendisch Tychow"
-      ],
-      "notka": "wcześniej: Wendisch Tychow"
+      ]
     },
     {
       "nazwa": "Tychy",
@@ -33682,13 +33513,13 @@
       ]
     },
     {
-      "nazwa": "Tyń (Tyn)",
+      "nazwa": "Tyń",
       "lokalizacja": "woj. zachodniopomorskie, pow. sławieński",
       "inne_nazwy": [
         "Thyn",
-        "Thieuen"
-      ],
-      "notka": "wcześniej: Thieuen"
+        "Thieuen",
+	"Tyn"
+      ]
     },
     {
       "nazwa": "Tynwałd",
@@ -33767,8 +33598,7 @@
       "inne_nazwy": [
         "Ueckerhof",
         "Ückerhof"
-      ],
-      "notka": "wcześniej: Ückerhof"
+      ]
     },
     {
       "nazwa": "Ulikowo",
@@ -34362,8 +34192,7 @@
       "inne_nazwy": [
         "Klein Reinkendorf",
         "Reinkendorf"
-      ],
-      "notka": "wcześniej: Reinkendorf"
+      ]
     },
     {
       "nazwa": "Warłów",
@@ -34657,13 +34486,6 @@
       ]
     },
     {
-      "nazwa": "Wichórze",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Wichorsee"
-      ]
-    },
-    {
       "nazwa": "Wichów",
       "lokalizacja": "woj. lubuskie, pow. nowosolski",
       "inne_nazwy": [
@@ -34705,8 +34527,7 @@
         "Vietzkerstrand",
         "Vietziger Strand",
         "Vietzker Strand"
-      ],
-      "notka": "wcześniej: Vietziger Strand, Vietzker Strand"
+      ]
     },
     {
       "nazwa": "Widlino",
@@ -34814,8 +34635,7 @@
       "inne_nazwy": [
         "Wieck",
         "Neu Wieck"
-      ],
-      "notka": "wcześniej: Wieck"
+      ]
     },
     {
       "nazwa": "Wiekowo",
@@ -35001,10 +34821,11 @@
       ]
     },
     {
-      "nazwa": "Wieniotowo (Wieniatowo)",
+      "nazwa": "Wieniotowo",
       "lokalizacja": "woj. zachodniopomorskie, pow. kołobrzeski",
       "inne_nazwy": [
-        "Wendhagen"
+        "Wendhagen",
+	"Wieniatowo"
       ]
     },
     {
@@ -35451,8 +35272,7 @@
       "inne_nazwy": [
         "Wierow",
         "Wyrow"
-      ],
-      "notka": "wcześniej: Wyrow"
+      ]
     },
     {
       "nazwa": "Wiry",
@@ -35577,8 +35397,7 @@
       "inne_nazwy": [
         "Rönnenwerder",
         "Rönnewerder"
-      ],
-      "notka": "wcześniej: Rönnewerder"
+      ]
     },
     {
       "nazwa": "Witoszów Dolny",
@@ -35607,8 +35426,7 @@
       "inne_nazwy": [
         "Adolfium",
         "Adolphium"
-      ],
-      "notka": "wcześniej: Adolphium"
+      ]
     },
     {
       "nazwa": "Witosławice",
@@ -35763,8 +35581,7 @@
       "lokalizacja": "woj. dolnośląskie, pow. miasto Wrocław",
       "inne_nazwy": [
         "Woischwitz",
-        "Hoinstein",
-        "od 1951 r"
+        "Hoinstein"
       ]
     },
     {
@@ -35838,7 +35655,7 @@
       ]
     },
     {
-      "nazwa": "Wolin (miasto)",
+      "nazwa": "Wolin",
       "lokalizacja": "woj. zachodniopomorskie, pow. kamieński",
       "inne_nazwy": [
         "Wollin"
@@ -35975,13 +35792,6 @@
       "inne_nazwy": [
         "Wrotzlawken",
         "Atzmannsdorf"
-      ]
-    },
-    {
-      "nazwa": "Wroki",
-      "lokalizacja": "lokalizacja do uzupełnienia",
-      "inne_nazwy": [
-        "Wrotzk"
       ]
     },
     {
@@ -36398,8 +36208,7 @@
       "inne_nazwy": [
         "Wismar",
         "Wissmar"
-      ],
-      "notka": "wcześniej: Wissmar"
+      ]
     },
     {
       "nazwa": "Wytowno",
@@ -36519,16 +36328,15 @@
       "inne_nazwy": [
         "Zabelkau",
         "Schurgersdorf",
-        "od 1939 r. Ruderswald II",
-        "Ruderswald",
-        "II"
+        "Ruderswald"
       ]
     },
     {
       "nazwa": "Żabianka",
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
-        "Schabionken (bei Schwintsch)"
+        "Schabionken",
+	"Schwintsch"
       ]
     },
     {
@@ -36558,8 +36366,6 @@
       "lokalizacja": "woj. wielkopolskie, pow. poznański",
       "inne_nazwy": [
         "Zabikowo",
-        "Poggenburg (z obozem karno-śledczym",
-        "od 1954 r",
         "Poggenburg",
         "Lubonia"
       ]
@@ -36688,8 +36494,7 @@
       "nazwa": "Zabrze",
       "lokalizacja": "woj. śląskie, pow. miasto Zabrze",
       "inne_nazwy": [
-        "Hindenburg",
-        "r"
+        "Hindenburg"
       ]
     },
     {
@@ -37061,8 +36866,7 @@
       "inne_nazwy": [
         "Neusarnow",
         "Neu Sarnow"
-      ],
-      "notka": "wcześniej: Neu Sarnow"
+      ]
     },
     {
       "nazwa": "Żarnowo",
@@ -37070,8 +36874,7 @@
       "inne_nazwy": [
         "Altsarnow",
         "Alt Sarnow"
-      ],
-      "notka": "wcześniej: Alt Sarnow"
+      ]
     },
     {
       "nazwa": "Zarośle",
@@ -38106,7 +37909,7 @@
       "nazwa": "Żuków",
       "lokalizacja": "woj. zachodniopomorskie, pow. pyrzycki",
       "inne_nazwy": [
-        "Suckow (am Plöne)"
+        "Suckow"
       ]
     },
     {
@@ -38150,7 +37953,7 @@
       "nazwa": "Żukowo",
       "lokalizacja": "woj. zachodniopomorskie, pow. stargardzki",
       "inne_nazwy": [
-        "Suckow (am Ihna)"
+        "Suckow"
       ]
     },
     {
@@ -38526,7 +38329,7 @@
       "nazwa": "Łącznik",
       "lokalizacja": "woj. opolskie, pow. prudnicki",
       "inne_nazwy": [
-        "Wiesengrund O.S.",
+        "Wiesengrund",
         "Lonschnik"
       ]
     },
@@ -38622,7 +38425,7 @@
       ]
     },
     {
-      "nazwa": "Łąki (Łąkie)",
+      "nazwa": "Łąki",
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
         "Lonken"
@@ -38895,7 +38698,7 @@
       "nazwa": "Łęczynko",
       "lokalizacja": "woj. zachodniopomorskie, pow. białogardzki",
       "inne_nazwy": [
-        "Lenzen (Vorwerk)"
+        "Lenzen"
       ]
     },
     {
@@ -38911,8 +38714,7 @@
       "inne_nazwy": [
         "Laak",
         "Langen"
-      ],
-      "notka": "wcześniej: Laack"
+      ]
     },
     {
       "nazwa": "Łęgno",
@@ -38958,11 +38760,12 @@
       ]
     },
     {
-      "nazwa": "Łekno (Łękno)",
+      "nazwa": "Łekno",
       "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Westend",
-        "Neu Westend"
+        "Neu Westend",
+	"Łękno"
       ],
       "notka": "dzielnica Szczecina"
     },
