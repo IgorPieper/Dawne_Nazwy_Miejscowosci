@@ -5810,7 +5810,8 @@
       "nazwa": "Dąbrowa Górnicza",
       "lokalizacja": "woj. śląskie, pow. miasto Dąbrowa Górnicza",
       "inne_nazwy": [
-        "Dobrau"
+        "Dąbrowa",
+		"Dombrowa"
       ]
     },
     {
@@ -7689,7 +7690,10 @@
       "nazwa": "Elbląg",
       "lokalizacja": "woj. warmińsko-mazurskie, pow. miasto Elbląg",
       "inne_nazwy": [
-        "Elbing"
+        "Elbing",
+		"Elbinga",
+		"Elbingum",
+		"Elbingus"
       ]
     },
     {
@@ -8859,7 +8863,7 @@
       "nazwa": "Gorzów Wielkopolski",
       "lokalizacja": "woj. lubuskie, pow. miasto Gorzów Wielkopolski",
       "inne_nazwy": [
-        "Landsberg"
+        "Landsberg an der Warthe"
       ]
     },
     {
@@ -9699,7 +9703,9 @@
       "nazwa": "Grudziądz",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. miasto Grudziądz",
       "inne_nazwy": [
-        "Graudenz"
+        "Graudenz",
+		"Graudentum",
+		"Graudentium"
       ]
     },
     {
@@ -11889,15 +11895,15 @@
       "nazwa": "Kalisz",
       "lokalizacja": "woj. pomorskie, pow. kościerski",
       "inne_nazwy": [
-        "Kalisch",
-        "Kalisz"
+        "Kalisch"
       ]
     },
     {
       "nazwa": "Kalisz",
-      "lokalizacja": "woj. wielkopolskie, pow. kaliski",
+      "lokalizacja": "woj. wielkopolskie, pow. miasto Kalisz",
       "inne_nazwy": [
-        "Kalisch"
+        "Calisia",
+		"קאַליש‎"
       ]
     },
     {
@@ -16304,7 +16310,10 @@
       "nazwa": "Legnica",
       "lokalizacja": "woj. dolnośląskie, pow. miasto Legnica",
       "inne_nazwy": [
-        "Liegnitz"
+        "Liegnitz",
+		"Lignica",
+		"Lehnice",
+		"Lignitium"
       ]
     },
     {
@@ -32441,7 +32450,11 @@
       "nazwa": "Słupsk",
       "lokalizacja": "woj. pomorskie, pow. miasto Słupsk",
       "inne_nazwy": [
-        "Stolp"
+        "Stolp",
+		"Słëpsk",
+		"Słëpskò",
+		"Stôłpsk",
+		"Stôłp"
       ]
     },
     {
@@ -32529,7 +32542,10 @@
       "nazwa": "Tarnów",
       "lokalizacja": "woj. małopolskie, pow. miasto Tarnów",
       "inne_nazwy": [
-        "Tarnau"
+        "Tharnow",
+		"Tarnowo",
+		"Tarnow",
+		"Tharnow"
       ]
     },
     {
@@ -34305,7 +34321,11 @@
       "nazwa": "Wałbrzych",
       "lokalizacja": "woj. dolnośląskie, pow. wałbrzyski",
       "inne_nazwy": [
-        "Waldenburg"
+        "Waldenburg",
+		"Walmbrig",
+		"Walmbrich",
+		"Valdenburk",
+		"Valbřich"
       ]
     },
     {
@@ -36302,7 +36322,13 @@
       "nazwa": "Włocławek",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. miasto Włocławek",
       "inne_nazwy": [
-        "Leslau"
+        "Leslau",
+		"Władysławia",
+		"Wladislau castro",
+		"Wladislaw",
+		"vetus Vladislavia",
+		"Wladislavia",
+		"Włodsław"
       ]
     },
     {
