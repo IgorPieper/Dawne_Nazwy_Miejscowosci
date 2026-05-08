@@ -4645,7 +4645,8 @@
       "lokalizacja": "woj. pomorskie, pow. miasto Gdynia",
       "inne_nazwy": [
         "Kielau",
-        "Gdynia"
+        "Chiloniô",
+		"Kilona"
       ],
       "notka": "Obecnie część Gdyni"
     },
@@ -4953,8 +4954,11 @@
       "nazwa": "Cisowa",
       "lokalizacja": "woj. pomorskie, pow. miasto Gdynia",
       "inne_nazwy": [
-        "Ziessau"
-      ]
+        "Ziessau",
+		"Cësowô",
+		"Ciessau"
+      ],
+      "notka": "Obecnie część Gdyni"
     },
     {
       "nazwa": "Cisowo",
@@ -16225,7 +16229,8 @@
         "Lewino",
         "Łebno",
         "Lãbórg",
-        "Lãbórch"
+        "Lãbórch",
+		"Lauenburg in Pommern"
       ]
     },
     {
@@ -21646,7 +21651,10 @@
       "nazwa": "Oliwa",
       "lokalizacja": "woj. pomorskie, pow. miasto Gdańsk",
       "inne_nazwy": [
-        "Oliva"
+        "Oliva",
+		"Òlëwa",
+		"Òléwa",
+		"Olyva"
       ],
       "notka": "Obecnie część Gdańska"
     },
