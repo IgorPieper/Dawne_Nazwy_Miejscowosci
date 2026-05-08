@@ -72,7 +72,8 @@
       "lokalizacja": "woj. śląskie, pow. miasto Bielsko-Biała",
       "inne_nazwy": [
         "Alexanderfeld"
-      ]
+      ],
+	"notka": "Obecnie część Bielsko-Białej"
     },
     {
       "nazwa": "Ameryka",
@@ -1191,18 +1192,21 @@
         "Ball"
       ]
     },
+	{
+      "nazwa": "Biała",
+      "lokalizacja": "woj. śląskie, pow. miasto Bielsko-Biała",
+      "inne_nazwy": [
+        "Biała Krakowska",
+		"Biala",
+		"Beil"
+      ],
+	"notka": "Obecnie część Bielsko-Białej"
+    },
     {
       "nazwa": "Biała Góra",
       "lokalizacja": "woj. pomorskie, pow. kościerski",
       "inne_nazwy": [
         "Biôłô Góra"
-      ]
-    },
-    {
-      "nazwa": "Biała Krakowska",
-      "lokalizacja": "woj. śląskie, pow. miasto Bielsko-Biała",
-      "inne_nazwy": [
-        "Biala"
       ]
     },
     {
@@ -1601,7 +1605,8 @@
       "nazwa": "Bielsko-Biała",
       "lokalizacja": "woj. śląskie, pow. miasto Bielsko-Biała",
       "inne_nazwy": [
-        "Bielitz-Biala"
+        "Bielitz-Biala",
+		"Bílsko-Bělá"
       ]
     },
     {
@@ -3596,7 +3601,12 @@
       "lokalizacja": "woj. kujawsko-pomorskie, pow. miasto Bydgoszcz",
       "inne_nazwy": [
         "Bromberg",
-        "Bidgostia"
+        "Bidgostia",
+		"Bidgosciam",
+		"Budegosta",
+		"Bidgoscha",
+		"Bydgost",
+		"Kunigesburg"
       ]
     },
     {
@@ -5712,8 +5722,11 @@
       "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Altdamm",
-        "Szczecina"
-      ]
+        "Vadam",
+		"Dąb",
+		"Dąb Stary"
+      ],
+	"notka": "Obecnie część Szczecina"
     },
     {
       "nazwa": "Dąbki",
@@ -8369,7 +8382,8 @@
       "nazwa": "Gliwice",
       "lokalizacja": "woj. śląskie, pow. miasto Gliwice",
       "inne_nazwy": [
-        "Gleiwitz"
+        "Gleiwitz",
+		"Glywice"
       ]
     },
     {
@@ -9335,10 +9349,9 @@
       "nazwa": "Grabowo",
       "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
-        "Bredow",
-        "Grabow",
-        "Szczecina"
-      ]
+        "Grabow"
+      ],
+	"notka": "Obecnie część Szczecina"
     },
     {
       "nazwa": "Grabowo",
@@ -10306,7 +10319,8 @@
       "lokalizacja": "woj. śląskie, pow. miasto Bielsko-Biała",
       "inne_nazwy": [
         "Alzen"
-      ]
+      ],
+	"notka":"Obecnie część Bielsko-Białej"
     },
     {
       "nazwa": "Hejtus",
@@ -11993,7 +12007,8 @@
       "lokalizacja": "woj. śląskie, pow. miasto Bielsko-Biała",
       "inne_nazwy": [
         "Kamitz"
-      ]
+      ],
+	"notka":"Obecnie część Bielsko-Białej"
     },
     {
       "nazwa": "Kamienica Królewska",
@@ -12878,9 +12893,14 @@
     },
     {
       "nazwa": "Kielce",
-      "lokalizacja": "woj. świętokrzyskie, pow. kielecki",
+      "lokalizacja": "woj. świętokrzyskie, pow. miasto Kielce",
       "inne_nazwy": [
-        "Kiel"
+        "Kiełce",
+		"Kylcensis",
+		"Kyelcensis",
+		"Kieltz",
+		"Kelcze",
+		"Kjelce"
       ]
     },
     {
@@ -12976,7 +12996,7 @@
     },
     {
       "nazwa": "Kijewo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
+      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
         "Rosengarten"
       ],
@@ -13261,17 +13281,9 @@
       "nazwa": "Klucz",
       "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
-        "Klütz",
-        "Szczecina"
-      ]
-    },
-    {
-      "nazwa": "Klucz",
-      "lokalizacja": "woj. zachodniopomorskie, pow. Szczecin",
-      "inne_nazwy": [
         "Klütz"
       ],
-      "notka": "dzielnica Szczecina"
+	"notka": "Obecnie część Szczecina"
     },
     {
       "nazwa": "Kluczbork",
@@ -13678,7 +13690,8 @@
       "lokalizacja": "woj. śląskie, pow. miasto Bielsko-Biała",
       "inne_nazwy": [
         "Batzdorf"
-      ]
+      ],
+	"notka":"Obecnie część Bielsko-Białej"
     },
     {
       "nazwa": "Komorówko",
@@ -16510,7 +16523,8 @@
       "lokalizacja": "woj. śląskie, pow. miasto Bielsko-Biała",
       "inne_nazwy": [
         "Nussdorf"
-      ]
+      ],
+	"notka":"Obecnie część Bielsko-Białej"
     },
     {
       "nazwa": "Leszczyny",
@@ -16871,7 +16885,8 @@
       "lokalizacja": "woj. śląskie, pow. miasto Bielsko-Biała",
       "inne_nazwy": [
         "Kunzendorf"
-      ]
+      ],
+	"notka":"Obecnie część Bielsko-Białej"
     },
     {
       "nazwa": "Lipnik",
@@ -17254,6 +17269,14 @@
       "lokalizacja": "woj. pomorskie, pow. gdański",
       "inne_nazwy": [
         "Löblau"
+      ]
+    },
+	{
+      "nazwa": "Lublin",
+      "lokalizacja": "woj. lubelskie, pow. miasto Lublin",
+      "inne_nazwy": [
+        "Lublinum",
+        "לובלין"
       ]
     },
     {
@@ -18648,19 +18671,20 @@
     },
     {
       "nazwa": "Mikulczyce",
-      "lokalizacja": "woj. śląskie, pow. Zabrze",
+      "lokalizacja": "woj. śląskie, pow. miasto Zabrze",
       "inne_nazwy": [
         "Mikultschütz",
-        "Klausberg",
-        "Zabrze"
-      ]
+        "Klausberg"
+      ],
+	"notka": "Obecnie część Zabrza"
     },
     {
       "nazwa": "Mikuszowice",
       "lokalizacja": "woj. śląskie, pow. miasto Bielsko-Biała",
       "inne_nazwy": [
         "Nikelsdorf"
-      ]
+      ],
+	"notka":"Obecnie część Bielsko-Białej"
     },
     {
       "nazwa": "Mikułowa",
@@ -19998,15 +20022,7 @@
       "inne_nazwy": [
         "Zabelsdorf"
       ],
-      "notka": "dzielnica Szczecina"
-    },
-    {
-      "nazwa": "Niebuszewo",
-      "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
-      "inne_nazwy": [
-        "Zabelsdorf",
-        "Szczecina"
-      ]
+      "notka": "Obecnie część Szczecina"
     },
     {
       "nazwa": "Niechlów",
@@ -21711,7 +21727,8 @@
       "lokalizacja": "woj. śląskie, pow. miasto Bielsko-Biała",
       "inne_nazwy": [
         "Ohlisch"
-      ]
+      ],
+	"notka":"Obecnie część Bielsko-Białej"
     },
     {
       "nazwa": "Olsztyn",
@@ -25679,13 +25696,6 @@
       ]
     },
     {
-      "nazwa": "Radom",
-      "lokalizacja": "woj. mazowieckie, pow. radomski",
-      "inne_nazwy": [
-        "Rothen"
-      ]
-    },
-    {
       "nazwa": "Radomierowice",
       "lokalizacja": "woj. opolskie, pow. opolski",
       "inne_nazwy": [
@@ -29180,7 +29190,8 @@
       "nazwa": "Sosnowice",
       "lokalizacja": "woj. zachodniopomorskie, pow. goleniowski",
       "inne_nazwy": [
-        "Heinrichshof"
+        "Heinrichshof",
+		"Henryków"
       ]
     },
     {
@@ -29607,7 +29618,8 @@
       "lokalizacja": "woj. śląskie, pow. miasto Bielsko-Biała",
       "inne_nazwy": [
         "Alt Bielitz"
-      ]
+      ],
+	"notka":"Obecnie część Bielsko-Białej"
     },
     {
       "nazwa": "Stare Brynki",
@@ -30304,7 +30316,8 @@
       "lokalizacja": "woj. śląskie, pow. miasto Bielsko-Biała",
       "inne_nazwy": [
         "Drösseldorf"
-      ]
+      ],
+	"notka":"Obecnie część Bielsko-Białej"
     },
     {
       "nazwa": "Strączno",
@@ -31884,9 +31897,9 @@
       "nazwa": "Szombierki",
       "lokalizacja": "woj. śląskie, pow. miasto Bytom",
       "inne_nazwy": [
-        "Schomberg",
-        "Bytomia"
-      ]
+        "Schomberg"
+      ],
+	"notka":"Obecnie część Bytomia"
     },
     {
       "nazwa": "Szopa",
@@ -32775,7 +32788,9 @@
       "nazwa": "Toruń",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. miasto Toruń",
       "inne_nazwy": [
-        "Thorn"
+        "Thorn",
+		"Thorunia",
+		"Torunium"
       ]
     },
     {
@@ -33482,7 +33497,8 @@
       "nazwa": "Tychy",
       "lokalizacja": "woj. śląskie, pow. tyski",
       "inne_nazwy": [
-        "Tichau"
+        "Tichau",
+		"Tichov"
       ]
     },
     {
@@ -33946,7 +33962,8 @@
       "lokalizacja": "woj. śląskie, pow. miasto Bielsko-Biała",
       "inne_nazwy": [
         "Lobnitz"
-      ]
+      ],
+	"notka":"Obecnie część Bielsko-Białej"
     },
     {
       "nazwa": "Waplewo",
@@ -36518,7 +36535,8 @@
       "nazwa": "Zabrze",
       "lokalizacja": "woj. śląskie, pow. miasto Zabrze",
       "inne_nazwy": [
-        "Hindenburg"
+        "Hindenburg",
+		"Zobrze"
       ]
     },
     {
@@ -37239,10 +37257,9 @@
       "nazwa": "Zdroje",
       "lokalizacja": "woj. zachodniopomorskie, pow. miasto Szczecin",
       "inne_nazwy": [
-        "Finkenwalde",
-        "Szczecina"
+        "Finkenwalde"
       ],
-      "notka": "dzielnica Szczecina"
+      "notka": "Obecnie część Szczecina"
     },
     {
       "nazwa": "Zdunowice",
@@ -37663,14 +37680,19 @@
       "nazwa": "Zielona Góra",
       "lokalizacja": "woj. lubuskie, pow. miasto Zielona Góra",
       "inne_nazwy": [
-        "Grünberg"
+        "Grünberg",
+		"Thalloris",
+		"Prasia Elysiorum",
+		"Zelená Hora",
+		"Grinberg",
+		"Winny Gród"
       ]
     },
     {
       "nazwa": "Zielona Góra",
       "lokalizacja": "woj. pomorskie, pow. starogardzki",
       "inne_nazwy": [
-        "Grünberg"
+        "Zelonô Góra"
       ]
     },
     {
@@ -38751,8 +38773,11 @@
       "nazwa": "Łęgnowo",
       "lokalizacja": "woj. kujawsko-pomorskie, pow. miasto Bydgoszcz",
       "inne_nazwy": [
-        "Langenau"
-      ]
+        "Langenau",
+		"Czersk Niemiecki",
+		"Grünbach"
+      ],
+	"notka": "Obecnie część Bydgoszczy"
     },
     {
       "nazwa": "Łęgowo",
