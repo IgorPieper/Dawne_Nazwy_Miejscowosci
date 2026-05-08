@@ -12623,6 +12623,15 @@
         "Bruchwinkel"
       ]
     },
+	{
+      "nazwa": "Kazimierz",
+      "lokalizacja": "woj. małopolskie, pow. miasto Kraków",
+      "inne_nazwy": [
+        "Kuzmark",
+        "קוזמאַרק"
+      ],
+	"notka": "Obecnie część Krakowa"
+    },
     {
       "nazwa": "Kazimierz Pomorski",
       "lokalizacja": "woj. zachodniopomorskie, pow. koszaliński",
@@ -14841,7 +14850,10 @@
       "inne_nazwy": [
         "Krakau",
         "Cracovia",
-        "Krak"
+        "Krak",
+		"Cracoua",
+		"Krakus",
+		"Cracow"
       ]
     },
     {
@@ -19493,7 +19505,7 @@
     },
     {
       "nazwa": "Muczne",
-      "lokalizacja": "woj. podkarpackie",
+      "lokalizacja": "woj. podkarpackie, pow. bieszczadzki",
       "inne_nazwy": [
         "Kazimierzowo"
       ]
@@ -35589,8 +35601,13 @@
       "lokalizacja": "woj. dolnośląskie, pow. miasto Wrocław",
       "inne_nazwy": [
         "Woischwitz",
-        "Hoinstein"
-      ]
+        "Hoinstein",
+		"Woysici",
+		"Wischowicz",
+		"Woyschisz",
+		"Uścimów"
+      ],
+	"notka": "Obecnie część Wrocławia"
     },
     {
       "nazwa": "Wojtaszyce",
@@ -35791,8 +35808,7 @@
         "Vratislav",
         "Wratislavia",
         "Wrocisław"
-      ],
-      "notka": "Test"
+      ]
     },
     {
       "nazwa": "Wrocławki",
