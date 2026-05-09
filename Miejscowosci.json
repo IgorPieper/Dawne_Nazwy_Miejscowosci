@@ -8143,7 +8143,8 @@
         "Danzer",
         "Wolne Miasto Gdańsk",
         "Freie Stadt Danzig"
-      ]
+      ],
+	"notka": "Jest częścią Trójmiasta [Tricity / Trzëgard / Dreistadt]"
     },
     {
       "nazwa": "Gdynia",
@@ -8153,7 +8154,8 @@
         "Gotenhafen",
         "Gdinam",
         "Gdina"
-      ]
+      ],
+	"notka": "Jest częścią Trójmiasta [Tricity / Trzëgard / Dreistadt]"
     },
     {
       "nazwa": "Gębice",
@@ -29220,7 +29222,8 @@
         "Zoppot",
         "Copot",
         "Sopoth"
-      ]
+      ],
+	"notka": "Jest częścią Trójmiasta [Tricity / Trzëgard / Dreistadt]"
     },
     {
       "nazwa": "Sośnica",
